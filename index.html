@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>UC Markets — Long-Wait Flag Board (GA / SC / OH / MI)</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.9/babel.min.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Inter', -apple-system, sans-serif; background: #F5F5F5; color: #212121; }
+  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.4} }
+  @keyframes fadeIn { from{opacity:0;transform:translateY(4px)} to{opacity:1;transform:translateY(0)} }
+  .tab-btn { padding: 8px 18px; border-radius: 22px; font-size: 13px; font-weight: 600; cursor: pointer; border: 1px solid #E0E0E0; background: #fff; color: #424242; transition: all .15s; display:inline-flex; align-items:center; gap:8px; }
+  .tab-btn:hover { background: #F1F8E9; color: #2E7D32; }
+  .tab-btn.active { background: #2E7D32; color: #fff; border-color: #2E7D32; }
+  .tab-btn .count { background: rgba(0,0,0,.08); color: inherit; padding: 1px 8px; border-radius: 10px; font-size: 11px; font-family: 'JetBrains Mono',monospace; }
+  .tab-btn.active .count { background: rgba(255,255,255,.25); }
+  .row-flag { background: #FFFDE7 !important; }
+  .row-flag:hover { background: #FFF59D !important; }
+  .row:hover { background: #F1F8E9; }
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script type="text/babel">
+const { useState, useEffect, useMemo } = React;
+
+/* ─────────────────────────────────────────────────────────────
+   MARKET CONFIG
+   Each market points at the wait_alerts.json published by that
+   market's hourly scraper. Adjust the URLs after you stand up
+   each market's GitHub Pages site.
+
+   `ours` — the systemName / locationName substring that flags
+   "our" centers in that market. Case-insensitive contains match.
+
+   `threshold` — minimum minutes from scrape time to count as
+   a long-wait alert. Default 60 (one hour).
+   ─────────────────────────────────────────────────────────── */
+const MARKETS = {
+  GA: {
+    label: "Georgia",
+    state: "GA",
+    accent: "#2E7D32",
+    ours: "Piedmont",
+    threshold: 60,
+    sources: [
+      "./wait_alerts.json",
+      "./ga/wait_alerts.json",
+      "https://duchynski.github.io/access-intel-web/wait_alerts.json",
+    ],
+  },
+  SC: {
+    label: "South Carolina",
+    state: "SC",
+    accent: "#0277BD",
+    ours: "Prisma",
+    threshold: 60,
+    sources: [
+      "./sc/wait_alerts.json",
+      "https://duchynski.github.io/access-intel-sc-web/wait_alerts.json",
+    ],
+  },
+  OH: {
+    label: "Ohio",
+    state: "OH",
+    accent: "#C62828",
+    ours: "University Hospitals",
+    threshold: 60,
+    sources: [
+      "./oh/wait_alerts.json",
+      "https://duchynski.github.io/access-intel-oh-web/wait_alerts.json",
+    ],
+  },
+  MI: {
+    label: "Michigan",
+    state: "MI",
+    accent: "#6A1B9A",
+    ours: "Corewell",
+    threshold: 60,
+    sources: [
+      "./mi/wait_alerts.json",
+      "https://duchynski.github.io/access-intel-mi-web/wait_alerts.json",
+    ],
+  },
+};
+
+const TAB_ORDER = ["GA", "SC", "OH", "MI"];
+
+/* ─── helpers ─── */
+function isOurs(entry, ourSubstr) {
+  if (!ourSubstr) return false;
+  const hay = [
+    entry.locationName || "",
+    entry.systemName || "",
+    entry.system || "",
+  ].join(" ").toLowerCase();
+  return hay.includes(ourSubstr.toLowerCase());
+}
+
+async function fetchFirstAvailable(urls) {
+  for (const url of urls) {
+    try {
+      const resp = await fetch(url + (url.includes("?") ? "&" : "?") + "t=" + Date.now(), { cache: "no-store" });
+      if (!resp.ok) continue;
+      const data = await resp.json();
+      if (data && Array.isArray(data.entries)) {
+        return { ok: true, data, url };
+      }
+    } catch (e) {
+      // keep trying
+    }
+  }
+  return { ok: false };
+}
+
+function todayISO() {
+  return new Date().toISOString().slice(0,10);
+}
+
+function formatDate(iso) {
+  if (!iso) return "";
+  const d = new Date(iso + "T12:00:00");
+  const weekday = ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"][d.getDay()];
+  return `${weekday} ${d.getMonth()+1}/${d.getDate()}`;
+}
+
+function waitColor(min) {
+  if (min >= 180) return "#C62828";
+  if (min >= 120) return "#E65100";
+  return "#F57F17";
+}
+
+/* ─── components ─── */
+function MarketTab({ marketKey, active, onClick, count }) {
+  const m = MARKETS[marketKey];
+  return (
+    <button className={"tab-btn" + (active ? " active" : "")} onClick={onClick}
+      style={active ? { background: m.accent, borderColor: m.accent } : {}}>
+      <span>{m.state}</span>
+      <span style={{ fontSize: 11, fontWeight: 500, opacity: .85 }}>{m.label}</span>
+      <span className="count">{count}</span>
+    </button>
+  );
+}
+
+function StatusPill({ tone, children }) {
+  const colors = {
+    live: { bg: "#E8F5E9", color: "#1B5E20", border: "#A5D6A7" },
+    stale: { bg: "#FFF3E0", color: "#E65100", border: "#FFB74D" },
+    missing: { bg: "#FFEBEE", color: "#C62828", border: "#EF9A9A" },
+  }[tone] || { bg: "#F5F5F5", color: "#616161", border: "#E0E0E0" };
+  return (
+    <span style={{ display:"inline-flex", alignItems:"center", gap:6, padding:"3px 10px", borderRadius:14, fontSize:11, fontWeight:600, fontFamily:"'JetBrains Mono',monospace",
+      background: colors.bg, color: colors.color, border: `1px solid ${colors.border}` }}>
+      <span style={{ width:6, height:6, borderRadius:"50%", background: colors.color, animation: tone === "live" ? "pulse 2s infinite" : "none" }} />
+      {children}
+    </span>
+  );
+}
+
+function MarketPanel({ marketKey, payload, status, sourceUrl, error }) {
+  const m = MARKETS[marketKey];
+  const [showAll, setShowAll] = useState(false);
+  const [onlyOurs, setOnlyOurs] = useState(false);
+
+  const entries = useMemo(() => {
+    if (!payload || !Array.isArray(payload.entries)) return [];
+    const t = todayISO();
+    let arr = payload.entries.slice();
+    // filter to today unless showAll toggled
+    arr = showAll ? arr : arr.filter(e => e.scrapeDate === t);
+    if (onlyOurs) arr = arr.filter(e => isOurs(e, m.ours));
+    return arr.sort((a,b) => (b.scrapeTime || "").localeCompare(a.scrapeTime || ""));
+  }, [payload, showAll, onlyOurs, m.ours]);
+
+  const todayEntries = (payload?.entries || []).filter(e => e.scrapeDate === todayISO());
+  const todayOursCount = todayEntries.filter(e => isOurs(e, m.ours)).length;
+  const threshold = payload?.threshold_minutes ?? m.threshold;
+
+  if (status === "missing") {
+    return (
+      <div style={{ background:"#fff", borderRadius:12, border:"1px solid #E0E0E0", padding:40, textAlign:"center" }}>
+        <div style={{ fontSize:18, fontWeight:700, marginBottom:8 }}>{m.label} — No data yet</div>
+        <div style={{ fontSize:13, color:"#757575", lineHeight:1.8, maxWidth:600, margin:"0 auto" }}>
+          Couldn't load <code style={{ background:"#F5F5F5", padding:"2px 6px", borderRadius:4, fontFamily:"'JetBrains Mono',monospace" }}>wait_alerts.json</code> from any of the configured sources for {m.state}.
+          <br /><br />
+          <span style={{ fontSize:12 }}>
+            Once the hourly scraper for this market is running and publishing <code style={{ fontFamily:"'JetBrains Mono',monospace" }}>wait_alerts.json</code> to GitHub Pages, edit the <code style={{ fontFamily:"'JetBrains Mono',monospace" }}>MARKETS</code> config at the top of this file and add the URL.
+          </span>
+        </div>
+        {error && (
+          <div style={{ fontSize:11, color:"#9E9E9E", marginTop:16, fontFamily:"'JetBrains Mono',monospace" }}>
+            last error: {String(error).slice(0,200)}
+          </div>
+        )}
+      </div>
+    );
+  }
+
+  return (
+    <div style={{ animation:"fadeIn .3s ease" }}>
+      {/* Header band */}
+      <div style={{ background:"#fff", borderRadius:12, border:"1px solid #E0E0E0", padding:"14px 18px", marginBottom:12, display:"flex", justifyContent:"space-between", alignItems:"center", flexWrap:"wrap", gap:12 }}>
+        <div>
+          <div style={{ fontSize:18, fontWeight:700, fontFamily:"'Space Grotesk',sans-serif", color: m.accent }}>
+            {m.label} — Long-Wait Flag Board
+          </div>
+          <div style={{ fontSize:12, color:"#757575", marginTop:2 }}>
+            UC centers where the next available slot was ≥ {threshold} min from scrape time. <strong style={{ color:"#212121" }}>"{m.ours}"</strong> rows are highlighted as ours.
+          </div>
+        </div>
+        <div style={{ display:"flex", gap:10, alignItems:"center", flexWrap:"wrap" }}>
+          <StatusPill tone={status === "live" ? "live" : "stale"}>
+            {status === "live" ? "LIVE" : "STALE"}
+          </StatusPill>
+          {payload?.lastUpdated && (
+            <span style={{ fontSize:11, color:"#9E9E9E", fontFamily:"'JetBrains Mono',monospace" }}>
+              updated {new Date(payload.lastUpdated).toLocaleString()}
+            </span>
+          )}
+        </div>
+      </div>
+
+      {/* KPI strip */}
+      <div style={{ display:"grid", gridTemplateColumns:"repeat(4, 1fr)", gap:10, marginBottom:12 }}>
+        <KPI label="Today's Flagged Centers" value={todayEntries.length} />
+        <KPI label={`Ours Flagged Today`} value={todayOursCount} accent={m.accent} />
+        <KPI label="Threshold" value={`≥ ${threshold} min`} mono />
+        <KPI label="Total Entries (history)" value={(payload?.entries || []).length} mono />
+      </div>
+
+      {/* Filter bar */}
+      <div style={{ background:"#fff", borderRadius:12, border:"1px solid #E0E0E0", padding:"10px 14px", marginBottom:12, display:"flex", gap:8, alignItems:"center", flexWrap:"wrap" }}>
+        <label style={{ display:"inline-flex", alignItems:"center", gap:6, fontSize:12, cursor:"pointer" }}>
+          <input type="checkbox" checked={showAll} onChange={e => setShowAll(e.target.checked)} />
+          Show all history (default: today only)
+        </label>
+        <label style={{ display:"inline-flex", alignItems:"center", gap:6, fontSize:12, cursor:"pointer" }}>
+          <input type="checkbox" checked={onlyOurs} onChange={e => setOnlyOurs(e.target.checked)} />
+          Only "{m.ours}"
+        </label>
+        <div style={{ marginLeft:"auto", fontSize:11, color:"#9E9E9E", fontFamily:"'JetBrains Mono',monospace" }}>
+          {entries.length} shown · source: {sourceUrl}
+        </div>
+      </div>
+
+      {/* Table */}
+      <div style={{ background:"#fff", borderRadius:12, border:"1px solid #E0E0E0", overflow:"hidden" }}>
+        {entries.length === 0 ? (
+          <div style={{ padding:40, textAlign:"center", color:"#9E9E9E", fontSize:13 }}>
+            No flagged centers for the current filter.
+          </div>
+        ) : (
+          <div style={{ overflow:"auto" }}>
+            <table style={{ width:"100%", borderCollapse:"collapse", fontSize:12 }}>
+              <thead>
+                <tr style={{ background:"#FAFAFA", borderBottom:"1px solid #E0E0E0" }}>
+                  <Th>Scrape Date</Th>
+                  <Th>Scrape Time</Th>
+                  <Th>Location</Th>
+                  <Th>Next Available</Th>
+                  <Th align="right">Wait</Th>
+                  <Th align="right">Slots</Th>
+                  <Th align="center">Ours</Th>
+                </tr>
+              </thead>
+              <tbody>
+                {entries.map((e, i) => {
+                  const ours = isOurs(e, m.ours);
+                  const wc = waitColor(e.minutesOut || 0);
+                  return (
+                    <tr key={i} className={"row" + (ours ? " row-flag" : "")} style={{ borderBottom:"1px solid #F5F5F5", background: !ours && i % 2 ? "#FCFCFC" : undefined }}>
+                      <Td>
+                        <div style={{ fontWeight:600 }}>{formatDate(e.scrapeDate)}</div>
+                        <div style={{ fontSize:10, color:"#9E9E9E" }}>{e.scrapeDate}</div>
+                      </Td>
+                      <Td mono>{e.scrapeTimeDisplay}</Td>
+                      <Td>
+                        <div style={{ fontWeight:600, color:"#212121" }}>
+                          {e.locationName}
+                          {ours && <span style={{ marginLeft:6, fontSize:10, padding:"1px 6px", borderRadius:8, background:m.accent, color:"#fff", fontFamily:"'JetBrains Mono',monospace" }}>OURS</span>}
+                        </div>
+                        {e.address && <div style={{ fontSize:10, color:"#9E9E9E", marginTop:1 }}>{e.address}</div>}
+                        {e.systemName && <div style={{ fontSize:10, color:"#9E9E9E", marginTop:1 }}>{e.systemName}</div>}
+                      </Td>
+                      <Td mono><span style={{ color:"#1B5E20", fontWeight:700 }}>{e.nextAvailableTime}</span></Td>
+                      <Td align="right" mono><span style={{ color:wc, fontWeight:700 }}>{e.hoursOut}h</span></Td>
+                      <Td align="right" mono>{e.sameDaySlots}</Td>
+                      <Td align="center">{ours ? "★" : ""}</Td>
+                    </tr>
+                  );
+                })}
+              </tbody>
+            </table>
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+
+function KPI({ label, value, mono, accent }) {
+  return (
+    <div style={{ background:"#fff", borderRadius:10, border:"1px solid #E0E0E0", padding:"12px 14px" }}>
+      <div style={{ fontSize:10, fontWeight:600, color:"#9E9E9E", letterSpacing:".06em", textTransform:"uppercase", fontFamily:"'JetBrains Mono',monospace" }}>{label}</div>
+      <div style={{ fontSize:22, fontWeight:700, marginTop:4, color: accent || "#212121", fontFamily: mono ? "'JetBrains Mono',monospace" : undefined }}>{value}</div>
+    </div>
+  );
+}
+
+function Th({ children, align="left" }) {
+  return <th style={{ padding:"9px 12px", textAlign:align, fontSize:10, fontWeight:600, color:"#9E9E9E", letterSpacing:".05em", textTransform:"uppercase", fontFamily:"'JetBrains Mono',monospace" }}>{children}</th>;
+}
+
+function Td({ children, align="left", mono }) {
+  return <td style={{ padding:"8px 12px", fontSize:12, textAlign:align, fontFamily: mono ? "'JetBrains Mono',monospace" : undefined, color:"#424242" }}>{children}</td>;
+}
+
+/* ─── App ─── */
+function App() {
+  const [active, setActive] = useState("GA");
+  const [marketData, setMarketData] = useState({}); // { GA: {payload, status, sourceUrl, error}, ... }
+  const [loading, setLoading] = useState(true);
+  const [lastRefresh, setLastRefresh] = useState(null);
+
+  async function loadAll() {
+    setLoading(true);
+    const next = {};
+    await Promise.all(TAB_ORDER.map(async k => {
+      const cfg = MARKETS[k];
+      const res = await fetchFirstAvailable(cfg.sources);
+      if (!res.ok) {
+        next[k] = { payload: null, status: "missing", sourceUrl: null, error: "No source returned valid JSON" };
+        return;
+      }
+      // Determine staleness: if lastUpdated is more than 2 hours old, consider stale
+      let status = "live";
+      if (res.data.lastUpdated) {
+        const ageMs = Date.now() - new Date(res.data.lastUpdated).getTime();
+        if (ageMs > 1000 * 60 * 60 * 2) status = "stale";
+      }
+      next[k] = { payload: res.data, status, sourceUrl: res.url, error: null };
+    }));
+    setMarketData(next);
+    setLoading(false);
+    setLastRefresh(new Date());
+  }
+
+  useEffect(() => {
+    loadAll();
+    // Auto-refresh every 5 minutes so the page stays close to whatever the hourly job produced.
+    const t = setInterval(loadAll, 5 * 60 * 1000);
+    return () => clearInterval(t);
+  }, []);
+
+  const counts = useMemo(() => {
+    const out = {};
+    TAB_ORDER.forEach(k => {
+      const d = marketData[k];
+      if (!d || !d.payload) { out[k] = 0; return; }
+      const t = todayISO();
+      out[k] = (d.payload.entries || []).filter(e => e.scrapeDate === t).length;
+    });
+    return out;
+  }, [marketData]);
+
+  const current = marketData[active] || { payload: null, status: "missing", sourceUrl: null };
+
+  return (
+    <div style={{ minHeight:"100vh", padding:"20px 24px 60px" }}>
+      <div style={{ maxWidth:1320, margin:"0 auto" }}>
+        {/* Title bar */}
+        <div style={{ display:"flex", justifyContent:"space-between", alignItems:"center", marginBottom:14, flexWrap:"wrap", gap:10 }}>
+          <div>
+            <div style={{ fontSize:22, fontWeight:700, fontFamily:"'Space Grotesk',sans-serif" }}>
+              UC Markets — Long-Wait Flag Board
+            </div>
+            <div style={{ fontSize:12, color:"#757575", marginTop:2 }}>
+              Centers across GA · SC · OH · MI where next-available is more than 1 hour out. Refreshes every 5 minutes.
+            </div>
+          </div>
+          <button onClick={loadAll}
+            style={{ padding:"8px 14px", borderRadius:8, border:"1px solid #E0E0E0", background:"#fff", cursor:"pointer", fontSize:12, fontWeight:600, color:"#424242" }}>
+            ↻ Refresh now {lastRefresh && <span style={{ color:"#9E9E9E", fontWeight:500, marginLeft:6, fontFamily:"'JetBrains Mono',monospace" }}>{lastRefresh.toLocaleTimeString()}</span>}
+          </button>
+        </div>
+
+        {/* Tabs */}
+        <div style={{ display:"flex", gap:8, marginBottom:18, flexWrap:"wrap" }}>
+          {TAB_ORDER.map(k => (
+            <MarketTab key={k} marketKey={k} active={active === k}
+              onClick={() => setActive(k)} count={counts[k] ?? 0} />
+          ))}
+        </div>
+
+        {/* Panel */}
+        {loading ? (
+          <div style={{ background:"#fff", borderRadius:12, border:"1px solid #E0E0E0", padding:40, textAlign:"center", color:"#9E9E9E" }}>
+            Loading market feeds…
+          </div>
+        ) : (
+          <MarketPanel marketKey={active}
+            payload={current.payload}
+            status={current.status}
+            sourceUrl={current.sourceUrl}
+            error={current.error} />
+        )}
+
+        <div style={{ marginTop:24, fontSize:11, color:"#9E9E9E", textAlign:"center" }}>
+          Configure data source URLs in the <code style={{ fontFamily:"'JetBrains Mono',monospace" }}>MARKETS</code> object near the top of this file.
+        </div>
+      </div>
+    </div>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById("root")).render(<App />);
+</script>
+</body>
+</html>
