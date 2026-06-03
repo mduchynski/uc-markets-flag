@@ -37218,8 +37218,47 @@
       "minutesOut": 60,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-03T12:00:13.758522",
+      "scrapeTimeDisplay": "12:00 PM",
+      "scrapeDate": "2026-06-03",
+      "locationName": "Piedmont UC \u2014 Clairmont",
+      "address": "2700 Clairmont Road Atlanta, GA",
+      "area": "Clairmont",
+      "nextAvailableTime": "2:30 PM",
+      "nextAvailableRaw": "14:30:00",
+      "minutesOut": 150,
+      "hoursOut": 2.5,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-03T12:00:13.758522",
+      "scrapeTimeDisplay": "12:00 PM",
+      "scrapeDate": "2026-06-03",
+      "locationName": "Piedmont UC \u2014 Columbus Blackmon",
+      "address": "7301 Blackmon Road Columbus, GA",
+      "area": "Columbus Blackmon",
+      "nextAvailableTime": "2:20 PM",
+      "nextAvailableRaw": "14:20:00",
+      "minutesOut": 140,
+      "hoursOut": 2.3,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-03T12:00:13.758522",
+      "scrapeTimeDisplay": "12:00 PM",
+      "scrapeDate": "2026-06-03",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "2:20 PM",
+      "nextAvailableRaw": "14:20:00",
+      "minutesOut": 140,
+      "hoursOut": 2.3,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-03T11:01:30.977035",
+  "lastUpdated": "2026-06-03T12:01:40.442704",
   "threshold_minutes": 45
 }
