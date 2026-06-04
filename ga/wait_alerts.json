@@ -37257,8 +37257,21 @@
       "minutesOut": 140,
       "hoursOut": 2.3,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-04T09:01:48.270038",
+      "scrapeTimeDisplay": "9:01 AM",
+      "scrapeDate": "2026-06-04",
+      "locationName": "Piedmont UC \u2014 Douglasville",
+      "address": "2976 Chapel Hill Rd Douglasville, GA",
+      "area": "Douglasville",
+      "nextAvailableTime": "9:52 AM",
+      "nextAvailableRaw": "09:52:00",
+      "minutesOut": 50,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-04T08:54:14.945600",
+  "lastUpdated": "2026-06-04T09:01:48.270038",
   "threshold_minutes": 45
 }
