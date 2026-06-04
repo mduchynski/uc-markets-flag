@@ -38050,8 +38050,47 @@
       "minutesOut": 120,
       "hoursOut": 2.0,
       "sameDaySlots": 5
+    },
+    {
+      "scrapeTime": "2026-06-04T16:59:16.688273",
+      "scrapeTimeDisplay": "4:59 PM",
+      "scrapeDate": "2026-06-04",
+      "locationName": "Piedmont UC \u2014 Chamblee",
+      "address": "5438 Peachtree Industrial Blvd Chamblee, GA",
+      "area": "Chamblee",
+      "nextAvailableTime": "5:45 PM",
+      "nextAvailableRaw": "17:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 6
+    },
+    {
+      "scrapeTime": "2026-06-04T16:59:16.688273",
+      "scrapeTimeDisplay": "4:59 PM",
+      "scrapeDate": "2026-06-04",
+      "locationName": "Piedmont UC \u2014 Monroe",
+      "address": "850 Pavillion Parkway 30656, GA",
+      "area": "Monroe",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 5
+    },
+    {
+      "scrapeTime": "2026-06-04T16:59:16.688273",
+      "scrapeTimeDisplay": "4:59 PM",
+      "scrapeDate": "2026-06-04",
+      "locationName": "Piedmont UC \u2014 Vinings",
+      "address": "2810 Paces Ferry Road, Suite 156 Atlanta, GA",
+      "area": "Vinings",
+      "nextAvailableTime": "5:45 PM",
+      "nextAvailableRaw": "17:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 5
     }
   ],
-  "lastUpdated": "2026-06-04T16:01:33.244556",
+  "lastUpdated": "2026-06-04T17:01:29.844706",
   "threshold_minutes": 45
 }
