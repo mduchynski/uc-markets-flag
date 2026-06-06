@@ -46474,8 +46474,47 @@
       "minutesOut": 91,
       "hoursOut": 1.5,
       "sameDaySlots": 8
+    },
+    {
+      "scrapeTime": "2026-06-06T15:58:17.496946",
+      "scrapeTimeDisplay": "3:58 PM",
+      "scrapeDate": "2026-06-06",
+      "locationName": "Piedmont UC \u2014 Columbus Uptown",
+      "address": "101 13th Street Suite 200 Columbus, GA",
+      "area": "Columbus Uptown",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-06T15:58:17.496946",
+      "scrapeTimeDisplay": "3:58 PM",
+      "scrapeDate": "2026-06-06",
+      "locationName": "Piedmont UC \u2014 Decatur",
+      "address": "2520 N Decatur Rd, Decatur Decatur, GA",
+      "area": "Decatur",
+      "nextAvailableTime": "5:00 PM",
+      "nextAvailableRaw": "17:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-06-06T15:58:17.496946",
+      "scrapeTimeDisplay": "3:58 PM",
+      "scrapeDate": "2026-06-06",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "5:00 PM",
+      "nextAvailableRaw": "17:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 5
     }
   ],
-  "lastUpdated": "2026-06-06T15:01:30.879903",
+  "lastUpdated": "2026-06-06T16:01:31.385101",
   "threshold_minutes": 45
 }
