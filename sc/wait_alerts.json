@@ -3219,9 +3219,65 @@
       "minutesOut": 71,
       "hoursOut": 1.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-06T08:04:13.575161",
+      "scrapeTimeDisplay": "8:04 AM",
+      "scrapeDate": "2026-06-06",
+      "locationName": "Prisma UC \u2014 Taylors",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "3025 Wade Hampton Blvd. Taylors, SC",
+      "area": "Taylors",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 86,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-06T08:04:13.575161",
+      "scrapeTimeDisplay": "8:04 AM",
+      "scrapeDate": "2026-06-06",
+      "locationName": "Prisma UC \u2014 Travelers Rest",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "571 Roe Center Ct., Suite C-3 Travelers Rest, SC",
+      "area": "Travelers Rest",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 86,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-06T08:04:13.575161",
+      "scrapeTimeDisplay": "8:04 AM",
+      "scrapeDate": "2026-06-06",
+      "locationName": "Prisma UC \u2014 Seneca",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "1615 Sandifer Boulevard Seneca, SC",
+      "area": "Seneca",
+      "nextAvailableTime": "9:37 AM",
+      "nextAvailableRaw": "09:37:00",
+      "minutesOut": 93,
+      "hoursOut": 1.5,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-06T08:04:13.575161",
+      "scrapeTimeDisplay": "8:04 AM",
+      "scrapeDate": "2026-06-06",
+      "locationName": "Prisma UC \u2014 Red Bank",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "5452A Platt Springs Road Lexington, SC",
+      "area": "Red Bank",
+      "nextAvailableTime": "9:15 AM",
+      "nextAvailableRaw": "09:15:00",
+      "minutesOut": 71,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-05T20:04:11.778775",
+  "lastUpdated": "2026-06-06T08:04:13.575161",
   "threshold_minutes": 60,
   "market": "SC"
 }
