@@ -48021,8 +48021,21 @@
       "minutesOut": 47,
       "hoursOut": 0.8,
       "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-06-07T16:57:49.464689",
+      "scrapeTimeDisplay": "4:57 PM",
+      "scrapeDate": "2026-06-07",
+      "locationName": "Piedmont UC \u2014 Barrow",
+      "address": "340 Exchange Boulevard Bethlehem, GA",
+      "area": "Barrow",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 2
     }
   ],
-  "lastUpdated": "2026-06-07T16:01:32.809634",
+  "lastUpdated": "2026-06-07T17:01:30.896295",
   "threshold_minutes": 45
 }
