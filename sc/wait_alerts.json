@@ -3331,9 +3331,37 @@
       "minutesOut": 63,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-07T08:04:16.618348",
+      "scrapeTimeDisplay": "8:04 AM",
+      "scrapeDate": "2026-06-07",
+      "locationName": "Prisma UC \u2014 Travelers Rest",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "571 Roe Center Ct., Suite C-3 Travelers Rest, SC",
+      "area": "Travelers Rest",
+      "nextAvailableTime": "9:15 AM",
+      "nextAvailableRaw": "09:15:00",
+      "minutesOut": 71,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-07T08:04:16.618348",
+      "scrapeTimeDisplay": "8:04 AM",
+      "scrapeDate": "2026-06-07",
+      "locationName": "Prisma UC \u2014 Mauldin",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "122 S Main Street 29662, SC",
+      "area": "Mauldin",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 101,
+      "hoursOut": 1.7,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-06T20:04:13.132610",
+  "lastUpdated": "2026-06-07T08:04:16.618348",
   "threshold_minutes": 60,
   "market": "SC"
 }
