@@ -48788,8 +48788,21 @@
       "minutesOut": 61,
       "hoursOut": 1.0,
       "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-06-08T15:59:06.616966",
+      "scrapeTimeDisplay": "3:59 PM",
+      "scrapeDate": "2026-06-08",
+      "locationName": "Piedmont UC \u2014 Snellville",
+      "address": "2118 Scenic Highway South Snellville, GA",
+      "area": "Snellville",
+      "nextAvailableTime": "5:45 PM",
+      "nextAvailableRaw": "17:45:00",
+      "minutesOut": 106,
+      "hoursOut": 1.8,
+      "sameDaySlots": 3
     }
   ],
-  "lastUpdated": "2026-06-08T15:01:35.756628",
+  "lastUpdated": "2026-06-08T16:01:35.523937",
   "threshold_minutes": 45
 }
