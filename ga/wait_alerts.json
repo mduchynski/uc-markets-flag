@@ -48307,8 +48307,86 @@
       "minutesOut": 196,
       "hoursOut": 3.3,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-08T11:58:22.319904",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-06-08",
+      "locationName": "Piedmont UC \u2014 Dunwoody",
+      "address": "1575 Mount Vernon Road Dunwoody, GA",
+      "area": "Dunwoody",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 122,
+      "hoursOut": 2.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-08T11:58:22.319904",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-06-08",
+      "locationName": "Piedmont UC \u2014 Cumming",
+      "address": "880 Buford HWY Cumming, GA",
+      "area": "Cumming",
+      "nextAvailableTime": "3:45 PM",
+      "nextAvailableRaw": "15:45:00",
+      "minutesOut": 227,
+      "hoursOut": 3.8,
+      "sameDaySlots": 8
+    },
+    {
+      "scrapeTime": "2026-06-08T11:58:22.319904",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-06-08",
+      "locationName": "Piedmont UC \u2014 Columbus Uptown",
+      "address": "101 13th Street Suite 200 Columbus, GA",
+      "area": "Columbus Uptown",
+      "nextAvailableTime": "12:45 PM",
+      "nextAvailableRaw": "12:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-08T11:58:22.319904",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-06-08",
+      "locationName": "Piedmont UC \u2014 Hapeville",
+      "address": "1001 Virginia Ave. Hapeville, GA",
+      "area": "Hapeville",
+      "nextAvailableTime": "1:00 PM",
+      "nextAvailableRaw": "13:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-08T11:58:22.319904",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-06-08",
+      "locationName": "Piedmont UC \u2014 Newnan Arbor Springs",
+      "address": "35 Arbor Springs Terrace Newnan, GA",
+      "area": "Newnan Arbor Springs",
+      "nextAvailableTime": "12:45 PM",
+      "nextAvailableRaw": "12:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-08T11:58:22.319904",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-06-08",
+      "locationName": "Piedmont UC \u2014 Monroe",
+      "address": "850 Pavillion Parkway 30656, GA",
+      "area": "Monroe",
+      "nextAvailableTime": "2:30 PM",
+      "nextAvailableRaw": "14:30:00",
+      "minutesOut": 152,
+      "hoursOut": 2.5,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-08T11:01:40.123529",
+  "lastUpdated": "2026-06-08T12:01:35.226409",
   "threshold_minutes": 45
 }
