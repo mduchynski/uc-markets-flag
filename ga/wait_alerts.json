@@ -49373,8 +49373,60 @@
       "minutesOut": 46,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-10T11:11:43.290632",
+      "scrapeTimeDisplay": "11:11 AM",
+      "scrapeDate": "2026-06-10",
+      "locationName": "Piedmont UC \u2014 Austell",
+      "address": "3999 Austell Road Austell, GA",
+      "area": "Austell",
+      "nextAvailableTime": "12:15 PM",
+      "nextAvailableRaw": "12:15:00",
+      "minutesOut": 63,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-10T11:11:43.290632",
+      "scrapeTimeDisplay": "11:11 AM",
+      "scrapeDate": "2026-06-10",
+      "locationName": "Piedmont UC \u2014 Newnan Arbor Springs",
+      "address": "35 Arbor Springs Terrace Newnan, GA",
+      "area": "Newnan Arbor Springs",
+      "nextAvailableTime": "12:00 PM",
+      "nextAvailableRaw": "12:00:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-10T11:29:13.067849",
+      "scrapeTimeDisplay": "11:29 AM",
+      "scrapeDate": "2026-06-10",
+      "locationName": "Piedmont UC \u2014 Barrow",
+      "address": "340 Exchange Boulevard Bethlehem, GA",
+      "area": "Barrow",
+      "nextAvailableTime": "2:10 PM",
+      "nextAvailableRaw": "14:10:00",
+      "minutesOut": 161,
+      "hoursOut": 2.7,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-10T11:29:13.067849",
+      "scrapeTimeDisplay": "11:29 AM",
+      "scrapeDate": "2026-06-10",
+      "locationName": "Piedmont UC \u2014 Newnan Arbor Springs",
+      "address": "35 Arbor Springs Terrace Newnan, GA",
+      "area": "Newnan Arbor Springs",
+      "nextAvailableTime": "12:15 PM",
+      "nextAvailableRaw": "12:15:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-10T10:59:37.777739",
+  "lastUpdated": "2026-06-10T15:33:29.005629",
   "threshold_minutes": 45
 }
