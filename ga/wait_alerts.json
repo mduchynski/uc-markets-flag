@@ -49451,8 +49451,34 @@
       "minutesOut": 60,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-11T10:06:07.382488",
+      "scrapeTimeDisplay": "10:06 AM",
+      "scrapeDate": "2026-06-11",
+      "locationName": "Piedmont UC \u2014 Cumming",
+      "address": "880 Buford HWY Cumming, GA",
+      "area": "Cumming",
+      "nextAvailableTime": "11:15 AM",
+      "nextAvailableRaw": "11:15:00",
+      "minutesOut": 69,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-11T10:06:07.382488",
+      "scrapeTimeDisplay": "10:06 AM",
+      "scrapeDate": "2026-06-11",
+      "locationName": "Piedmont UC \u2014 Lithonia",
+      "address": "7231 Rockbridge Road Lithonia, GA",
+      "area": "Lithonia",
+      "nextAvailableTime": "11:15 AM",
+      "nextAvailableRaw": "11:15:00",
+      "minutesOut": 69,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-11T09:59:37.083312",
+  "lastUpdated": "2026-06-11T10:53:38.761510",
   "threshold_minutes": 45
 }
