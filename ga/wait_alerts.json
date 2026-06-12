@@ -50296,8 +50296,47 @@
       "minutesOut": 46,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-12T10:59:33.873337",
+      "scrapeTimeDisplay": "10:59 AM",
+      "scrapeDate": "2026-06-12",
+      "locationName": "Piedmont UC \u2014 Loganville",
+      "address": "4763 Atlanta Highway Loganville, GA",
+      "area": "Loganville",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-12T10:59:33.873337",
+      "scrapeTimeDisplay": "10:59 AM",
+      "scrapeDate": "2026-06-12",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "12:30 PM",
+      "nextAvailableRaw": "12:30:00",
+      "minutesOut": 90,
+      "hoursOut": 1.5,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-12T10:59:33.873337",
+      "scrapeTimeDisplay": "10:59 AM",
+      "scrapeDate": "2026-06-12",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-12T10:01:36.560957",
+  "lastUpdated": "2026-06-12T11:01:30.813527",
   "threshold_minutes": 45
 }
