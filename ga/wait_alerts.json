@@ -51739,8 +51739,21 @@
       "minutesOut": 50,
       "hoursOut": 0.8,
       "sameDaySlots": 7
+    },
+    {
+      "scrapeTime": "2026-06-13T17:58:24.847081",
+      "scrapeTimeDisplay": "5:58 PM",
+      "scrapeDate": "2026-06-13",
+      "locationName": "Piedmont UC \u2014 Buford",
+      "address": "2925 Buford Drive, Building 1110 Buford, GA",
+      "area": "Buford",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 3
     }
   ],
-  "lastUpdated": "2026-06-13T17:01:29.840307",
+  "lastUpdated": "2026-06-13T18:01:31.474199",
   "threshold_minutes": 45
 }
