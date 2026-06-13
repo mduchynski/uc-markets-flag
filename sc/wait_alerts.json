@@ -3471,9 +3471,51 @@
       "minutesOut": 70,
       "hoursOut": 1.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-13T08:04:10.685684",
+      "scrapeTimeDisplay": "8:04 AM",
+      "scrapeDate": "2026-06-13",
+      "locationName": "Prisma UC \u2014 Scuffletown",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "300 Scuffletown Rd Simpsonville, SC",
+      "area": "Scuffletown",
+      "nextAvailableTime": "9:07 AM",
+      "nextAvailableRaw": "09:07:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-13T08:04:10.685684",
+      "scrapeTimeDisplay": "8:04 AM",
+      "scrapeDate": "2026-06-13",
+      "locationName": "Prisma UC \u2014 Columbia Five Points",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "944 Harden St. Columbia, SC",
+      "area": "Columbia Five Points",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 86,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-13T08:04:10.685684",
+      "scrapeTimeDisplay": "8:04 AM",
+      "scrapeDate": "2026-06-13",
+      "locationName": "Prisma UC \u2014 Seneca",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "1615 Sandifer Boulevard Seneca, SC",
+      "area": "Seneca",
+      "nextAvailableTime": "9:07 AM",
+      "nextAvailableRaw": "09:07:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-12T20:04:10.899806",
+  "lastUpdated": "2026-06-13T08:04:10.685684",
   "threshold_minutes": 60,
   "market": "SC"
 }
