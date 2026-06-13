@@ -51726,8 +51726,21 @@
       "minutesOut": 62,
       "hoursOut": 1.0,
       "sameDaySlots": 7
+    },
+    {
+      "scrapeTime": "2026-06-13T16:58:16.740324",
+      "scrapeTimeDisplay": "4:58 PM",
+      "scrapeDate": "2026-06-13",
+      "locationName": "Piedmont UC \u2014 Decatur",
+      "address": "2520 N Decatur Rd, Decatur Decatur, GA",
+      "area": "Decatur",
+      "nextAvailableTime": "5:48 PM",
+      "nextAvailableRaw": "17:48:00",
+      "minutesOut": 50,
+      "hoursOut": 0.8,
+      "sameDaySlots": 7
     }
   ],
-  "lastUpdated": "2026-06-13T16:01:30.623873",
+  "lastUpdated": "2026-06-13T17:01:29.840307",
   "threshold_minutes": 45
 }
