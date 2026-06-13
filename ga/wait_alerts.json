@@ -51115,8 +51115,73 @@
       "minutesOut": 85,
       "hoursOut": 1.4,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-13T11:58:49.978042",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-06-13",
+      "locationName": "Piedmont UC \u2014 East Cobb",
+      "address": "3120 Johnson Ferry Rd Marietta, GA",
+      "area": "East Cobb",
+      "nextAvailableTime": "1:00 PM",
+      "nextAvailableRaw": "13:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-13T11:58:49.978042",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-06-13",
+      "locationName": "Piedmont UC \u2014 Snellville",
+      "address": "2118 Scenic Highway South Snellville, GA",
+      "area": "Snellville",
+      "nextAvailableTime": "1:00 PM",
+      "nextAvailableRaw": "13:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-13T11:58:49.978042",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-06-13",
+      "locationName": "Piedmont UC \u2014 Lithonia",
+      "address": "7231 Rockbridge Road Lithonia, GA",
+      "area": "Lithonia",
+      "nextAvailableTime": "12:45 PM",
+      "nextAvailableRaw": "12:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-13T11:58:49.978042",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-06-13",
+      "locationName": "Piedmont UC \u2014 Decatur",
+      "address": "2520 N Decatur Rd, Decatur Decatur, GA",
+      "area": "Decatur",
+      "nextAvailableTime": "1:24 PM",
+      "nextAvailableRaw": "13:24:00",
+      "minutesOut": 85,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-13T11:58:49.978042",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-06-13",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "12:45 PM",
+      "nextAvailableRaw": "12:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-13T11:01:32.968250",
+  "lastUpdated": "2026-06-13T12:01:31.919200",
   "threshold_minutes": 45
 }
