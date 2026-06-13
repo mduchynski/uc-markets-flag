@@ -50946,8 +50946,60 @@
       "minutesOut": 46,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-13T08:58:45.288954",
+      "scrapeTimeDisplay": "8:58 AM",
+      "scrapeDate": "2026-06-13",
+      "locationName": "Piedmont UC \u2014 Lilburn",
+      "address": "976 Killian Hill Road SW Lilburn, GA",
+      "area": "Lilburn",
+      "nextAvailableTime": "9:48 AM",
+      "nextAvailableRaw": "09:48:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-13T08:58:45.288954",
+      "scrapeTimeDisplay": "8:58 AM",
+      "scrapeDate": "2026-06-13",
+      "locationName": "Piedmont UC \u2014 Lawrenceville Old Peachtree",
+      "address": "1034 Old Peachtree Road NW, Lawrenceville, GA",
+      "area": "Lawrenceville Old Peachtree",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-13T08:58:45.288954",
+      "scrapeTimeDisplay": "8:58 AM",
+      "scrapeDate": "2026-06-13",
+      "locationName": "Piedmont UC \u2014 Brookhaven",
+      "address": "4218 Peachtree Road, Unit B Brookhaven, GA",
+      "area": "Brookhaven",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-13T09:01:32.200990",
+      "scrapeTimeDisplay": "9:01 AM",
+      "scrapeDate": "2026-06-13",
+      "locationName": "Piedmont UC \u2014 Lilburn",
+      "address": "976 Killian Hill Road SW Lilburn, GA",
+      "area": "Lilburn",
+      "nextAvailableTime": "9:48 AM",
+      "nextAvailableRaw": "09:48:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-13T08:01:30.585274",
+  "lastUpdated": "2026-06-13T09:01:32.200990",
   "threshold_minutes": 45
 }
