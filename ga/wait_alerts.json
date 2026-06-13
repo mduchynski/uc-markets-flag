@@ -51648,8 +51648,60 @@
       "minutesOut": 61,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-13T14:58:20.450440",
+      "scrapeTimeDisplay": "2:58 PM",
+      "scrapeDate": "2026-06-13",
+      "locationName": "Piedmont UC \u2014 Canton",
+      "address": "2026 Cumming Hwy, Suite 100 Canton, GA",
+      "area": "Canton",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-13T14:58:20.450440",
+      "scrapeTimeDisplay": "2:58 PM",
+      "scrapeDate": "2026-06-13",
+      "locationName": "Piedmont UC \u2014 Columbus Blackmon",
+      "address": "7301 Blackmon Road Columbus, GA",
+      "area": "Columbus Blackmon",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-13T14:58:20.450440",
+      "scrapeTimeDisplay": "2:58 PM",
+      "scrapeDate": "2026-06-13",
+      "locationName": "Piedmont UC \u2014 Lawrenceville Old Peachtree",
+      "address": "1034 Old Peachtree Road NW, Lawrenceville, GA",
+      "area": "Lawrenceville Old Peachtree",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-13T14:58:20.450440",
+      "scrapeTimeDisplay": "2:58 PM",
+      "scrapeDate": "2026-06-13",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "3:45 PM",
+      "nextAvailableRaw": "15:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-13T14:01:31.963556",
+  "lastUpdated": "2026-06-13T15:01:29.787291",
   "threshold_minutes": 45
 }
