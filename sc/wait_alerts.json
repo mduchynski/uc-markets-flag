@@ -3583,9 +3583,65 @@
       "minutesOut": 63,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-14T08:04:08.978577",
+      "scrapeTimeDisplay": "8:04 AM",
+      "scrapeDate": "2026-06-14",
+      "locationName": "Prisma UC \u2014 Anderson",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "3322 N Main Street Anderson, SC",
+      "area": "Anderson",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 86,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-14T08:04:08.978577",
+      "scrapeTimeDisplay": "8:04 AM",
+      "scrapeDate": "2026-06-14",
+      "locationName": "Prisma UC \u2014 Spartanburg",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "1501 WO Ezelll Blvd. Spartanburg, SC",
+      "area": "Spartanburg",
+      "nextAvailableTime": "9:15 AM",
+      "nextAvailableRaw": "09:15:00",
+      "minutesOut": 71,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-14T08:04:08.978577",
+      "scrapeTimeDisplay": "8:04 AM",
+      "scrapeDate": "2026-06-14",
+      "locationName": "Prisma UC \u2014 Greenville - Woodruff Road",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "1298 Woodruff Rd Greenville, SC",
+      "area": "Greenville - Woodruff Road",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 101,
+      "hoursOut": 1.7,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-14T08:04:08.978577",
+      "scrapeTimeDisplay": "8:04 AM",
+      "scrapeDate": "2026-06-14",
+      "locationName": "Prisma UC \u2014 Red Bank",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "5452A Platt Springs Road Lexington, SC",
+      "area": "Red Bank",
+      "nextAvailableTime": "9:15 AM",
+      "nextAvailableRaw": "09:15:00",
+      "minutesOut": 71,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-13T20:04:13.475160",
+  "lastUpdated": "2026-06-14T08:04:08.978577",
   "threshold_minutes": 60,
   "market": "SC"
 }

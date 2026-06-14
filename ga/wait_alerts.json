@@ -51752,8 +51752,60 @@
       "minutesOut": 47,
       "hoursOut": 0.8,
       "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-06-14T07:58:20.048319",
+      "scrapeTimeDisplay": "7:58 AM",
+      "scrapeDate": "2026-06-14",
+      "locationName": "Piedmont UC \u2014 Watkinsville",
+      "address": "1010 Village Drive Watkinsville, GA",
+      "area": "Watkinsville",
+      "nextAvailableTime": "9:15 AM",
+      "nextAvailableRaw": "09:15:00",
+      "minutesOut": 77,
+      "hoursOut": 1.3,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-14T07:58:20.048319",
+      "scrapeTimeDisplay": "7:58 AM",
+      "scrapeDate": "2026-06-14",
+      "locationName": "Piedmont UC \u2014 Columbus Blackmon",
+      "address": "7301 Blackmon Road Columbus, GA",
+      "area": "Columbus Blackmon",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 122,
+      "hoursOut": 2.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-14T07:58:20.048319",
+      "scrapeTimeDisplay": "7:58 AM",
+      "scrapeDate": "2026-06-14",
+      "locationName": "Piedmont UC \u2014 Cartersville West Ave",
+      "address": "11 Charley Harper Dr Cartersville, GA",
+      "area": "Cartersville West Ave",
+      "nextAvailableTime": "8:45 AM",
+      "nextAvailableRaw": "08:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-06-14T07:58:20.048319",
+      "scrapeTimeDisplay": "7:58 AM",
+      "scrapeDate": "2026-06-14",
+      "locationName": "Piedmont UC \u2014 Buford",
+      "address": "2925 Buford Drive, Building 1110 Buford, GA",
+      "area": "Buford",
+      "nextAvailableTime": "8:50 AM",
+      "nextAvailableRaw": "08:50:00",
+      "minutesOut": 52,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-13T20:01:32.591442",
+  "lastUpdated": "2026-06-14T08:01:29.943210",
   "threshold_minutes": 45
 }
