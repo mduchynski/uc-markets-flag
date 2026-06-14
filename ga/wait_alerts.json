@@ -52896,8 +52896,21 @@
       "minutesOut": 62,
       "hoursOut": 1.0,
       "sameDaySlots": 6
+    },
+    {
+      "scrapeTime": "2026-06-14T17:58:01.808258",
+      "scrapeTimeDisplay": "5:58 PM",
+      "scrapeDate": "2026-06-14",
+      "locationName": "Piedmont UC \u2014 East Cobb",
+      "address": "3120 Johnson Ferry Rd Marietta, GA",
+      "area": "East Cobb",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 3
     }
   ],
-  "lastUpdated": "2026-06-14T17:01:29.709004",
+  "lastUpdated": "2026-06-14T18:01:29.876155",
   "threshold_minutes": 45
 }
