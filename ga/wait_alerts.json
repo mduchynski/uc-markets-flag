@@ -53312,8 +53312,47 @@
       "minutesOut": 46,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-15T15:58:59.828085",
+      "scrapeTimeDisplay": "3:58 PM",
+      "scrapeDate": "2026-06-15",
+      "locationName": "Piedmont UC \u2014 Clairmont",
+      "address": "2700 Clairmont Road Atlanta, GA",
+      "area": "Clairmont",
+      "nextAvailableTime": "5:00 PM",
+      "nextAvailableRaw": "17:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-06-15T15:58:59.828085",
+      "scrapeTimeDisplay": "3:58 PM",
+      "scrapeDate": "2026-06-15",
+      "locationName": "Piedmont UC \u2014 Columbus Blackmon",
+      "address": "7301 Blackmon Road Columbus, GA",
+      "area": "Columbus Blackmon",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 8
+    },
+    {
+      "scrapeTime": "2026-06-15T15:58:59.828085",
+      "scrapeTimeDisplay": "3:58 PM",
+      "scrapeDate": "2026-06-15",
+      "locationName": "Piedmont UC \u2014 Cumming Tribble Road",
+      "address": "3420 Canton Highway, Suite C-3 30028, GA",
+      "area": "Cumming Tribble Road",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-15T15:01:29.858333",
+  "lastUpdated": "2026-06-15T16:01:31.480262",
   "threshold_minutes": 45
 }
