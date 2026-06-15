@@ -52909,8 +52909,86 @@
       "minutesOut": 47,
       "hoursOut": 0.8,
       "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-06-15T07:58:02.457616",
+      "scrapeTimeDisplay": "7:58 AM",
+      "scrapeDate": "2026-06-15",
+      "locationName": "Piedmont UC \u2014 Douglasville",
+      "address": "2976 Chapel Hill Rd Douglasville, GA",
+      "area": "Douglasville",
+      "nextAvailableTime": "8:48 AM",
+      "nextAvailableRaw": "08:48:00",
+      "minutesOut": 50,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-15T07:58:02.457616",
+      "scrapeTimeDisplay": "7:58 AM",
+      "scrapeDate": "2026-06-15",
+      "locationName": "Piedmont UC \u2014 Smyrna",
+      "address": "1155 Concord Rd SE Smyrna, GA",
+      "area": "Smyrna",
+      "nextAvailableTime": "9:00 AM",
+      "nextAvailableRaw": "09:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-15T07:58:02.457616",
+      "scrapeTimeDisplay": "7:58 AM",
+      "scrapeDate": "2026-06-15",
+      "locationName": "Piedmont UC \u2014 Senoia",
+      "address": "7990 Wells Street, Suite 120 Senoia, GA",
+      "area": "Senoia",
+      "nextAvailableTime": "9:07 AM",
+      "nextAvailableRaw": "09:07:00",
+      "minutesOut": 69,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-15T08:01:30.061852",
+      "scrapeTimeDisplay": "8:01 AM",
+      "scrapeDate": "2026-06-15",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "9:15 AM",
+      "nextAvailableRaw": "09:15:00",
+      "minutesOut": 73,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-15T08:01:30.061852",
+      "scrapeTimeDisplay": "8:01 AM",
+      "scrapeDate": "2026-06-15",
+      "locationName": "Piedmont UC \u2014 Douglasville",
+      "address": "2976 Chapel Hill Rd Douglasville, GA",
+      "area": "Douglasville",
+      "nextAvailableTime": "8:48 AM",
+      "nextAvailableRaw": "08:48:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-15T08:01:30.061852",
+      "scrapeTimeDisplay": "8:01 AM",
+      "scrapeDate": "2026-06-15",
+      "locationName": "Piedmont UC \u2014 Smyrna",
+      "address": "1155 Concord Rd SE Smyrna, GA",
+      "area": "Smyrna",
+      "nextAvailableTime": "9:00 AM",
+      "nextAvailableRaw": "09:00:00",
+      "minutesOut": 58,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-14T20:01:30.050025",
+  "lastUpdated": "2026-06-15T08:01:30.061852",
   "threshold_minutes": 45
 }
