@@ -53156,8 +53156,21 @@
       "minutesOut": 47,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-15T12:58:45.599310",
+      "scrapeTimeDisplay": "12:58 PM",
+      "scrapeDate": "2026-06-15",
+      "locationName": "Piedmont UC \u2014 Columbus Blackmon",
+      "address": "7301 Blackmon Road Columbus, GA",
+      "area": "Columbus Blackmon",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-15T12:01:30.902718",
+  "lastUpdated": "2026-06-15T13:01:35.144049",
   "threshold_minutes": 45
 }
