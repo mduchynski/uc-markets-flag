@@ -53364,8 +53364,34 @@
       "minutesOut": 62,
       "hoursOut": 1.0,
       "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-06-15T17:58:32.861383",
+      "scrapeTimeDisplay": "5:58 PM",
+      "scrapeDate": "2026-06-15",
+      "locationName": "Piedmont UC \u2014 Dunwoody",
+      "address": "1575 Mount Vernon Road Dunwoody, GA",
+      "area": "Dunwoody",
+      "nextAvailableTime": "7:00 PM",
+      "nextAvailableRaw": "19:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-06-15T17:58:32.861383",
+      "scrapeTimeDisplay": "5:58 PM",
+      "scrapeDate": "2026-06-15",
+      "locationName": "Piedmont UC \u2014 Columbus Blackmon",
+      "address": "7301 Blackmon Road Columbus, GA",
+      "area": "Columbus Blackmon",
+      "nextAvailableTime": "7:30 PM",
+      "nextAvailableRaw": "19:30:00",
+      "minutesOut": 91,
+      "hoursOut": 1.5,
+      "sameDaySlots": 1
     }
   ],
-  "lastUpdated": "2026-06-15T17:01:32.211437",
+  "lastUpdated": "2026-06-15T18:01:32.994701",
   "threshold_minutes": 45
 }
