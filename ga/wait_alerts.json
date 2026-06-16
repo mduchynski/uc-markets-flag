@@ -53494,8 +53494,47 @@
       "minutesOut": 58,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-16T09:57:52.428074",
+      "scrapeTimeDisplay": "9:57 AM",
+      "scrapeDate": "2026-06-16",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "10:45 AM",
+      "nextAvailableRaw": "10:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-16T09:57:52.428074",
+      "scrapeTimeDisplay": "9:57 AM",
+      "scrapeDate": "2026-06-16",
+      "locationName": "Piedmont UC \u2014 Hiram",
+      "address": "5749 Wendy Bagwell Parkway Hiram, GA",
+      "area": "Hiram",
+      "nextAvailableTime": "10:45 AM",
+      "nextAvailableRaw": "10:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-16T09:57:52.428074",
+      "scrapeTimeDisplay": "9:57 AM",
+      "scrapeDate": "2026-06-16",
+      "locationName": "Piedmont UC \u2014 Cascade",
+      "address": "3752 Cascade Rd, Suite 100 Atlanta, GA",
+      "area": "Cascade",
+      "nextAvailableTime": "11:30 AM",
+      "nextAvailableRaw": "11:30:00",
+      "minutesOut": 92,
+      "hoursOut": 1.5,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-16T09:01:38.759635",
+  "lastUpdated": "2026-06-16T10:01:39.069427",
   "threshold_minutes": 45
 }
