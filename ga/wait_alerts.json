@@ -53858,8 +53858,21 @@
       "minutesOut": 61,
       "hoursOut": 1.0,
       "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-06-16T17:58:28.567971",
+      "scrapeTimeDisplay": "5:58 PM",
+      "scrapeDate": "2026-06-16",
+      "locationName": "Piedmont UC \u2014 Dunwoody",
+      "address": "1575 Mount Vernon Road Dunwoody, GA",
+      "area": "Dunwoody",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 2
     }
   ],
-  "lastUpdated": "2026-06-16T17:01:32.549375",
+  "lastUpdated": "2026-06-16T18:01:31.408635",
   "threshold_minutes": 45
 }
