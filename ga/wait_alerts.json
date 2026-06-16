@@ -53546,8 +53546,34 @@
       "minutesOut": 61,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-16T11:58:33.673779",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-06-16",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "2:12 PM",
+      "nextAvailableRaw": "14:12:00",
+      "minutesOut": 133,
+      "hoursOut": 2.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-16T11:58:33.673779",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-06-16",
+      "locationName": "Piedmont UC \u2014 McDonough Jonesboro Road",
+      "address": "2050 Jonesboro Rd, Suite 100 30253, GA",
+      "area": "McDonough Jonesboro Road",
+      "nextAvailableTime": "1:00 PM",
+      "nextAvailableRaw": "13:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-16T11:01:40.324807",
+  "lastUpdated": "2026-06-16T12:01:38.597138",
   "threshold_minutes": 45
 }
