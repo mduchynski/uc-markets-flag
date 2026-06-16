@@ -53780,8 +53780,34 @@
       "minutesOut": 76,
       "hoursOut": 1.3,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-16T15:58:41.133377",
+      "scrapeTimeDisplay": "3:58 PM",
+      "scrapeDate": "2026-06-16",
+      "locationName": "Piedmont UC \u2014 Cumming",
+      "address": "880 Buford HWY Cumming, GA",
+      "area": "Cumming",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 6
+    },
+    {
+      "scrapeTime": "2026-06-16T15:58:41.133377",
+      "scrapeTimeDisplay": "3:58 PM",
+      "scrapeDate": "2026-06-16",
+      "locationName": "Piedmont UC \u2014 Oconee",
+      "address": "1305 Jennings Mill Road Suite 120 Watkinsville, GA",
+      "area": "Oconee",
+      "nextAvailableTime": "5:15 PM",
+      "nextAvailableRaw": "17:15:00",
+      "minutesOut": 76,
+      "hoursOut": 1.3,
+      "sameDaySlots": 7
     }
   ],
-  "lastUpdated": "2026-06-16T15:01:30.387209",
+  "lastUpdated": "2026-06-16T16:01:36.530867",
   "threshold_minutes": 45
 }
