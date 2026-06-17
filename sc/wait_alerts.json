@@ -3723,9 +3723,65 @@
       "minutesOut": 86,
       "hoursOut": 1.4,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-17T08:04:52.058198",
+      "scrapeTimeDisplay": "8:04 AM",
+      "scrapeDate": "2026-06-17",
+      "locationName": "Prisma UC \u2014 Scuffletown",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "300 Scuffletown Rd Simpsonville, SC",
+      "area": "Scuffletown",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 85,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-17T08:04:52.058198",
+      "scrapeTimeDisplay": "8:04 AM",
+      "scrapeDate": "2026-06-17",
+      "locationName": "Prisma UC \u2014 Taylors",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "3025 Wade Hampton Blvd. Taylors, SC",
+      "area": "Taylors",
+      "nextAvailableTime": "9:15 AM",
+      "nextAvailableRaw": "09:15:00",
+      "minutesOut": 70,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-17T08:04:52.058198",
+      "scrapeTimeDisplay": "8:04 AM",
+      "scrapeDate": "2026-06-17",
+      "locationName": "Prisma UC \u2014 Columbia Five Points",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "944 Harden St. Columbia, SC",
+      "area": "Columbia Five Points",
+      "nextAvailableTime": "9:15 AM",
+      "nextAvailableRaw": "09:15:00",
+      "minutesOut": 70,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-17T08:04:52.058198",
+      "scrapeTimeDisplay": "8:04 AM",
+      "scrapeDate": "2026-06-17",
+      "locationName": "Prisma UC \u2014 Clemson",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "1390 Tiger Blvd 29631, SC",
+      "area": "Clemson",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 85,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-16T20:04:18.719684",
+  "lastUpdated": "2026-06-17T08:04:52.058198",
   "threshold_minutes": 60,
   "market": "SC"
 }
