@@ -53936,8 +53936,34 @@
       "minutesOut": 60,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-17T11:59:15.114888",
+      "scrapeTimeDisplay": "11:59 AM",
+      "scrapeDate": "2026-06-17",
+      "locationName": "Piedmont UC \u2014 Snellville",
+      "address": "2118 Scenic Highway South Snellville, GA",
+      "area": "Snellville",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 121,
+      "hoursOut": 2.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-17T11:59:15.114888",
+      "scrapeTimeDisplay": "11:59 AM",
+      "scrapeDate": "2026-06-17",
+      "locationName": "Piedmont UC \u2014 Monroe",
+      "address": "850 Pavillion Parkway 30656, GA",
+      "area": "Monroe",
+      "nextAvailableTime": "3:15 PM",
+      "nextAvailableRaw": "15:15:00",
+      "minutesOut": 196,
+      "hoursOut": 3.3,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-17T11:01:37.452717",
+  "lastUpdated": "2026-06-17T12:01:30.166007",
   "threshold_minutes": 45
 }
