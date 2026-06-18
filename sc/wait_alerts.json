@@ -4185,9 +4185,23 @@
       "minutesOut": 297,
       "hoursOut": 5.0,
       "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-06-18T09:05:25.947334",
+      "scrapeTimeDisplay": "9:05 AM",
+      "scrapeDate": "2026-06-18",
+      "locationName": "Prisma UC \u2014 Columbia Forest Acres",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "2220 North Beltline Blvd 29204, SC",
+      "area": "Columbia Forest Acres",
+      "nextAvailableTime": "10:30 AM",
+      "nextAvailableRaw": "10:30:00",
+      "minutesOut": 85,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-18T03:17:55.950500",
+  "lastUpdated": "2026-06-18T09:05:25.947334",
   "threshold_minutes": 60,
   "market": "SC"
 }
