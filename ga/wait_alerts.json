@@ -54755,8 +54755,34 @@
       "minutesOut": 90,
       "hoursOut": 1.5,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-18T11:59:43.617183",
+      "scrapeTimeDisplay": "11:59 AM",
+      "scrapeDate": "2026-06-18",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "12:45 PM",
+      "nextAvailableRaw": "12:45:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-18T11:59:43.617183",
+      "scrapeTimeDisplay": "11:59 AM",
+      "scrapeDate": "2026-06-18",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "1:00 PM",
+      "nextAvailableRaw": "13:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-18T11:01:48.119179",
+  "lastUpdated": "2026-06-18T12:01:29.828633",
   "threshold_minutes": 45
 }
