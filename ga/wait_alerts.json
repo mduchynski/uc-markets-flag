@@ -54911,8 +54911,21 @@
       "minutesOut": 48,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-18T15:59:42.067339",
+      "scrapeTimeDisplay": "3:59 PM",
+      "scrapeDate": "2026-06-18",
+      "locationName": "Piedmont UC \u2014 Snellville-Centerville Hwy",
+      "address": "3641 Centerville Hwy Snellville, GA",
+      "area": "Snellville-Centerville Hwy",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 9
     }
   ],
-  "lastUpdated": "2026-06-18T15:01:32.562045",
+  "lastUpdated": "2026-06-18T16:01:33.728850",
   "threshold_minutes": 45
 }
