@@ -54937,8 +54937,34 @@
       "minutesOut": 45,
       "hoursOut": 0.8,
       "sameDaySlots": 6
+    },
+    {
+      "scrapeTime": "2026-06-18T17:58:59.703189",
+      "scrapeTimeDisplay": "5:58 PM",
+      "scrapeDate": "2026-06-18",
+      "locationName": "Piedmont UC \u2014 Oconee",
+      "address": "1305 Jennings Mill Road Suite 120 Watkinsville, GA",
+      "area": "Oconee",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-06-18T17:58:59.703189",
+      "scrapeTimeDisplay": "5:58 PM",
+      "scrapeDate": "2026-06-18",
+      "locationName": "Piedmont UC \u2014 Brookhaven",
+      "address": "4218 Peachtree Road, Unit B Brookhaven, GA",
+      "area": "Brookhaven",
+      "nextAvailableTime": "7:00 PM",
+      "nextAvailableRaw": "19:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 2
     }
   ],
-  "lastUpdated": "2026-06-18T17:01:27.264290",
+  "lastUpdated": "2026-06-18T18:01:21.569555",
   "threshold_minutes": 45
 }
