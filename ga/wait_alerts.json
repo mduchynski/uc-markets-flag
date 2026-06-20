@@ -55665,8 +55665,86 @@
       "minutesOut": 47,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-20T12:58:09.209419",
+      "scrapeTimeDisplay": "12:58 PM",
+      "scrapeDate": "2026-06-20",
+      "locationName": "Piedmont UC \u2014 Loganville",
+      "address": "4763 Atlanta Highway Loganville, GA",
+      "area": "Loganville",
+      "nextAvailableTime": "2:10 PM",
+      "nextAvailableRaw": "14:10:00",
+      "minutesOut": 72,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-20T12:58:09.209419",
+      "scrapeTimeDisplay": "12:58 PM",
+      "scrapeDate": "2026-06-20",
+      "locationName": "Piedmont UC \u2014 Chamblee",
+      "address": "5438 Peachtree Industrial Blvd Chamblee, GA",
+      "area": "Chamblee",
+      "nextAvailableTime": "3:00 PM",
+      "nextAvailableRaw": "15:00:00",
+      "minutesOut": 122,
+      "hoursOut": 2.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-20T12:58:09.209419",
+      "scrapeTimeDisplay": "12:58 PM",
+      "scrapeDate": "2026-06-20",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-20T12:58:09.209419",
+      "scrapeTimeDisplay": "12:58 PM",
+      "scrapeDate": "2026-06-20",
+      "locationName": "Piedmont UC \u2014 Buford",
+      "address": "2925 Buford Drive, Building 1110 Buford, GA",
+      "area": "Buford",
+      "nextAvailableTime": "1:45 PM",
+      "nextAvailableRaw": "13:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-20T12:58:09.209419",
+      "scrapeTimeDisplay": "12:58 PM",
+      "scrapeDate": "2026-06-20",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "2:20 PM",
+      "nextAvailableRaw": "14:20:00",
+      "minutesOut": 82,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-20T12:58:09.209419",
+      "scrapeTimeDisplay": "12:58 PM",
+      "scrapeDate": "2026-06-20",
+      "locationName": "Piedmont UC \u2014 Newnan Arbor Springs",
+      "address": "35 Arbor Springs Terrace Newnan, GA",
+      "area": "Newnan Arbor Springs",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-20T12:01:30.966194",
+  "lastUpdated": "2026-06-20T13:01:29.632522",
   "threshold_minutes": 45
 }
