@@ -55548,8 +55548,34 @@
       "minutesOut": 46,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-20T09:58:14.529797",
+      "scrapeTimeDisplay": "9:58 AM",
+      "scrapeDate": "2026-06-20",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "11:30 AM",
+      "nextAvailableRaw": "11:30:00",
+      "minutesOut": 92,
+      "hoursOut": 1.5,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-20T09:58:14.529797",
+      "scrapeTimeDisplay": "9:58 AM",
+      "scrapeDate": "2026-06-20",
+      "locationName": "Piedmont UC \u2014 Columbus Blackmon",
+      "address": "7301 Blackmon Road Columbus, GA",
+      "area": "Columbus Blackmon",
+      "nextAvailableTime": "10:45 AM",
+      "nextAvailableRaw": "10:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-20T09:01:30.964617",
+  "lastUpdated": "2026-06-20T10:01:30.764155",
   "threshold_minutes": 45
 }
