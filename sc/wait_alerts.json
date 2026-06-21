@@ -4353,9 +4353,37 @@
       "minutesOut": 86,
       "hoursOut": 1.4,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-21T08:04:09.860834",
+      "scrapeTimeDisplay": "8:04 AM",
+      "scrapeDate": "2026-06-21",
+      "locationName": "Prisma UC \u2014 Duncan",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "1515 E Main Street 29334, SC",
+      "area": "Duncan",
+      "nextAvailableTime": "9:15 AM",
+      "nextAvailableRaw": "09:15:00",
+      "minutesOut": 71,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-21T08:04:09.860834",
+      "scrapeTimeDisplay": "8:04 AM",
+      "scrapeDate": "2026-06-21",
+      "locationName": "Prisma UC \u2014 Simpsonville - Martin Farms",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "718, Fairview Road Simpsonville, SC",
+      "area": "Simpsonville - Martin Farms",
+      "nextAvailableTime": "9:07 AM",
+      "nextAvailableRaw": "09:07:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-20T20:04:07.716013",
+  "lastUpdated": "2026-06-21T08:04:09.860834",
   "threshold_minutes": 60,
   "market": "SC"
 }
