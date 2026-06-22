@@ -56549,8 +56549,34 @@
       "minutesOut": 60,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-22T11:58:28.262544",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-06-22",
+      "locationName": "Piedmont UC \u2014 Austell",
+      "address": "3999 Austell Road Austell, GA",
+      "area": "Austell",
+      "nextAvailableTime": "12:45 PM",
+      "nextAvailableRaw": "12:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-22T11:58:28.262544",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-06-22",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "12:45 PM",
+      "nextAvailableRaw": "12:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-22T11:16:29.349220",
+  "lastUpdated": "2026-06-22T12:16:36.799515",
   "threshold_minutes": 45
 }
