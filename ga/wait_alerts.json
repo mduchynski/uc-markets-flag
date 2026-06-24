@@ -58031,8 +58031,21 @@
       "minutesOut": 49,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-24T11:58:43.865461",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-06-24",
+      "locationName": "Piedmont UC \u2014 Cascade",
+      "address": "3752 Cascade Rd, Suite 100 Atlanta, GA",
+      "area": "Cascade",
+      "nextAvailableTime": "12:45 PM",
+      "nextAvailableRaw": "12:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-24T11:16:27.968068",
+  "lastUpdated": "2026-06-24T12:16:29.155598",
   "threshold_minutes": 45
 }
