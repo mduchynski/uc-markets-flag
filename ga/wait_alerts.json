@@ -58083,8 +58083,60 @@
       "minutesOut": 48,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-25T12:57:20.359476",
+      "scrapeTimeDisplay": "12:57 PM",
+      "scrapeDate": "2026-06-25",
+      "locationName": "Piedmont UC \u2014 Chamblee",
+      "address": "5438 Peachtree Industrial Blvd Chamblee, GA",
+      "area": "Chamblee",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-25T12:57:20.359476",
+      "scrapeTimeDisplay": "12:57 PM",
+      "scrapeDate": "2026-06-25",
+      "locationName": "Piedmont UC \u2014 Canton",
+      "address": "2026 Cumming Hwy, Suite 100 Canton, GA",
+      "area": "Canton",
+      "nextAvailableTime": "3:00 PM",
+      "nextAvailableRaw": "15:00:00",
+      "minutesOut": 123,
+      "hoursOut": 2.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-25T12:57:20.359476",
+      "scrapeTimeDisplay": "12:57 PM",
+      "scrapeDate": "2026-06-25",
+      "locationName": "Piedmont UC \u2014 Brookhaven",
+      "address": "4218 Peachtree Road, Unit B Brookhaven, GA",
+      "area": "Brookhaven",
+      "nextAvailableTime": "2:40 PM",
+      "nextAvailableRaw": "14:40:00",
+      "minutesOut": 103,
+      "hoursOut": 1.7,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-25T12:57:20.359476",
+      "scrapeTimeDisplay": "12:57 PM",
+      "scrapeDate": "2026-06-25",
+      "locationName": "Piedmont UC \u2014 Vinings",
+      "address": "2810 Paces Ferry Road, Suite 156 Atlanta, GA",
+      "area": "Vinings",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-25T12:16:31.765483",
+  "lastUpdated": "2026-06-25T14:32:14.581230",
   "threshold_minutes": 45
 }
