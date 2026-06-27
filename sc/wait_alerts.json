@@ -4465,9 +4465,37 @@
       "minutesOut": 71,
       "hoursOut": 1.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-27T08:19:07.290395",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-06-27",
+      "locationName": "Prisma UC \u2014 West Columbia",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "2501 Augusta Road West Columbia, SC",
+      "area": "West Columbia",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 86,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-27T08:19:07.290395",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-06-27",
+      "locationName": "Prisma UC \u2014 Red Bank",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "5452A Platt Springs Road Lexington, SC",
+      "area": "Red Bank",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 86,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-26T20:19:06.625070",
+  "lastUpdated": "2026-06-27T08:19:07.290395",
   "threshold_minutes": 60,
   "market": "SC"
 }
