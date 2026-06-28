@@ -59162,8 +59162,47 @@
       "minutesOut": 142,
       "hoursOut": 2.4,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-28T11:58:20.527160",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-06-28",
+      "locationName": "Piedmont UC \u2014 Chamblee",
+      "address": "5438 Peachtree Industrial Blvd Chamblee, GA",
+      "area": "Chamblee",
+      "nextAvailableTime": "1:00 PM",
+      "nextAvailableRaw": "13:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-28T11:58:20.527160",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-06-28",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "2:20 PM",
+      "nextAvailableRaw": "14:20:00",
+      "minutesOut": 142,
+      "hoursOut": 2.4,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-28T11:58:20.527160",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-06-28",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "12:45 PM",
+      "nextAvailableRaw": "12:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-28T11:16:34.209685",
+  "lastUpdated": "2026-06-28T12:16:29.851564",
   "threshold_minutes": 45
 }
