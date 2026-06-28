@@ -59604,8 +59604,47 @@
       "minutesOut": 62,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-28T15:57:46.130193",
+      "scrapeTimeDisplay": "3:57 PM",
+      "scrapeDate": "2026-06-28",
+      "locationName": "Piedmont UC \u2014 Canton",
+      "address": "2026 Cumming Hwy, Suite 100 Canton, GA",
+      "area": "Canton",
+      "nextAvailableTime": "5:00 PM",
+      "nextAvailableRaw": "17:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 8
+    },
+    {
+      "scrapeTime": "2026-06-28T15:57:46.130193",
+      "scrapeTimeDisplay": "3:57 PM",
+      "scrapeDate": "2026-06-28",
+      "locationName": "Piedmont UC \u2014 Columbus Blackmon",
+      "address": "7301 Blackmon Road Columbus, GA",
+      "area": "Columbus Blackmon",
+      "nextAvailableTime": "5:45 PM",
+      "nextAvailableRaw": "17:45:00",
+      "minutesOut": 107,
+      "hoursOut": 1.8,
+      "sameDaySlots": 4
+    },
+    {
+      "scrapeTime": "2026-06-28T15:57:46.130193",
+      "scrapeTimeDisplay": "3:57 PM",
+      "scrapeDate": "2026-06-28",
+      "locationName": "Piedmont UC \u2014 Dacula - Harbins Road",
+      "address": "862 Harbins Rd SE, Suite 101 Dacula, GA",
+      "area": "Dacula - Harbins Road",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-28T15:16:29.933967",
+  "lastUpdated": "2026-06-28T16:16:29.704183",
   "threshold_minutes": 45
 }
