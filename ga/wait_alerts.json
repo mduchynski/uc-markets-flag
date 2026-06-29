@@ -59656,8 +59656,34 @@
       "minutesOut": 49,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-29T09:58:56.362727",
+      "scrapeTimeDisplay": "9:58 AM",
+      "scrapeDate": "2026-06-29",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 106,
+      "hoursOut": 1.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-29T09:58:56.362727",
+      "scrapeTimeDisplay": "9:58 AM",
+      "scrapeDate": "2026-06-29",
+      "locationName": "Piedmont UC \u2014 Monroe",
+      "address": "850 Pavillion Parkway 30656, GA",
+      "area": "Monroe",
+      "nextAvailableTime": "1:52 PM",
+      "nextAvailableRaw": "13:52:00",
+      "minutesOut": 233,
+      "hoursOut": 3.9,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-29T09:16:33.932988",
+  "lastUpdated": "2026-06-29T10:16:43.109186",
   "threshold_minutes": 45
 }
