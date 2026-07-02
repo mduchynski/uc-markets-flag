@@ -63010,8 +63010,21 @@
       "minutesOut": 48,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-02T09:59:37.655533",
+      "scrapeTimeDisplay": "9:59 AM",
+      "scrapeDate": "2026-07-02",
+      "locationName": "Piedmont UC \u2014 Lilburn",
+      "address": "976 Killian Hill Road SW Lilburn, GA",
+      "area": "Lilburn",
+      "nextAvailableTime": "10:45 AM",
+      "nextAvailableRaw": "10:45:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-02T09:17:06.986301",
+  "lastUpdated": "2026-07-02T10:16:30.008065",
   "threshold_minutes": 45
 }
