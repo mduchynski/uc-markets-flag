@@ -63452,8 +63452,21 @@
       "minutesOut": 61,
       "hoursOut": 1.0,
       "sameDaySlots": 7
+    },
+    {
+      "scrapeTime": "2026-07-02T17:57:12.822444",
+      "scrapeTimeDisplay": "5:57 PM",
+      "scrapeDate": "2026-07-02",
+      "locationName": "Piedmont UC \u2014 Austell",
+      "address": "3999 Austell Road Austell, GA",
+      "area": "Austell",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 3
     }
   ],
-  "lastUpdated": "2026-07-02T17:16:32.298547",
+  "lastUpdated": "2026-07-02T18:16:33.546859",
   "threshold_minutes": 45
 }
