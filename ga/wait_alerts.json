@@ -62997,8 +62997,21 @@
       "minutesOut": 48,
       "hoursOut": 0.8,
       "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-07-02T08:59:31.322870",
+      "scrapeTimeDisplay": "8:59 AM",
+      "scrapeDate": "2026-07-02",
+      "locationName": "Piedmont UC \u2014 Sandy Springs Village",
+      "address": "6660 Roswell Road Sandy Springs, GA",
+      "area": "Sandy Springs Village",
+      "nextAvailableTime": "9:48 AM",
+      "nextAvailableRaw": "09:48:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-02T08:16:30.587022",
+  "lastUpdated": "2026-07-02T09:17:06.986301",
   "threshold_minutes": 45
 }
