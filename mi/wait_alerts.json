@@ -2659,8 +2659,22 @@
       "minutesOut": 191,
       "hoursOut": 3.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-03T08:14:55.672317",
+      "scrapeTimeDisplay": "8:14 AM",
+      "scrapeDate": "2026-07-03",
+      "locationName": "Corewell UC \u2014 Royal Oak Woodward Corners",
+      "systemName": "Corewell Health Urgent Care",
+      "address": "30955 Woodward Avenue Royal Oak, MI",
+      "area": "Royal Oak Woodward Corners",
+      "nextAvailableTime": "9:10 AM",
+      "nextAvailableRaw": "09:10:00",
+      "minutesOut": 55,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-02T20:12:02.186026",
+  "lastUpdated": "2026-07-03T08:14:55.672317",
   "threshold_minutes": 50
 }
