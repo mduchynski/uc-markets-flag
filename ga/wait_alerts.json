@@ -64518,8 +64518,21 @@
       "minutesOut": 127,
       "hoursOut": 2.1,
       "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-07-04T17:58:30.842891",
+      "scrapeTimeDisplay": "5:58 PM",
+      "scrapeDate": "2026-07-04",
+      "locationName": "Piedmont UC \u2014 Newnan",
+      "address": "1825 GA-34 Newnan, GA",
+      "area": "Newnan",
+      "nextAvailableTime": "7:06 PM",
+      "nextAvailableRaw": "19:06:00",
+      "minutesOut": 67,
+      "hoursOut": 1.1,
+      "sameDaySlots": 9
     }
   ],
-  "lastUpdated": "2026-07-04T17:16:29.245535",
+  "lastUpdated": "2026-07-04T18:16:28.871687",
   "threshold_minutes": 45
 }
