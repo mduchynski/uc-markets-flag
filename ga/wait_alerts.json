@@ -64635,8 +64635,73 @@
       "minutesOut": 73,
       "hoursOut": 1.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-05T09:58:29.714124",
+      "scrapeTimeDisplay": "9:58 AM",
+      "scrapeDate": "2026-07-05",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "11:15 AM",
+      "nextAvailableRaw": "11:15:00",
+      "minutesOut": 77,
+      "hoursOut": 1.3,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-05T09:58:29.714124",
+      "scrapeTimeDisplay": "9:58 AM",
+      "scrapeDate": "2026-07-05",
+      "locationName": "Piedmont UC \u2014 Snellville-Centerville Hwy",
+      "address": "3641 Centerville Hwy Snellville, GA",
+      "area": "Snellville-Centerville Hwy",
+      "nextAvailableTime": "11:00 AM",
+      "nextAvailableRaw": "11:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-05T09:58:29.714124",
+      "scrapeTimeDisplay": "9:58 AM",
+      "scrapeDate": "2026-07-05",
+      "locationName": "Piedmont UC \u2014 Watkinsville",
+      "address": "1010 Village Drive Watkinsville, GA",
+      "area": "Watkinsville",
+      "nextAvailableTime": "11:15 AM",
+      "nextAvailableRaw": "11:15:00",
+      "minutesOut": 77,
+      "hoursOut": 1.3,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-05T09:58:29.714124",
+      "scrapeTimeDisplay": "9:58 AM",
+      "scrapeDate": "2026-07-05",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "10:45 AM",
+      "nextAvailableRaw": "10:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-05T10:16:29.343764",
+      "scrapeTimeDisplay": "10:16 AM",
+      "scrapeDate": "2026-07-05",
+      "locationName": "Piedmont UC \u2014 Newnan Crossing",
+      "address": "2084 Newnan Crossing Blvd 30265 Newnan, GA",
+      "area": "Newnan Crossing",
+      "nextAvailableTime": "11:22 AM",
+      "nextAvailableRaw": "11:22:00",
+      "minutesOut": 66,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-05T09:16:30.569218",
+  "lastUpdated": "2026-07-05T10:16:29.343764",
   "threshold_minutes": 45
 }
