@@ -64752,8 +64752,73 @@
       "minutesOut": 47,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-05T12:58:27.425463",
+      "scrapeTimeDisplay": "12:58 PM",
+      "scrapeDate": "2026-07-05",
+      "locationName": "Piedmont UC \u2014 Snellville",
+      "address": "2118 Scenic Highway South Snellville, GA",
+      "area": "Snellville",
+      "nextAvailableTime": "3:00 PM",
+      "nextAvailableRaw": "15:00:00",
+      "minutesOut": 122,
+      "hoursOut": 2.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-05T12:58:27.425463",
+      "scrapeTimeDisplay": "12:58 PM",
+      "scrapeDate": "2026-07-05",
+      "locationName": "Piedmont UC \u2014 Grayson",
+      "address": "2594 Loganville Hwy Lilburn, GA",
+      "area": "Grayson",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-05T12:58:27.425463",
+      "scrapeTimeDisplay": "12:58 PM",
+      "scrapeDate": "2026-07-05",
+      "locationName": "Piedmont UC \u2014 Cartersville West Ave",
+      "address": "11 Charley Harper Dr Cartersville, GA",
+      "area": "Cartersville West Ave",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-05T12:58:27.425463",
+      "scrapeTimeDisplay": "12:58 PM",
+      "scrapeDate": "2026-07-05",
+      "locationName": "Piedmont UC \u2014 Oconee",
+      "address": "1305 Jennings Mill Road Suite 120 Watkinsville, GA",
+      "area": "Oconee",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-05T12:58:27.425463",
+      "scrapeTimeDisplay": "12:58 PM",
+      "scrapeDate": "2026-07-05",
+      "locationName": "Piedmont UC \u2014 Monroe",
+      "address": "850 Pavillion Parkway 30656, GA",
+      "area": "Monroe",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-05T12:16:29.786670",
+  "lastUpdated": "2026-07-05T13:16:30.086945",
   "threshold_minutes": 45
 }
