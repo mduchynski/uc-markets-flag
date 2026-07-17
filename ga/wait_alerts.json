@@ -65961,8 +65961,21 @@
       "minutesOut": 74,
       "hoursOut": 1.2,
       "sameDaySlots": 4
+    },
+    {
+      "scrapeTime": "2026-07-17T17:39:15.248031",
+      "scrapeTimeDisplay": "5:39 PM",
+      "scrapeDate": "2026-07-17",
+      "locationName": "Piedmont UC \u2014 Lithonia",
+      "address": "7231 Rockbridge Road Lithonia, GA",
+      "area": "Lithonia",
+      "nextAvailableTime": "6:30 PM",
+      "nextAvailableRaw": "18:30:00",
+      "minutesOut": 51,
+      "hoursOut": 0.8,
+      "sameDaySlots": 4
     }
   ],
-  "lastUpdated": "2026-07-17T17:26:02.385096",
+  "lastUpdated": "2026-07-17T18:26:09.180023",
   "threshold_minutes": 45
 }
