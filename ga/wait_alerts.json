@@ -65909,8 +65909,60 @@
       "minutesOut": 71,
       "hoursOut": 1.2,
       "sameDaySlots": 4
+    },
+    {
+      "scrapeTime": "2026-07-17T16:38:56.885515",
+      "scrapeTimeDisplay": "4:38 PM",
+      "scrapeDate": "2026-07-17",
+      "locationName": "Piedmont UC \u2014 Columbus Blackmon",
+      "address": "7301 Blackmon Road Columbus, GA",
+      "area": "Columbus Blackmon",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 126,
+      "hoursOut": 2.1,
+      "sameDaySlots": 1
+    },
+    {
+      "scrapeTime": "2026-07-17T16:38:56.885515",
+      "scrapeTimeDisplay": "4:38 PM",
+      "scrapeDate": "2026-07-17",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "5:24 PM",
+      "nextAvailableRaw": "17:24:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-07-17T16:38:56.885515",
+      "scrapeTimeDisplay": "4:38 PM",
+      "scrapeDate": "2026-07-17",
+      "locationName": "Piedmont UC \u2014 Monroe",
+      "address": "850 Pavillion Parkway 30656, GA",
+      "area": "Monroe",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 81,
+      "hoursOut": 1.4,
+      "sameDaySlots": 5
+    },
+    {
+      "scrapeTime": "2026-07-17T17:00:55.146641",
+      "scrapeTimeDisplay": "5:00 PM",
+      "scrapeDate": "2026-07-17",
+      "locationName": "Piedmont UC \u2014 Monroe",
+      "address": "850 Pavillion Parkway 30656, GA",
+      "area": "Monroe",
+      "nextAvailableTime": "6:15 PM",
+      "nextAvailableRaw": "18:15:00",
+      "minutesOut": 74,
+      "hoursOut": 1.2,
+      "sameDaySlots": 4
     }
   ],
-  "lastUpdated": "2026-07-17T16:26:14.228074",
+  "lastUpdated": "2026-07-17T17:26:02.385096",
   "threshold_minutes": 45
 }
