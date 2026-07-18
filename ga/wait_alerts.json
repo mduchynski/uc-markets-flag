@@ -65987,8 +65987,73 @@
       "minutesOut": 51,
       "hoursOut": 0.9,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-18T08:58:47.985541",
+      "scrapeTimeDisplay": "8:58 AM",
+      "scrapeDate": "2026-07-18",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-18T08:58:47.985541",
+      "scrapeTimeDisplay": "8:58 AM",
+      "scrapeDate": "2026-07-18",
+      "locationName": "Piedmont UC \u2014 Columbus Blackmon",
+      "address": "7301 Blackmon Road Columbus, GA",
+      "area": "Columbus Blackmon",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-18T08:58:47.985541",
+      "scrapeTimeDisplay": "8:58 AM",
+      "scrapeDate": "2026-07-18",
+      "locationName": "Piedmont UC \u2014 Cartersville West Ave",
+      "address": "11 Charley Harper Dr Cartersville, GA",
+      "area": "Cartersville West Ave",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-18T08:58:47.985541",
+      "scrapeTimeDisplay": "8:58 AM",
+      "scrapeDate": "2026-07-18",
+      "locationName": "Piedmont UC \u2014 Columbus Uptown",
+      "address": "101 13th Street Suite 200 Columbus, GA",
+      "area": "Columbus Uptown",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-18T08:58:47.985541",
+      "scrapeTimeDisplay": "8:58 AM",
+      "scrapeDate": "2026-07-18",
+      "locationName": "Piedmont UC \u2014 Kennesaw Bells Ferry",
+      "address": "4282 Bells Ferry Road NW Kennesaw, GA",
+      "area": "Kennesaw Bells Ferry",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-18T08:16:29.268571",
+  "lastUpdated": "2026-07-18T09:16:29.569155",
   "threshold_minutes": 45
 }
