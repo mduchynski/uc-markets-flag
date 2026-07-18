@@ -66442,8 +66442,47 @@
       "minutesOut": 47,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-18T15:58:18.894838",
+      "scrapeTimeDisplay": "3:58 PM",
+      "scrapeDate": "2026-07-18",
+      "locationName": "Piedmont UC \u2014 Lithonia",
+      "address": "7231 Rockbridge Road Lithonia, GA",
+      "area": "Lithonia",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-18T15:58:18.894838",
+      "scrapeTimeDisplay": "3:58 PM",
+      "scrapeDate": "2026-07-18",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-18T15:58:18.894838",
+      "scrapeTimeDisplay": "3:58 PM",
+      "scrapeDate": "2026-07-18",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "5:45 PM",
+      "nextAvailableRaw": "17:45:00",
+      "minutesOut": 107,
+      "hoursOut": 1.8,
+      "sameDaySlots": 3
     }
   ],
-  "lastUpdated": "2026-07-18T15:16:33.008363",
+  "lastUpdated": "2026-07-18T16:16:28.928660",
   "threshold_minutes": 45
 }
