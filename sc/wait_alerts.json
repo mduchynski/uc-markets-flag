@@ -4997,9 +4997,37 @@
       "minutesOut": 71,
       "hoursOut": 1.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-18T08:19:06.075593",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-07-18",
+      "locationName": "Prisma UC \u2014 Duncan",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "1515 E Main Street 29334, SC",
+      "area": "Duncan",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 86,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-18T08:19:06.075593",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-07-18",
+      "locationName": "Prisma UC \u2014 Travelers Rest",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "571 Roe Center Ct., Suite C-3 Travelers Rest, SC",
+      "area": "Travelers Rest",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 86,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-17T18:28:51.734802",
+  "lastUpdated": "2026-07-18T08:19:06.075593",
   "threshold_minutes": 60,
   "market": "SC"
 }
