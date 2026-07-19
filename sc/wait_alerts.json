@@ -5053,9 +5053,23 @@
       "minutesOut": 71,
       "hoursOut": 1.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-19T09:19:06.120126",
+      "scrapeTimeDisplay": "9:19 AM",
+      "scrapeDate": "2026-07-19",
+      "locationName": "Prisma UC \u2014 Clemson",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "1390 Tiger Blvd 29631, SC",
+      "area": "Clemson",
+      "nextAvailableTime": "10:30 AM",
+      "nextAvailableRaw": "10:30:00",
+      "minutesOut": 71,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-19T08:19:15.340927",
+  "lastUpdated": "2026-07-19T09:19:06.120126",
   "threshold_minutes": 60,
   "market": "SC"
 }
