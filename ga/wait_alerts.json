@@ -67612,8 +67612,47 @@
       "minutesOut": 47,
       "hoursOut": 0.8,
       "sameDaySlots": 7
+    },
+    {
+      "scrapeTime": "2026-07-20T16:58:18.043574",
+      "scrapeTimeDisplay": "4:58 PM",
+      "scrapeDate": "2026-07-20",
+      "locationName": "Piedmont UC \u2014 West Cobb",
+      "address": "2505 Dallas Hwy Marietta, GA",
+      "area": "West Cobb",
+      "nextAvailableTime": "5:45 PM",
+      "nextAvailableRaw": "17:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 6
+    },
+    {
+      "scrapeTime": "2026-07-20T16:58:18.043574",
+      "scrapeTimeDisplay": "4:58 PM",
+      "scrapeDate": "2026-07-20",
+      "locationName": "Piedmont UC \u2014 Cumming",
+      "address": "880 Buford HWY Cumming, GA",
+      "area": "Cumming",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-07-20T16:58:18.043574",
+      "scrapeTimeDisplay": "4:58 PM",
+      "scrapeDate": "2026-07-20",
+      "locationName": "Piedmont UC \u2014 Newnan Arbor Springs",
+      "address": "35 Arbor Springs Terrace Newnan, GA",
+      "area": "Newnan Arbor Springs",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 7
     }
   ],
-  "lastUpdated": "2026-07-20T16:16:31.251160",
+  "lastUpdated": "2026-07-20T17:16:29.685948",
   "threshold_minutes": 45
 }
