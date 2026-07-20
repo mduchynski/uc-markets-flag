@@ -67209,8 +67209,86 @@
       "minutesOut": 62,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-20T11:58:05.936613",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-07-20",
+      "locationName": "Piedmont UC \u2014 West Cobb",
+      "address": "2505 Dallas Hwy Marietta, GA",
+      "area": "West Cobb",
+      "nextAvailableTime": "12:45 PM",
+      "nextAvailableRaw": "12:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-20T11:58:05.936613",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-07-20",
+      "locationName": "Piedmont UC \u2014 LaGrange",
+      "address": "1524 Lafayette Parkway Lagrange, GA",
+      "area": "LaGrange",
+      "nextAvailableTime": "12:52 PM",
+      "nextAvailableRaw": "12:52:00",
+      "minutesOut": 54,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-20T11:58:05.936613",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-07-20",
+      "locationName": "Piedmont UC \u2014 Loganville",
+      "address": "4763 Atlanta Highway Loganville, GA",
+      "area": "Loganville",
+      "nextAvailableTime": "2:15 PM",
+      "nextAvailableRaw": "14:15:00",
+      "minutesOut": 137,
+      "hoursOut": 2.3,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-20T11:58:05.936613",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-07-20",
+      "locationName": "Piedmont UC \u2014 Woodstock",
+      "address": "285 Ridgewalk Parkway Woodstock, GA",
+      "area": "Woodstock",
+      "nextAvailableTime": "1:20 PM",
+      "nextAvailableRaw": "13:20:00",
+      "minutesOut": 82,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-20T11:58:05.936613",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-07-20",
+      "locationName": "Piedmont UC \u2014 Canton",
+      "address": "2026 Cumming Hwy, Suite 100 Canton, GA",
+      "area": "Canton",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 122,
+      "hoursOut": 2.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-20T11:58:05.936613",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-07-20",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "1:20 PM",
+      "nextAvailableRaw": "13:20:00",
+      "minutesOut": 82,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-20T11:16:30.100420",
+  "lastUpdated": "2026-07-20T12:16:29.633948",
   "threshold_minutes": 45
 }
