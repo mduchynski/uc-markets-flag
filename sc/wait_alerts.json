@@ -5067,9 +5067,23 @@
       "minutesOut": 71,
       "hoursOut": 1.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-20T08:19:08.008718",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-07-20",
+      "locationName": "Prisma UC \u2014 Cherrydale",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "115 State Park Rd Greenville, SC",
+      "area": "Cherrydale",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 101,
+      "hoursOut": 1.7,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-19T20:19:05.164874",
+  "lastUpdated": "2026-07-20T08:19:08.008718",
   "threshold_minutes": 60,
   "market": "SC"
 }
