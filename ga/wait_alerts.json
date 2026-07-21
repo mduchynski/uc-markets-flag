@@ -68093,8 +68093,60 @@
       "minutesOut": 47,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-21T15:58:18.829519",
+      "scrapeTimeDisplay": "3:58 PM",
+      "scrapeDate": "2026-07-21",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "5:30 PM",
+      "nextAvailableRaw": "17:30:00",
+      "minutesOut": 92,
+      "hoursOut": 1.5,
+      "sameDaySlots": 4
+    },
+    {
+      "scrapeTime": "2026-07-21T15:58:18.829519",
+      "scrapeTimeDisplay": "3:58 PM",
+      "scrapeDate": "2026-07-21",
+      "locationName": "Piedmont UC \u2014 Watkinsville",
+      "address": "1010 Village Drive Watkinsville, GA",
+      "area": "Watkinsville",
+      "nextAvailableTime": "5:00 PM",
+      "nextAvailableRaw": "17:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-07-21T15:58:18.829519",
+      "scrapeTimeDisplay": "3:58 PM",
+      "scrapeDate": "2026-07-21",
+      "locationName": "Piedmont UC \u2014 Columbus Blackmon",
+      "address": "7301 Blackmon Road Columbus, GA",
+      "area": "Columbus Blackmon",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 6
+    },
+    {
+      "scrapeTime": "2026-07-21T15:58:18.829519",
+      "scrapeTimeDisplay": "3:58 PM",
+      "scrapeDate": "2026-07-21",
+      "locationName": "Piedmont UC \u2014 Jefferson",
+      "address": "528 Panther Drive Jefferson, GA",
+      "area": "Jefferson",
+      "nextAvailableTime": "5:00 PM",
+      "nextAvailableRaw": "17:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 9
     }
   ],
-  "lastUpdated": "2026-07-21T15:16:29.960295",
+  "lastUpdated": "2026-07-21T16:16:28.878429",
   "threshold_minutes": 45
 }
