@@ -67820,8 +67820,47 @@
       "minutesOut": 47,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-21T11:58:14.630000",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-07-21",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "1:00 PM",
+      "nextAvailableRaw": "13:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-21T11:58:14.630000",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-07-21",
+      "locationName": "Piedmont UC \u2014 Snellville-Centerville Hwy",
+      "address": "3641 Centerville Hwy Snellville, GA",
+      "area": "Snellville-Centerville Hwy",
+      "nextAvailableTime": "12:45 PM",
+      "nextAvailableRaw": "12:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-21T11:58:14.630000",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-07-21",
+      "locationName": "Piedmont UC \u2014 Columbus Blackmon",
+      "address": "7301 Blackmon Road Columbus, GA",
+      "area": "Columbus Blackmon",
+      "nextAvailableTime": "1:00 PM",
+      "nextAvailableRaw": "13:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-21T11:16:29.307799",
+  "lastUpdated": "2026-07-21T12:16:29.639659",
   "threshold_minutes": 45
 }
