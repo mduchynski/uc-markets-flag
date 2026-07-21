@@ -68145,8 +68145,73 @@
       "minutesOut": 62,
       "hoursOut": 1.0,
       "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-07-21T16:58:18.195196",
+      "scrapeTimeDisplay": "4:58 PM",
+      "scrapeDate": "2026-07-21",
+      "locationName": "Piedmont UC \u2014 East Point",
+      "address": "3515 Camp Creek Parkway East Point, GA",
+      "area": "East Point",
+      "nextAvailableTime": "5:52 PM",
+      "nextAvailableRaw": "17:52:00",
+      "minutesOut": 54,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-21T16:58:18.195196",
+      "scrapeTimeDisplay": "4:58 PM",
+      "scrapeDate": "2026-07-21",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "5:45 PM",
+      "nextAvailableRaw": "17:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-07-21T16:58:18.195196",
+      "scrapeTimeDisplay": "4:58 PM",
+      "scrapeDate": "2026-07-21",
+      "locationName": "Piedmont UC \u2014 Smyrna",
+      "address": "1155 Concord Rd SE Smyrna, GA",
+      "area": "Smyrna",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 6
+    },
+    {
+      "scrapeTime": "2026-07-21T16:58:18.195196",
+      "scrapeTimeDisplay": "4:58 PM",
+      "scrapeDate": "2026-07-21",
+      "locationName": "Piedmont UC \u2014 Jefferson",
+      "address": "528 Panther Drive Jefferson, GA",
+      "area": "Jefferson",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 6
+    },
+    {
+      "scrapeTime": "2026-07-21T16:58:18.195196",
+      "scrapeTimeDisplay": "4:58 PM",
+      "scrapeDate": "2026-07-21",
+      "locationName": "Piedmont UC \u2014 Hapeville",
+      "address": "1001 Virginia Ave. Hapeville, GA",
+      "area": "Hapeville",
+      "nextAvailableTime": "5:45 PM",
+      "nextAvailableRaw": "17:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 3
     }
   ],
-  "lastUpdated": "2026-07-21T16:16:28.878429",
+  "lastUpdated": "2026-07-21T17:16:28.752442",
   "threshold_minutes": 45
 }
