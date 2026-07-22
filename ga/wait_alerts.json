@@ -68262,8 +68262,21 @@
       "minutesOut": 47,
       "hoursOut": 0.8,
       "sameDaySlots": 1
+    },
+    {
+      "scrapeTime": "2026-07-22T08:58:37.304809",
+      "scrapeTimeDisplay": "8:58 AM",
+      "scrapeDate": "2026-07-22",
+      "locationName": "Piedmont UC \u2014 Roswell Crabapple Road",
+      "address": "10971 Crabapple Road, Suite 1500 Roswell, GA",
+      "area": "Roswell Crabapple Road",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-22T08:16:29.898655",
+  "lastUpdated": "2026-07-22T09:16:28.990586",
   "threshold_minutes": 45
 }
