@@ -68899,8 +68899,34 @@
       "minutesOut": 60,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-23T14:59:43.264307",
+      "scrapeTimeDisplay": "2:59 PM",
+      "scrapeDate": "2026-07-23",
+      "locationName": "Piedmont UC \u2014 Hapeville",
+      "address": "1001 Virginia Ave. Hapeville, GA",
+      "area": "Hapeville",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-23T14:59:43.264307",
+      "scrapeTimeDisplay": "2:59 PM",
+      "scrapeDate": "2026-07-23",
+      "locationName": "Piedmont UC \u2014 Dacula - Harbins Road",
+      "address": "862 Harbins Rd SE, Suite 101 Dacula, GA",
+      "area": "Dacula - Harbins Road",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-23T14:16:32.481414",
+  "lastUpdated": "2026-07-23T15:16:36.281651",
   "threshold_minutes": 45
 }
