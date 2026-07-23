@@ -68964,8 +68964,21 @@
       "minutesOut": 90,
       "hoursOut": 1.5,
       "sameDaySlots": 7
+    },
+    {
+      "scrapeTime": "2026-07-23T17:59:18.685048",
+      "scrapeTimeDisplay": "5:59 PM",
+      "scrapeDate": "2026-07-23",
+      "locationName": "Piedmont UC \u2014 Grayson",
+      "address": "2594 Loganville Hwy Lilburn, GA",
+      "area": "Grayson",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 3
     }
   ],
-  "lastUpdated": "2026-07-23T17:16:34.455572",
+  "lastUpdated": "2026-07-23T18:16:32.245117",
   "threshold_minutes": 45
 }
