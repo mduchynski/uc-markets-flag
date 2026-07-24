@@ -69445,8 +69445,34 @@
       "minutesOut": 45,
       "hoursOut": 0.8,
       "sameDaySlots": 4
+    },
+    {
+      "scrapeTime": "2026-07-24T17:59:34.449319",
+      "scrapeTimeDisplay": "5:59 PM",
+      "scrapeDate": "2026-07-24",
+      "locationName": "Piedmont UC \u2014 Austell",
+      "address": "3999 Austell Road Austell, GA",
+      "area": "Austell",
+      "nextAvailableTime": "7:00 PM",
+      "nextAvailableRaw": "19:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-07-24T17:59:34.449319",
+      "scrapeTimeDisplay": "5:59 PM",
+      "scrapeDate": "2026-07-24",
+      "locationName": "Piedmont UC \u2014 Summerhill",
+      "address": "572 Hank Aaron Drive, Suite 4200 Atlanta, GA",
+      "area": "Summerhill",
+      "nextAvailableTime": "7:00 PM",
+      "nextAvailableRaw": "19:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 2
     }
   ],
-  "lastUpdated": "2026-07-24T17:16:35.153959",
+  "lastUpdated": "2026-07-24T18:16:32.863862",
   "threshold_minutes": 45
 }
