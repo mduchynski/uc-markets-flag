@@ -5277,9 +5277,37 @@
       "minutesOut": 85,
       "hoursOut": 1.4,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-24T08:19:10.322602",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-07-24",
+      "locationName": "Prisma UC \u2014 Scuffletown",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "300 Scuffletown Rd Simpsonville, SC",
+      "area": "Scuffletown",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 71,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-24T08:19:10.322602",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-07-24",
+      "locationName": "Prisma UC \u2014 Columbia - Harbison Blvd",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "131 Harbison Blvd Suite A Columbia, SC",
+      "area": "Columbia - Harbison Blvd",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 71,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-23T20:19:46.873859",
+  "lastUpdated": "2026-07-24T08:19:10.322602",
   "threshold_minutes": 60,
   "market": "SC"
 }
