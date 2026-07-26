@@ -70121,8 +70121,47 @@
       "minutesOut": 51,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-26T09:16:29.303546",
+      "scrapeTimeDisplay": "9:16 AM",
+      "scrapeDate": "2026-07-26",
+      "locationName": "Piedmont UC \u2014 Douglasville",
+      "address": "2976 Chapel Hill Rd Douglasville, GA",
+      "area": "Douglasville",
+      "nextAvailableTime": "10:07 AM",
+      "nextAvailableRaw": "10:07:00",
+      "minutesOut": 51,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-26T09:16:29.303546",
+      "scrapeTimeDisplay": "9:16 AM",
+      "scrapeDate": "2026-07-26",
+      "locationName": "Piedmont UC \u2014 Lithonia",
+      "address": "7231 Rockbridge Road Lithonia, GA",
+      "area": "Lithonia",
+      "nextAvailableTime": "10:15 AM",
+      "nextAvailableRaw": "10:15:00",
+      "minutesOut": 59,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-26T09:16:29.303546",
+      "scrapeTimeDisplay": "9:16 AM",
+      "scrapeDate": "2026-07-26",
+      "locationName": "Piedmont UC \u2014 Columbus Blackmon",
+      "address": "7301 Blackmon Road Columbus, GA",
+      "area": "Columbus Blackmon",
+      "nextAvailableTime": "10:15 AM",
+      "nextAvailableRaw": "10:15:00",
+      "minutesOut": 59,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-26T08:16:21.278490",
+  "lastUpdated": "2026-07-26T09:16:29.303546",
   "threshold_minutes": 45
 }
