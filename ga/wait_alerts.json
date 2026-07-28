@@ -71629,8 +71629,34 @@
       "minutesOut": 63,
       "hoursOut": 1.0,
       "sameDaySlots": 5
+    },
+    {
+      "scrapeTime": "2026-07-28T17:57:27.206251",
+      "scrapeTimeDisplay": "5:57 PM",
+      "scrapeDate": "2026-07-28",
+      "locationName": "Piedmont UC \u2014 Lithonia",
+      "address": "7231 Rockbridge Road Lithonia, GA",
+      "area": "Lithonia",
+      "nextAvailableTime": "7:00 PM",
+      "nextAvailableRaw": "19:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 1
+    },
+    {
+      "scrapeTime": "2026-07-28T17:57:27.206251",
+      "scrapeTimeDisplay": "5:57 PM",
+      "scrapeDate": "2026-07-28",
+      "locationName": "Piedmont UC \u2014 Columbus Blackmon",
+      "address": "7301 Blackmon Road Columbus, GA",
+      "area": "Columbus Blackmon",
+      "nextAvailableTime": "7:30 PM",
+      "nextAvailableRaw": "19:30:00",
+      "minutesOut": 93,
+      "hoursOut": 1.5,
+      "sameDaySlots": 1
     }
   ],
-  "lastUpdated": "2026-07-28T17:16:31.825418",
+  "lastUpdated": "2026-07-28T18:16:31.493475",
   "threshold_minutes": 45
 }
