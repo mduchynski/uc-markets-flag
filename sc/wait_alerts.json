@@ -5389,9 +5389,51 @@
       "minutesOut": 63,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-28T08:19:07.962087",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-07-28",
+      "locationName": "Prisma UC \u2014 Taylors",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "3025 Wade Hampton Blvd. Taylors, SC",
+      "area": "Taylors",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 86,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-28T08:19:07.962087",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-07-28",
+      "locationName": "Prisma UC \u2014 Travelers Rest",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "571 Roe Center Ct., Suite C-3 Travelers Rest, SC",
+      "area": "Travelers Rest",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 71,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-28T08:19:07.962087",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-07-28",
+      "locationName": "Prisma UC \u2014 Clemson",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "1390 Tiger Blvd 29631, SC",
+      "area": "Clemson",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 71,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-27T20:19:12.710407",
+  "lastUpdated": "2026-07-28T08:19:07.962087",
   "threshold_minutes": 60,
   "market": "SC"
 }
