@@ -71499,8 +71499,86 @@
       "minutesOut": 63,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-28T14:57:17.572830",
+      "scrapeTimeDisplay": "2:57 PM",
+      "scrapeDate": "2026-07-28",
+      "locationName": "Piedmont UC \u2014 Holcomb Bridge",
+      "address": "2701 Holcomb Bridge Road Alpharetta, GA",
+      "area": "Holcomb Bridge",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-28T14:57:17.572830",
+      "scrapeTimeDisplay": "2:57 PM",
+      "scrapeDate": "2026-07-28",
+      "locationName": "Piedmont UC \u2014 Lithonia",
+      "address": "7231 Rockbridge Road Lithonia, GA",
+      "area": "Lithonia",
+      "nextAvailableTime": "4:30 PM",
+      "nextAvailableRaw": "16:30:00",
+      "minutesOut": 93,
+      "hoursOut": 1.5,
+      "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-07-28T14:57:17.572830",
+      "scrapeTimeDisplay": "2:57 PM",
+      "scrapeDate": "2026-07-28",
+      "locationName": "Piedmont UC \u2014 Columbus Blackmon",
+      "address": "7301 Blackmon Road Columbus, GA",
+      "area": "Columbus Blackmon",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-28T14:57:17.572830",
+      "scrapeTimeDisplay": "2:57 PM",
+      "scrapeDate": "2026-07-28",
+      "locationName": "Piedmont UC \u2014 Columbus Uptown",
+      "address": "101 13th Street Suite 200 Columbus, GA",
+      "area": "Columbus Uptown",
+      "nextAvailableTime": "3:45 PM",
+      "nextAvailableRaw": "15:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-28T14:57:17.572830",
+      "scrapeTimeDisplay": "2:57 PM",
+      "scrapeDate": "2026-07-28",
+      "locationName": "Piedmont UC \u2014 Acworth",
+      "address": "3345 Cobb Pkwy NW,Suite 800 Acworth, GA",
+      "area": "Acworth",
+      "nextAvailableTime": "3:45 PM",
+      "nextAvailableRaw": "15:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-28T14:57:17.572830",
+      "scrapeTimeDisplay": "2:57 PM",
+      "scrapeDate": "2026-07-28",
+      "locationName": "Piedmont UC \u2014 Brookhaven",
+      "address": "4218 Peachtree Road, Unit B Brookhaven, GA",
+      "area": "Brookhaven",
+      "nextAvailableTime": "3:45 PM",
+      "nextAvailableRaw": "15:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-28T14:16:30.075193",
+  "lastUpdated": "2026-07-28T15:16:33.090930",
   "threshold_minutes": 45
 }
