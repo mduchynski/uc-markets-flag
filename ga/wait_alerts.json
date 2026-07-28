@@ -71616,8 +71616,21 @@
       "minutesOut": 47,
       "hoursOut": 0.8,
       "sameDaySlots": 8
+    },
+    {
+      "scrapeTime": "2026-07-28T16:57:25.234926",
+      "scrapeTimeDisplay": "4:57 PM",
+      "scrapeDate": "2026-07-28",
+      "locationName": "Piedmont UC \u2014 Vinings",
+      "address": "2810 Paces Ferry Road, Suite 156 Atlanta, GA",
+      "area": "Vinings",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 5
     }
   ],
-  "lastUpdated": "2026-07-28T16:16:33.235823",
+  "lastUpdated": "2026-07-28T17:16:31.825418",
   "threshold_minutes": 45
 }
