@@ -71434,8 +71434,73 @@
       "minutesOut": 47,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-28T13:57:16.926958",
+      "scrapeTimeDisplay": "1:57 PM",
+      "scrapeDate": "2026-07-28",
+      "locationName": "Piedmont UC \u2014 Grayson",
+      "address": "2594 Loganville Hwy Lilburn, GA",
+      "area": "Grayson",
+      "nextAvailableTime": "3:15 PM",
+      "nextAvailableRaw": "15:15:00",
+      "minutesOut": 78,
+      "hoursOut": 1.3,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-28T13:57:16.926958",
+      "scrapeTimeDisplay": "1:57 PM",
+      "scrapeDate": "2026-07-28",
+      "locationName": "Piedmont UC \u2014 Barrow",
+      "address": "340 Exchange Boulevard Bethlehem, GA",
+      "area": "Barrow",
+      "nextAvailableTime": "3:00 PM",
+      "nextAvailableRaw": "15:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-28T13:57:16.926958",
+      "scrapeTimeDisplay": "1:57 PM",
+      "scrapeDate": "2026-07-28",
+      "locationName": "Piedmont UC \u2014 Acworth",
+      "address": "3345 Cobb Pkwy NW,Suite 800 Acworth, GA",
+      "area": "Acworth",
+      "nextAvailableTime": "3:45 PM",
+      "nextAvailableRaw": "15:45:00",
+      "minutesOut": 108,
+      "hoursOut": 1.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-28T13:57:16.926958",
+      "scrapeTimeDisplay": "1:57 PM",
+      "scrapeDate": "2026-07-28",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "3:00 PM",
+      "nextAvailableRaw": "15:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-28T13:57:16.926958",
+      "scrapeTimeDisplay": "1:57 PM",
+      "scrapeDate": "2026-07-28",
+      "locationName": "Piedmont UC \u2014 Vinings",
+      "address": "2810 Paces Ferry Road, Suite 156 Atlanta, GA",
+      "area": "Vinings",
+      "nextAvailableTime": "3:00 PM",
+      "nextAvailableRaw": "15:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-28T13:16:33.469129",
+  "lastUpdated": "2026-07-28T14:16:30.075193",
   "threshold_minutes": 45
 }
