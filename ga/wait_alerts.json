@@ -71408,8 +71408,34 @@
       "minutesOut": 63,
       "hoursOut": 1.1,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-28T12:57:54.729345",
+      "scrapeTimeDisplay": "12:57 PM",
+      "scrapeDate": "2026-07-28",
+      "locationName": "Piedmont UC \u2014 Chamblee",
+      "address": "5438 Peachtree Industrial Blvd Chamblee, GA",
+      "area": "Chamblee",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-28T12:57:54.729345",
+      "scrapeTimeDisplay": "12:57 PM",
+      "scrapeDate": "2026-07-28",
+      "locationName": "Piedmont UC \u2014 Lithonia",
+      "address": "7231 Rockbridge Road Lithonia, GA",
+      "area": "Lithonia",
+      "nextAvailableTime": "1:45 PM",
+      "nextAvailableRaw": "13:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-28T12:16:31.519160",
+  "lastUpdated": "2026-07-28T13:16:33.469129",
   "threshold_minutes": 45
 }
