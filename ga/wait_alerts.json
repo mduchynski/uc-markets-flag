@@ -71330,8 +71330,34 @@
       "minutesOut": 58,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-28T08:57:36.887364",
+      "scrapeTimeDisplay": "8:57 AM",
+      "scrapeDate": "2026-07-28",
+      "locationName": "Piedmont UC \u2014 Chamblee",
+      "address": "5438 Peachtree Industrial Blvd Chamblee, GA",
+      "area": "Chamblee",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-28T08:57:36.887364",
+      "scrapeTimeDisplay": "8:57 AM",
+      "scrapeDate": "2026-07-28",
+      "locationName": "Piedmont UC \u2014 Columbus Uptown",
+      "address": "101 13th Street Suite 200 Columbus, GA",
+      "area": "Columbus Uptown",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-28T08:16:30.375738",
+  "lastUpdated": "2026-07-28T09:16:31.478589",
   "threshold_minutes": 45
 }
