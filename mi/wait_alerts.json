@@ -2743,8 +2743,22 @@
       "minutesOut": 66,
       "hoursOut": 1.1,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-29T08:15:21.572801",
+      "scrapeTimeDisplay": "8:15 AM",
+      "scrapeDate": "2026-07-29",
+      "locationName": "Corewell UC \u2014 Downtown Royal Oak",
+      "systemName": "Corewell Health Urgent Care",
+      "address": "309 E 11 Mile Road Royal Oak, MI",
+      "area": "Downtown Royal Oak",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 75,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-28T20:12:16.361483",
+  "lastUpdated": "2026-07-29T08:15:21.572801",
   "threshold_minutes": 50
 }
