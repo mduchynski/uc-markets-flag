@@ -72162,8 +72162,73 @@
       "minutesOut": 60,
       "hoursOut": 1.0,
       "sameDaySlots": 1
+    },
+    {
+      "scrapeTime": "2026-07-29T17:59:33.399686",
+      "scrapeTimeDisplay": "5:59 PM",
+      "scrapeDate": "2026-07-29",
+      "locationName": "Piedmont UC \u2014 Loganville",
+      "address": "4763 Atlanta Highway Loganville, GA",
+      "area": "Loganville",
+      "nextAvailableTime": "7:00 PM",
+      "nextAvailableRaw": "19:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 1
+    },
+    {
+      "scrapeTime": "2026-07-29T17:59:33.399686",
+      "scrapeTimeDisplay": "5:59 PM",
+      "scrapeDate": "2026-07-29",
+      "locationName": "Piedmont UC \u2014 Chamblee",
+      "address": "5438 Peachtree Industrial Blvd Chamblee, GA",
+      "area": "Chamblee",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-07-29T17:59:33.399686",
+      "scrapeTimeDisplay": "5:59 PM",
+      "scrapeDate": "2026-07-29",
+      "locationName": "Piedmont UC \u2014 Macon Ingleside",
+      "address": "2410 Ingleside Ave Macon, GA",
+      "area": "Macon Ingleside",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-07-29T17:59:33.399686",
+      "scrapeTimeDisplay": "5:59 PM",
+      "scrapeDate": "2026-07-29",
+      "locationName": "Piedmont UC \u2014 Cartersville Main St",
+      "address": "10 Main St. Market Place Cartersville, GA",
+      "area": "Cartersville Main St",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 1
+    },
+    {
+      "scrapeTime": "2026-07-29T17:59:33.399686",
+      "scrapeTimeDisplay": "5:59 PM",
+      "scrapeDate": "2026-07-29",
+      "locationName": "Piedmont UC \u2014 Acworth",
+      "address": "3345 Cobb Pkwy NW,Suite 800 Acworth, GA",
+      "area": "Acworth",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 3
     }
   ],
-  "lastUpdated": "2026-07-29T17:16:33.575279",
+  "lastUpdated": "2026-07-29T18:16:32.872274",
   "threshold_minutes": 45
 }
