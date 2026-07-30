@@ -72227,8 +72227,34 @@
       "minutesOut": 45,
       "hoursOut": 0.8,
       "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-07-30T08:00:02.768017",
+      "scrapeTimeDisplay": "8:00 AM",
+      "scrapeDate": "2026-07-30",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "9:00 AM",
+      "nextAvailableRaw": "09:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-07-30T08:00:02.768017",
+      "scrapeTimeDisplay": "8:00 AM",
+      "scrapeDate": "2026-07-30",
+      "locationName": "Piedmont UC \u2014 Grayson",
+      "address": "2594 Loganville Hwy Lilburn, GA",
+      "area": "Grayson",
+      "nextAvailableTime": "8:50 AM",
+      "nextAvailableRaw": "08:50:00",
+      "minutesOut": 50,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-29T20:16:33.379855",
+  "lastUpdated": "2026-07-30T08:16:30.618340",
   "threshold_minutes": 45
 }
