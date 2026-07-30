@@ -72565,8 +72565,60 @@
       "minutesOut": 60,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-30T14:57:10.178858",
+      "scrapeTimeDisplay": "2:57 PM",
+      "scrapeDate": "2026-07-30",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-30T14:57:10.178858",
+      "scrapeTimeDisplay": "2:57 PM",
+      "scrapeDate": "2026-07-30",
+      "locationName": "Piedmont UC \u2014 Cumming",
+      "address": "880 Buford HWY Cumming, GA",
+      "area": "Cumming",
+      "nextAvailableTime": "4:24 PM",
+      "nextAvailableRaw": "16:24:00",
+      "minutesOut": 87,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-30T14:57:10.178858",
+      "scrapeTimeDisplay": "2:57 PM",
+      "scrapeDate": "2026-07-30",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-30T14:57:10.178858",
+      "scrapeTimeDisplay": "2:57 PM",
+      "scrapeDate": "2026-07-30",
+      "locationName": "Piedmont UC \u2014 Oconee",
+      "address": "1305 Jennings Mill Road Suite 120 Watkinsville, GA",
+      "area": "Oconee",
+      "nextAvailableTime": "3:45 PM",
+      "nextAvailableRaw": "15:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-30T14:16:33.243900",
+  "lastUpdated": "2026-07-30T15:16:53.611787",
   "threshold_minutes": 45
 }
