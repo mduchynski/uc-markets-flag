@@ -72812,8 +72812,34 @@
       "minutesOut": 84,
       "hoursOut": 1.4,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-31T08:59:20.208996",
+      "scrapeTimeDisplay": "8:59 AM",
+      "scrapeDate": "2026-07-31",
+      "locationName": "Piedmont UC \u2014 Columbus Blackmon",
+      "address": "7301 Blackmon Road Columbus, GA",
+      "area": "Columbus Blackmon",
+      "nextAvailableTime": "9:50 AM",
+      "nextAvailableRaw": "09:50:00",
+      "minutesOut": 51,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-31T09:16:31.681424",
+      "scrapeTimeDisplay": "9:16 AM",
+      "scrapeDate": "2026-07-31",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "10:15 AM",
+      "nextAvailableRaw": "10:15:00",
+      "minutesOut": 58,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-31T08:16:29.405274",
+  "lastUpdated": "2026-07-31T09:16:31.681424",
   "threshold_minutes": 45
 }
