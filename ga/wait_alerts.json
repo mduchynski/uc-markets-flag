@@ -72747,8 +72747,73 @@
       "minutesOut": 48,
       "hoursOut": 0.8,
       "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-07-31T08:00:14.428704",
+      "scrapeTimeDisplay": "8:00 AM",
+      "scrapeDate": "2026-07-31",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "9:00 AM",
+      "nextAvailableRaw": "09:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-07-31T08:00:14.428704",
+      "scrapeTimeDisplay": "8:00 AM",
+      "scrapeDate": "2026-07-31",
+      "locationName": "Piedmont UC \u2014 Columbus Blackmon",
+      "address": "7301 Blackmon Road Columbus, GA",
+      "area": "Columbus Blackmon",
+      "nextAvailableTime": "9:40 AM",
+      "nextAvailableRaw": "09:40:00",
+      "minutesOut": 100,
+      "hoursOut": 1.7,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-31T08:16:29.405274",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-07-31",
+      "locationName": "Piedmont UC \u2014 Peachtree City",
+      "address": "100 Line Creek Drive Peachtree, GA",
+      "area": "Peachtree City",
+      "nextAvailableTime": "9:07 AM",
+      "nextAvailableRaw": "09:07:00",
+      "minutesOut": 51,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-31T08:16:29.405274",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-07-31",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 74,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-31T08:16:29.405274",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-07-31",
+      "locationName": "Piedmont UC \u2014 Columbus Blackmon",
+      "address": "7301 Blackmon Road Columbus, GA",
+      "area": "Columbus Blackmon",
+      "nextAvailableTime": "9:40 AM",
+      "nextAvailableRaw": "09:40:00",
+      "minutesOut": 84,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-30T20:17:10.669810",
+  "lastUpdated": "2026-07-31T08:16:29.405274",
   "threshold_minutes": 45
 }
