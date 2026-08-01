@@ -73241,8 +73241,34 @@
       "minutesOut": 58,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-01T10:00:18.597860",
+      "scrapeTimeDisplay": "10:00 AM",
+      "scrapeDate": "2026-08-01",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "11:00 AM",
+      "nextAvailableRaw": "11:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-01T10:00:18.597860",
+      "scrapeTimeDisplay": "10:00 AM",
+      "scrapeDate": "2026-08-01",
+      "locationName": "Piedmont UC \u2014 Columbus Uptown",
+      "address": "101 13th Street Suite 200 Columbus, GA",
+      "area": "Columbus Uptown",
+      "nextAvailableTime": "11:00 AM",
+      "nextAvailableRaw": "11:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-01T09:16:32.434265",
+  "lastUpdated": "2026-08-01T10:16:32.790312",
   "threshold_minutes": 45
 }
