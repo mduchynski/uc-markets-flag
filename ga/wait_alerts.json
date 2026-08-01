@@ -73215,8 +73215,34 @@
       "minutesOut": 73,
       "hoursOut": 1.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-01T08:59:32.455933",
+      "scrapeTimeDisplay": "8:59 AM",
+      "scrapeDate": "2026-08-01",
+      "locationName": "Piedmont UC \u2014 Athens",
+      "address": "485 Highway 29 North Athens, GA",
+      "area": "Athens",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-01T09:16:32.434265",
+      "scrapeTimeDisplay": "9:16 AM",
+      "scrapeDate": "2026-08-01",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "10:15 AM",
+      "nextAvailableRaw": "10:15:00",
+      "minutesOut": 58,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-01T08:16:33.670937",
+  "lastUpdated": "2026-08-01T09:16:32.434265",
   "threshold_minutes": 45
 }
