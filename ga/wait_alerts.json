@@ -73163,8 +73163,60 @@
       "minutesOut": 60,
       "hoursOut": 1.0,
       "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-08-01T07:59:25.468315",
+      "scrapeTimeDisplay": "7:59 AM",
+      "scrapeDate": "2026-08-01",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "9:00 AM",
+      "nextAvailableRaw": "09:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-01T07:59:25.468315",
+      "scrapeTimeDisplay": "7:59 AM",
+      "scrapeDate": "2026-08-01",
+      "locationName": "Piedmont UC \u2014 Athens",
+      "address": "485 Highway 29 North Athens, GA",
+      "area": "Athens",
+      "nextAvailableTime": "8:48 AM",
+      "nextAvailableRaw": "08:48:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-01T08:16:33.670937",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-08-01",
+      "locationName": "Piedmont UC \u2014 Athens",
+      "address": "485 Highway 29 North Athens, GA",
+      "area": "Athens",
+      "nextAvailableTime": "9:15 AM",
+      "nextAvailableRaw": "09:15:00",
+      "minutesOut": 58,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-01T08:16:33.670937",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-08-01",
+      "locationName": "Piedmont UC \u2014 Columbus Uptown",
+      "address": "101 13th Street Suite 200 Columbus, GA",
+      "area": "Columbus Uptown",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 73,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-31T20:16:33.130807",
+  "lastUpdated": "2026-08-01T08:16:33.670937",
   "threshold_minutes": 45
 }
