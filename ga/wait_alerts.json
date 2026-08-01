@@ -73709,8 +73709,60 @@
       "minutesOut": 61,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-01T15:00:39.013875",
+      "scrapeTimeDisplay": "3:00 PM",
+      "scrapeDate": "2026-08-01",
+      "locationName": "Piedmont UC \u2014 West Cobb",
+      "address": "2505 Dallas Hwy Marietta, GA",
+      "area": "West Cobb",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 59,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-01T15:00:39.013875",
+      "scrapeTimeDisplay": "3:00 PM",
+      "scrapeDate": "2026-08-01",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "5:30 PM",
+      "nextAvailableRaw": "17:30:00",
+      "minutesOut": 149,
+      "hoursOut": 2.5,
+      "sameDaySlots": 4
+    },
+    {
+      "scrapeTime": "2026-08-01T15:00:39.013875",
+      "scrapeTimeDisplay": "3:00 PM",
+      "scrapeDate": "2026-08-01",
+      "locationName": "Piedmont UC \u2014 Canton",
+      "address": "2026 Cumming Hwy, Suite 100 Canton, GA",
+      "area": "Canton",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 59,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-01T15:00:39.013875",
+      "scrapeTimeDisplay": "3:00 PM",
+      "scrapeDate": "2026-08-01",
+      "locationName": "Piedmont UC \u2014 Lithonia",
+      "address": "7231 Rockbridge Road Lithonia, GA",
+      "area": "Lithonia",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 104,
+      "hoursOut": 1.7,
+      "sameDaySlots": 9
     }
   ],
-  "lastUpdated": "2026-08-01T14:16:34.616805",
+  "lastUpdated": "2026-08-01T15:16:35.551018",
   "threshold_minutes": 45
 }
