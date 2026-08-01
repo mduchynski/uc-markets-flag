@@ -73800,8 +73800,34 @@
       "minutesOut": 46,
       "hoursOut": 0.8,
       "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-08-01T16:59:44.995565",
+      "scrapeTimeDisplay": "4:59 PM",
+      "scrapeDate": "2026-08-01",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "6:30 PM",
+      "nextAvailableRaw": "18:30:00",
+      "minutesOut": 90,
+      "hoursOut": 1.5,
+      "sameDaySlots": 1
+    },
+    {
+      "scrapeTime": "2026-08-01T16:59:44.995565",
+      "scrapeTimeDisplay": "4:59 PM",
+      "scrapeDate": "2026-08-01",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "5:45 PM",
+      "nextAvailableRaw": "17:45:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 5
     }
   ],
-  "lastUpdated": "2026-08-01T16:17:11.863446",
+  "lastUpdated": "2026-08-01T17:16:36.072771",
   "threshold_minutes": 45
 }
