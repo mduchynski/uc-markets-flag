@@ -5613,9 +5613,23 @@
       "minutesOut": 71,
       "hoursOut": 1.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-03T09:19:06.795412",
+      "scrapeTimeDisplay": "9:19 AM",
+      "scrapeDate": "2026-08-03",
+      "locationName": "Prisma UC \u2014 West Columbia",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "2501 Augusta Road West Columbia, SC",
+      "area": "West Columbia",
+      "nextAvailableTime": "10:30 AM",
+      "nextAvailableRaw": "10:30:00",
+      "minutesOut": 71,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-03T08:19:02.107012",
+  "lastUpdated": "2026-08-03T09:19:06.795412",
   "threshold_minutes": 60,
   "market": "SC"
 }
