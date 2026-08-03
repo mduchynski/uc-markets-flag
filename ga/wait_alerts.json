@@ -74918,8 +74918,73 @@
       "minutesOut": 46,
       "hoursOut": 0.8,
       "sameDaySlots": 7
+    },
+    {
+      "scrapeTime": "2026-08-03T07:59:04.671573",
+      "scrapeTimeDisplay": "7:59 AM",
+      "scrapeDate": "2026-08-03",
+      "locationName": "Piedmont UC \u2014 Peachtree City",
+      "address": "100 Line Creek Drive Peachtree, GA",
+      "area": "Peachtree City",
+      "nextAvailableTime": "9:07 AM",
+      "nextAvailableRaw": "09:07:00",
+      "minutesOut": 68,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-03T07:59:04.671573",
+      "scrapeTimeDisplay": "7:59 AM",
+      "scrapeDate": "2026-08-03",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "9:00 AM",
+      "nextAvailableRaw": "09:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-03T07:59:04.671573",
+      "scrapeTimeDisplay": "7:59 AM",
+      "scrapeDate": "2026-08-03",
+      "locationName": "Piedmont UC \u2014 Snellville-Centerville Hwy",
+      "address": "3641 Centerville Hwy Snellville, GA",
+      "area": "Snellville-Centerville Hwy",
+      "nextAvailableTime": "9:00 AM",
+      "nextAvailableRaw": "09:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-08-03T08:16:21.842076",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-08-03",
+      "locationName": "Piedmont UC \u2014 Peachtree City",
+      "address": "100 Line Creek Drive Peachtree, GA",
+      "area": "Peachtree City",
+      "nextAvailableTime": "9:15 AM",
+      "nextAvailableRaw": "09:15:00",
+      "minutesOut": 59,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-03T08:16:21.842076",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-08-03",
+      "locationName": "Piedmont UC \u2014 East Point",
+      "address": "3515 Camp Creek Parkway East Point, GA",
+      "area": "East Point",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 74,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-02T20:16:31.456369",
+  "lastUpdated": "2026-08-03T08:16:21.842076",
   "threshold_minutes": 45
 }
