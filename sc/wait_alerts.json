@@ -5627,9 +5627,37 @@
       "minutesOut": 71,
       "hoursOut": 1.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-04T08:19:08.481802",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-08-04",
+      "locationName": "Prisma UC \u2014 Scuffletown",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "300 Scuffletown Rd Simpsonville, SC",
+      "area": "Scuffletown",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 71,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-04T08:19:08.481802",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-08-04",
+      "locationName": "Prisma UC \u2014 Duncan",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "1515 E Main Street 29334, SC",
+      "area": "Duncan",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 71,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-03T20:19:53.130740",
+  "lastUpdated": "2026-08-04T08:19:08.481802",
   "threshold_minutes": 60,
   "market": "SC"
 }
