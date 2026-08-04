@@ -75737,8 +75737,73 @@
       "minutesOut": 46,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-04T12:59:05.195523",
+      "scrapeTimeDisplay": "12:59 PM",
+      "scrapeDate": "2026-08-04",
+      "locationName": "Piedmont UC \u2014 Loganville",
+      "address": "4763 Atlanta Highway Loganville, GA",
+      "area": "Loganville",
+      "nextAvailableTime": "2:45 PM",
+      "nextAvailableRaw": "14:45:00",
+      "minutesOut": 106,
+      "hoursOut": 1.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-04T12:59:05.195523",
+      "scrapeTimeDisplay": "12:59 PM",
+      "scrapeDate": "2026-08-04",
+      "locationName": "Piedmont UC \u2014 Clairmont",
+      "address": "2700 Clairmont Road Atlanta, GA",
+      "area": "Clairmont",
+      "nextAvailableTime": "2:30 PM",
+      "nextAvailableRaw": "14:30:00",
+      "minutesOut": 91,
+      "hoursOut": 1.5,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-04T12:59:05.195523",
+      "scrapeTimeDisplay": "12:59 PM",
+      "scrapeDate": "2026-08-04",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "3:15 PM",
+      "nextAvailableRaw": "15:15:00",
+      "minutesOut": 136,
+      "hoursOut": 2.3,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-04T12:59:05.195523",
+      "scrapeTimeDisplay": "12:59 PM",
+      "scrapeDate": "2026-08-04",
+      "locationName": "Piedmont UC \u2014 Grayson",
+      "address": "2594 Loganville Hwy Lilburn, GA",
+      "area": "Grayson",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-04T12:59:05.195523",
+      "scrapeTimeDisplay": "12:59 PM",
+      "scrapeDate": "2026-08-04",
+      "locationName": "Piedmont UC \u2014 Brookhaven",
+      "address": "4218 Peachtree Road, Unit B Brookhaven, GA",
+      "area": "Brookhaven",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-04T12:16:31.766463",
+  "lastUpdated": "2026-08-04T13:16:33.142172",
   "threshold_minutes": 45
 }
