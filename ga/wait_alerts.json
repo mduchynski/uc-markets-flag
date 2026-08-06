@@ -76608,8 +76608,47 @@
       "minutesOut": 48,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-06T15:59:50.392314",
+      "scrapeTimeDisplay": "3:59 PM",
+      "scrapeDate": "2026-08-06",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 7
+    },
+    {
+      "scrapeTime": "2026-08-06T15:59:50.392314",
+      "scrapeTimeDisplay": "3:59 PM",
+      "scrapeDate": "2026-08-06",
+      "locationName": "Piedmont UC \u2014 Lithonia",
+      "address": "7231 Rockbridge Road Lithonia, GA",
+      "area": "Lithonia",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-08-06T15:59:50.392314",
+      "scrapeTimeDisplay": "3:59 PM",
+      "scrapeDate": "2026-08-06",
+      "locationName": "Piedmont UC \u2014 Columbus Blackmon",
+      "address": "7301 Blackmon Road Columbus, GA",
+      "area": "Columbus Blackmon",
+      "nextAvailableTime": "5:30 PM",
+      "nextAvailableRaw": "17:30:00",
+      "minutesOut": 90,
+      "hoursOut": 1.5,
+      "sameDaySlots": 2
     }
   ],
-  "lastUpdated": "2026-08-06T15:16:58.179938",
+  "lastUpdated": "2026-08-06T16:16:32.624169",
   "threshold_minutes": 45
 }
