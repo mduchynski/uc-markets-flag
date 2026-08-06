@@ -76556,8 +76556,60 @@
       "minutesOut": 75,
       "hoursOut": 1.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-06T14:59:36.671017",
+      "scrapeTimeDisplay": "2:59 PM",
+      "scrapeDate": "2026-08-06",
+      "locationName": "Piedmont UC \u2014 West Cobb",
+      "address": "2505 Dallas Hwy Marietta, GA",
+      "area": "West Cobb",
+      "nextAvailableTime": "3:45 PM",
+      "nextAvailableRaw": "15:45:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-06T14:59:36.671017",
+      "scrapeTimeDisplay": "2:59 PM",
+      "scrapeDate": "2026-08-06",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-06T14:59:36.671017",
+      "scrapeTimeDisplay": "2:59 PM",
+      "scrapeDate": "2026-08-06",
+      "locationName": "Piedmont UC \u2014 Sandy Springs Village",
+      "address": "6660 Roswell Road Sandy Springs, GA",
+      "area": "Sandy Springs Village",
+      "nextAvailableTime": "3:45 PM",
+      "nextAvailableRaw": "15:45:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-06T14:59:36.671017",
+      "scrapeTimeDisplay": "2:59 PM",
+      "scrapeDate": "2026-08-06",
+      "locationName": "Piedmont UC \u2014 Hapeville",
+      "address": "1001 Virginia Ave. Hapeville, GA",
+      "area": "Hapeville",
+      "nextAvailableTime": "3:48 PM",
+      "nextAvailableRaw": "15:48:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-06T14:16:33.569792",
+  "lastUpdated": "2026-08-06T15:16:58.179938",
   "threshold_minutes": 45
 }
