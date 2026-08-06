@@ -76400,8 +76400,47 @@
       "minutesOut": 45,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-06T11:59:27.425407",
+      "scrapeTimeDisplay": "11:59 AM",
+      "scrapeDate": "2026-08-06",
+      "locationName": "Piedmont UC \u2014 Snellville",
+      "address": "2118 Scenic Highway South Snellville, GA",
+      "area": "Snellville",
+      "nextAvailableTime": "1:00 PM",
+      "nextAvailableRaw": "13:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-06T11:59:27.425407",
+      "scrapeTimeDisplay": "11:59 AM",
+      "scrapeDate": "2026-08-06",
+      "locationName": "Piedmont UC \u2014 Cumming",
+      "address": "880 Buford HWY Cumming, GA",
+      "area": "Cumming",
+      "nextAvailableTime": "1:00 PM",
+      "nextAvailableRaw": "13:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-06T11:59:27.425407",
+      "scrapeTimeDisplay": "11:59 AM",
+      "scrapeDate": "2026-08-06",
+      "locationName": "Piedmont UC \u2014 Newnan Arbor Springs",
+      "address": "35 Arbor Springs Terrace Newnan, GA",
+      "area": "Newnan Arbor Springs",
+      "nextAvailableTime": "12:45 PM",
+      "nextAvailableRaw": "12:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-06T11:16:31.199880",
+  "lastUpdated": "2026-08-06T12:16:33.072054",
   "threshold_minutes": 45
 }
