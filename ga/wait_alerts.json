@@ -76647,8 +76647,21 @@
       "minutesOut": 90,
       "hoursOut": 1.5,
       "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-08-06T16:59:58.954765",
+      "scrapeTimeDisplay": "4:59 PM",
+      "scrapeDate": "2026-08-06",
+      "locationName": "Piedmont UC \u2014 McDonough Jonesboro Road",
+      "address": "2050 Jonesboro Rd, Suite 100 30253, GA",
+      "area": "McDonough Jonesboro Road",
+      "nextAvailableTime": "5:45 PM",
+      "nextAvailableRaw": "17:45:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 1
     }
   ],
-  "lastUpdated": "2026-08-06T16:16:32.624169",
+  "lastUpdated": "2026-08-06T17:17:10.430246",
   "threshold_minutes": 45
 }
