@@ -5697,9 +5697,65 @@
       "minutesOut": 69,
       "hoursOut": 1.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-06T08:22:17.613037",
+      "scrapeTimeDisplay": "8:22 AM",
+      "scrapeDate": "2026-08-06",
+      "locationName": "Prisma UC \u2014 Scuffletown",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "300 Scuffletown Rd Simpsonville, SC",
+      "area": "Scuffletown",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 68,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-06T08:22:17.613037",
+      "scrapeTimeDisplay": "8:22 AM",
+      "scrapeDate": "2026-08-06",
+      "locationName": "Prisma UC \u2014 Greenville - Woodruff Road",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "1298 Woodruff Rd Greenville, SC",
+      "area": "Greenville - Woodruff Road",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 68,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-06T08:22:17.613037",
+      "scrapeTimeDisplay": "8:22 AM",
+      "scrapeDate": "2026-08-06",
+      "locationName": "Prisma UC \u2014 Taylors",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "3025 Wade Hampton Blvd. Taylors, SC",
+      "area": "Taylors",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 98,
+      "hoursOut": 1.6,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-06T08:22:17.613037",
+      "scrapeTimeDisplay": "8:22 AM",
+      "scrapeDate": "2026-08-06",
+      "locationName": "Prisma UC \u2014 Lexington Sunset",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "5061 Sunset Blvd Lexington , SC",
+      "area": "Lexington Sunset",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 98,
+      "hoursOut": 1.6,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-05T20:19:12.777013",
+  "lastUpdated": "2026-08-06T08:22:17.613037",
   "threshold_minutes": 60,
   "market": "SC"
 }
