@@ -76673,8 +76673,47 @@
       "minutesOut": 90,
       "hoursOut": 1.5,
       "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-08-07T08:08:37.394680",
+      "scrapeTimeDisplay": "8:08 AM",
+      "scrapeDate": "2026-08-07",
+      "locationName": "Piedmont UC \u2014 Lithonia",
+      "address": "7231 Rockbridge Road Lithonia, GA",
+      "area": "Lithonia",
+      "nextAvailableTime": "9:00 AM",
+      "nextAvailableRaw": "09:00:00",
+      "minutesOut": 51,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-07T08:08:37.394680",
+      "scrapeTimeDisplay": "8:08 AM",
+      "scrapeDate": "2026-08-07",
+      "locationName": "Piedmont UC \u2014 Braselton",
+      "address": "3711 Village Way; Suite A Braselton, GA",
+      "area": "Braselton",
+      "nextAvailableTime": "9:00 AM",
+      "nextAvailableRaw": "09:00:00",
+      "minutesOut": 51,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-07T08:16:52.629228",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-08-07",
+      "locationName": "Piedmont UC \u2014 Peachtree City",
+      "address": "100 Line Creek Drive Peachtree, GA",
+      "area": "Peachtree City",
+      "nextAvailableTime": "9:07 AM",
+      "nextAvailableRaw": "09:07:00",
+      "minutesOut": 50,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-06T20:17:13.542474",
+  "lastUpdated": "2026-08-07T08:16:52.629228",
   "threshold_minutes": 45
 }
