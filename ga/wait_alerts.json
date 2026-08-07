@@ -77167,8 +77167,47 @@
       "minutesOut": 61,
       "hoursOut": 1.0,
       "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-08-07T15:59:31.141512",
+      "scrapeTimeDisplay": "3:59 PM",
+      "scrapeDate": "2026-08-07",
+      "locationName": "Piedmont UC \u2014 West Cobb",
+      "address": "2505 Dallas Hwy Marietta, GA",
+      "area": "West Cobb",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-07T15:59:31.141512",
+      "scrapeTimeDisplay": "3:59 PM",
+      "scrapeDate": "2026-08-07",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 120,
+      "hoursOut": 2.0,
+      "sameDaySlots": 1
+    },
+    {
+      "scrapeTime": "2026-08-07T15:59:31.141512",
+      "scrapeTimeDisplay": "3:59 PM",
+      "scrapeDate": "2026-08-07",
+      "locationName": "Piedmont UC \u2014 Columbus Blackmon",
+      "address": "7301 Blackmon Road Columbus, GA",
+      "area": "Columbus Blackmon",
+      "nextAvailableTime": "5:45 PM",
+      "nextAvailableRaw": "17:45:00",
+      "minutesOut": 105,
+      "hoursOut": 1.8,
+      "sameDaySlots": 6
     }
   ],
-  "lastUpdated": "2026-08-07T15:17:07.516791",
+  "lastUpdated": "2026-08-07T16:16:33.086920",
   "threshold_minutes": 45
 }
