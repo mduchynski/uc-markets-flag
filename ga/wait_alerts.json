@@ -77336,8 +77336,86 @@
       "minutesOut": 73,
       "hoursOut": 1.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-08T09:58:36.709621",
+      "scrapeTimeDisplay": "9:58 AM",
+      "scrapeDate": "2026-08-08",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "10:45 AM",
+      "nextAvailableRaw": "10:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-08T09:58:36.709621",
+      "scrapeTimeDisplay": "9:58 AM",
+      "scrapeDate": "2026-08-08",
+      "locationName": "Piedmont UC \u2014 Columbus Blackmon",
+      "address": "7301 Blackmon Road Columbus, GA",
+      "area": "Columbus Blackmon",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 106,
+      "hoursOut": 1.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-08T09:58:36.709621",
+      "scrapeTimeDisplay": "9:58 AM",
+      "scrapeDate": "2026-08-08",
+      "locationName": "Piedmont UC \u2014 Columbus Uptown",
+      "address": "101 13th Street Suite 200 Columbus, GA",
+      "area": "Columbus Uptown",
+      "nextAvailableTime": "10:45 AM",
+      "nextAvailableRaw": "10:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-08T09:58:36.709621",
+      "scrapeTimeDisplay": "9:58 AM",
+      "scrapeDate": "2026-08-08",
+      "locationName": "Piedmont UC \u2014 Decatur",
+      "address": "2520 N Decatur Rd, Decatur Decatur, GA",
+      "area": "Decatur",
+      "nextAvailableTime": "12:00 PM",
+      "nextAvailableRaw": "12:00:00",
+      "minutesOut": 121,
+      "hoursOut": 2.0,
+      "sameDaySlots": 4
+    },
+    {
+      "scrapeTime": "2026-08-08T09:58:36.709621",
+      "scrapeTimeDisplay": "9:58 AM",
+      "scrapeDate": "2026-08-08",
+      "locationName": "Piedmont UC \u2014 Kennesaw Bells Ferry",
+      "address": "4282 Bells Ferry Road NW Kennesaw, GA",
+      "area": "Kennesaw Bells Ferry",
+      "nextAvailableTime": "11:00 AM",
+      "nextAvailableRaw": "11:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-08T10:16:45.016659",
+      "scrapeTimeDisplay": "10:16 AM",
+      "scrapeDate": "2026-08-08",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "11:07 AM",
+      "nextAvailableRaw": "11:07:00",
+      "minutesOut": 50,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-08T09:16:36.931635",
+  "lastUpdated": "2026-08-08T10:16:45.016659",
   "threshold_minutes": 45
 }
