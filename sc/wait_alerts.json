@@ -5795,9 +5795,65 @@
       "minutesOut": 62,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-08T08:33:32.052964",
+      "scrapeTimeDisplay": "8:33 AM",
+      "scrapeDate": "2026-08-08",
+      "locationName": "Prisma UC \u2014 Columbia Five Points",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "944 Harden St. Columbia, SC",
+      "area": "Columbia Five Points",
+      "nextAvailableTime": "10:15 AM",
+      "nextAvailableRaw": "10:15:00",
+      "minutesOut": 101,
+      "hoursOut": 1.7,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-08T08:33:32.052964",
+      "scrapeTimeDisplay": "8:33 AM",
+      "scrapeDate": "2026-08-08",
+      "locationName": "Prisma UC \u2014 Lexington Sunset",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "5061 Sunset Blvd Lexington , SC",
+      "area": "Lexington Sunset",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 71,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-08T08:33:32.052964",
+      "scrapeTimeDisplay": "8:33 AM",
+      "scrapeDate": "2026-08-08",
+      "locationName": "Prisma UC \u2014 Cherrydale",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "115 State Park Rd Greenville, SC",
+      "area": "Cherrydale",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 71,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-08T08:33:32.052964",
+      "scrapeTimeDisplay": "8:33 AM",
+      "scrapeDate": "2026-08-08",
+      "locationName": "Prisma UC \u2014 Clemson",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "1390 Tiger Blvd 29631, SC",
+      "area": "Clemson",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 71,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-07T20:19:11.793427",
+  "lastUpdated": "2026-08-08T08:33:32.052964",
   "threshold_minutes": 60,
   "market": "SC"
 }
