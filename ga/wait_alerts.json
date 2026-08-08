@@ -78181,8 +78181,60 @@
       "minutesOut": 107,
       "hoursOut": 1.8,
       "sameDaySlots": 4
+    },
+    {
+      "scrapeTime": "2026-08-08T17:57:53.748395",
+      "scrapeTimeDisplay": "5:57 PM",
+      "scrapeDate": "2026-08-08",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-08-08T17:57:53.748395",
+      "scrapeTimeDisplay": "5:57 PM",
+      "scrapeDate": "2026-08-08",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "7:15 PM",
+      "nextAvailableRaw": "19:15:00",
+      "minutesOut": 77,
+      "hoursOut": 1.3,
+      "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-08-08T17:57:53.748395",
+      "scrapeTimeDisplay": "5:57 PM",
+      "scrapeDate": "2026-08-08",
+      "locationName": "Piedmont UC \u2014 Columbus Blackmon",
+      "address": "7301 Blackmon Road Columbus, GA",
+      "area": "Columbus Blackmon",
+      "nextAvailableTime": "7:15 PM",
+      "nextAvailableRaw": "19:15:00",
+      "minutesOut": 77,
+      "hoursOut": 1.3,
+      "sameDaySlots": 1
+    },
+    {
+      "scrapeTime": "2026-08-08T17:57:53.748395",
+      "scrapeTimeDisplay": "5:57 PM",
+      "scrapeDate": "2026-08-08",
+      "locationName": "Piedmont UC \u2014 Milledgeville",
+      "address": "1909 N Columbia St Milledgeville, GA",
+      "area": "Milledgeville",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 3
     }
   ],
-  "lastUpdated": "2026-08-08T17:16:35.549540",
+  "lastUpdated": "2026-08-08T18:16:38.752364",
   "threshold_minutes": 45
 }
