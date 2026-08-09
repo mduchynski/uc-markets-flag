@@ -5851,9 +5851,65 @@
       "minutesOut": 71,
       "hoursOut": 1.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-09T08:21:22.450933",
+      "scrapeTimeDisplay": "8:21 AM",
+      "scrapeDate": "2026-08-09",
+      "locationName": "Prisma UC \u2014 Anderson",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "3322 N Main Street Anderson, SC",
+      "area": "Anderson",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 84,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-09T08:21:22.450933",
+      "scrapeTimeDisplay": "8:21 AM",
+      "scrapeDate": "2026-08-09",
+      "locationName": "Prisma UC \u2014 Columbia Garners Ferry",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "7613 Garners Ferry Road 29209, SC",
+      "area": "Columbia Garners Ferry",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 69,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-09T08:21:22.450933",
+      "scrapeTimeDisplay": "8:21 AM",
+      "scrapeDate": "2026-08-09",
+      "locationName": "Prisma UC \u2014 Mauldin",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "122 S Main Street 29662, SC",
+      "area": "Mauldin",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 69,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-09T08:21:22.450933",
+      "scrapeTimeDisplay": "8:21 AM",
+      "scrapeDate": "2026-08-09",
+      "locationName": "Prisma UC \u2014 Sumter",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "1029 Broad Street Sumter, SC",
+      "area": "Sumter",
+      "nextAvailableTime": "10:15 AM",
+      "nextAvailableRaw": "10:15:00",
+      "minutesOut": 114,
+      "hoursOut": 1.9,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-08T20:19:17.937325",
+  "lastUpdated": "2026-08-09T08:21:22.450933",
   "threshold_minutes": 60,
   "market": "SC"
 }
