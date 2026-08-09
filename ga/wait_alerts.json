@@ -79429,8 +79429,34 @@
       "minutesOut": 47,
       "hoursOut": 0.8,
       "sameDaySlots": 6
+    },
+    {
+      "scrapeTime": "2026-08-09T17:57:54.189875",
+      "scrapeTimeDisplay": "5:57 PM",
+      "scrapeDate": "2026-08-09",
+      "locationName": "Piedmont UC \u2014 Clairmont",
+      "address": "2700 Clairmont Road Atlanta, GA",
+      "area": "Clairmont",
+      "nextAvailableTime": "7:00 PM",
+      "nextAvailableRaw": "19:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-08-09T17:57:54.189875",
+      "scrapeTimeDisplay": "5:57 PM",
+      "scrapeDate": "2026-08-09",
+      "locationName": "Piedmont UC \u2014 Lovejoy",
+      "address": "11581 Tara Blvd, Ste. A Lovejoy, GA",
+      "area": "Lovejoy",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 3
     }
   ],
-  "lastUpdated": "2026-08-09T17:16:45.290312",
+  "lastUpdated": "2026-08-09T18:16:31.878448",
   "threshold_minutes": 45
 }
