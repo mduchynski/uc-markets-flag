@@ -78506,8 +78506,86 @@
       "minutesOut": 47,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-09T10:58:04.663159",
+      "scrapeTimeDisplay": "10:58 AM",
+      "scrapeDate": "2026-08-09",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-09T10:58:04.663159",
+      "scrapeTimeDisplay": "10:58 AM",
+      "scrapeDate": "2026-08-09",
+      "locationName": "Piedmont UC \u2014 East Point",
+      "address": "3515 Camp Creek Parkway East Point, GA",
+      "area": "East Point",
+      "nextAvailableTime": "12:00 PM",
+      "nextAvailableRaw": "12:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-09T10:58:04.663159",
+      "scrapeTimeDisplay": "10:58 AM",
+      "scrapeDate": "2026-08-09",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "12:15 PM",
+      "nextAvailableRaw": "12:15:00",
+      "minutesOut": 77,
+      "hoursOut": 1.3,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-09T10:58:04.663159",
+      "scrapeTimeDisplay": "10:58 AM",
+      "scrapeDate": "2026-08-09",
+      "locationName": "Piedmont UC \u2014 Summerhill",
+      "address": "572 Hank Aaron Drive, Suite 4200 Atlanta, GA",
+      "area": "Summerhill",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-09T10:58:04.663159",
+      "scrapeTimeDisplay": "10:58 AM",
+      "scrapeDate": "2026-08-09",
+      "locationName": "Piedmont UC \u2014 Milledgeville",
+      "address": "1909 N Columbia St Milledgeville, GA",
+      "area": "Milledgeville",
+      "nextAvailableTime": "12:15 PM",
+      "nextAvailableRaw": "12:15:00",
+      "minutesOut": 77,
+      "hoursOut": 1.3,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-09T10:58:04.663159",
+      "scrapeTimeDisplay": "10:58 AM",
+      "scrapeDate": "2026-08-09",
+      "locationName": "Piedmont UC \u2014 Locust Grove",
+      "address": "3366 Hwy 42S, Suite 100 Locust Grove, GA",
+      "area": "Locust Grove",
+      "nextAvailableTime": "12:30 PM",
+      "nextAvailableRaw": "12:30:00",
+      "minutesOut": 92,
+      "hoursOut": 1.5,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-09T10:16:30.622166",
+  "lastUpdated": "2026-08-09T11:16:30.906078",
   "threshold_minutes": 45
 }
