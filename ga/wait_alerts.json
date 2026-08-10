@@ -79897,8 +79897,60 @@
       "minutesOut": 47,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-10T15:58:16.122987",
+      "scrapeTimeDisplay": "3:58 PM",
+      "scrapeDate": "2026-08-10",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "5:07 PM",
+      "nextAvailableRaw": "17:07:00",
+      "minutesOut": 69,
+      "hoursOut": 1.1,
+      "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-08-10T15:58:16.122987",
+      "scrapeTimeDisplay": "3:58 PM",
+      "scrapeDate": "2026-08-10",
+      "locationName": "Piedmont UC \u2014 Jefferson",
+      "address": "528 Panther Drive Jefferson, GA",
+      "area": "Jefferson",
+      "nextAvailableTime": "5:37 PM",
+      "nextAvailableRaw": "17:37:00",
+      "minutesOut": 99,
+      "hoursOut": 1.6,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-10T15:58:16.122987",
+      "scrapeTimeDisplay": "3:58 PM",
+      "scrapeDate": "2026-08-10",
+      "locationName": "Piedmont UC \u2014 Columbus Uptown",
+      "address": "101 13th Street Suite 200 Columbus, GA",
+      "area": "Columbus Uptown",
+      "nextAvailableTime": "5:30 PM",
+      "nextAvailableRaw": "17:30:00",
+      "minutesOut": 92,
+      "hoursOut": 1.5,
+      "sameDaySlots": 5
+    },
+    {
+      "scrapeTime": "2026-08-10T15:58:16.122987",
+      "scrapeTimeDisplay": "3:58 PM",
+      "scrapeDate": "2026-08-10",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 4
     }
   ],
-  "lastUpdated": "2026-08-10T15:16:59.847814",
+  "lastUpdated": "2026-08-10T16:16:35.053835",
   "threshold_minutes": 45
 }
