@@ -79949,8 +79949,86 @@
       "minutesOut": 47,
       "hoursOut": 0.8,
       "sameDaySlots": 4
+    },
+    {
+      "scrapeTime": "2026-08-10T16:58:28.891407",
+      "scrapeTimeDisplay": "4:58 PM",
+      "scrapeDate": "2026-08-10",
+      "locationName": "Piedmont UC \u2014 West Cobb",
+      "address": "2505 Dallas Hwy Marietta, GA",
+      "area": "West Cobb",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 6
+    },
+    {
+      "scrapeTime": "2026-08-10T16:58:28.891407",
+      "scrapeTimeDisplay": "4:58 PM",
+      "scrapeDate": "2026-08-10",
+      "locationName": "Piedmont UC \u2014 Austell",
+      "address": "3999 Austell Road Austell, GA",
+      "area": "Austell",
+      "nextAvailableTime": "5:45 PM",
+      "nextAvailableRaw": "17:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 6
+    },
+    {
+      "scrapeTime": "2026-08-10T16:58:28.891407",
+      "scrapeTimeDisplay": "4:58 PM",
+      "scrapeDate": "2026-08-10",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "5:52 PM",
+      "nextAvailableRaw": "17:52:00",
+      "minutesOut": 54,
+      "hoursOut": 0.9,
+      "sameDaySlots": 5
+    },
+    {
+      "scrapeTime": "2026-08-10T16:58:28.891407",
+      "scrapeTimeDisplay": "4:58 PM",
+      "scrapeDate": "2026-08-10",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "7:00 PM",
+      "nextAvailableRaw": "19:00:00",
+      "minutesOut": 122,
+      "hoursOut": 2.0,
+      "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-08-10T16:58:28.891407",
+      "scrapeTimeDisplay": "4:58 PM",
+      "scrapeDate": "2026-08-10",
+      "locationName": "Piedmont UC \u2014 Jefferson",
+      "address": "528 Panther Drive Jefferson, GA",
+      "area": "Jefferson",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-10T16:58:28.891407",
+      "scrapeTimeDisplay": "4:58 PM",
+      "scrapeDate": "2026-08-10",
+      "locationName": "Piedmont UC \u2014 Newnan Arbor Springs",
+      "address": "35 Arbor Springs Terrace Newnan, GA",
+      "area": "Newnan Arbor Springs",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 5
     }
   ],
-  "lastUpdated": "2026-08-10T16:16:35.053835",
+  "lastUpdated": "2026-08-10T17:16:38.275082",
   "threshold_minutes": 45
 }
