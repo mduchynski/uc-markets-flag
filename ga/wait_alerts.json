@@ -79611,8 +79611,60 @@
       "minutesOut": 62,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-10T11:58:01.931834",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-08-10",
+      "locationName": "Piedmont UC \u2014 Suwanee",
+      "address": "2637 Peachtree Pkwy Suwanee, GA",
+      "area": "Suwanee",
+      "nextAvailableTime": "1:00 PM",
+      "nextAvailableRaw": "13:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-10T11:58:01.931834",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-08-10",
+      "locationName": "Piedmont UC \u2014 Jefferson",
+      "address": "528 Panther Drive Jefferson, GA",
+      "area": "Jefferson",
+      "nextAvailableTime": "2:20 PM",
+      "nextAvailableRaw": "14:20:00",
+      "minutesOut": 142,
+      "hoursOut": 2.4,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-10T11:58:01.931834",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-08-10",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "1:20 PM",
+      "nextAvailableRaw": "13:20:00",
+      "minutesOut": 82,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-10T11:58:01.931834",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-08-10",
+      "locationName": "Piedmont UC \u2014 Dacula - Harbins Road",
+      "address": "862 Harbins Rd SE, Suite 101 Dacula, GA",
+      "area": "Dacula - Harbins Road",
+      "nextAvailableTime": "12:45 PM",
+      "nextAvailableRaw": "12:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-10T11:16:32.396604",
+  "lastUpdated": "2026-08-10T12:16:32.149244",
   "threshold_minutes": 45
 }
