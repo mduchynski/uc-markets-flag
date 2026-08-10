@@ -80027,8 +80027,86 @@
       "minutesOut": 62,
       "hoursOut": 1.0,
       "sameDaySlots": 5
+    },
+    {
+      "scrapeTime": "2026-08-10T17:58:10.235481",
+      "scrapeTimeDisplay": "5:58 PM",
+      "scrapeDate": "2026-08-10",
+      "locationName": "Piedmont UC \u2014 Austell",
+      "address": "3999 Austell Road Austell, GA",
+      "area": "Austell",
+      "nextAvailableTime": "7:00 PM",
+      "nextAvailableRaw": "19:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-08-10T17:58:10.235481",
+      "scrapeTimeDisplay": "5:58 PM",
+      "scrapeDate": "2026-08-10",
+      "locationName": "Piedmont UC \u2014 Lithonia",
+      "address": "7231 Rockbridge Road Lithonia, GA",
+      "area": "Lithonia",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-08-10T17:58:10.235481",
+      "scrapeTimeDisplay": "5:58 PM",
+      "scrapeDate": "2026-08-10",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "7:30 PM",
+      "nextAvailableRaw": "19:30:00",
+      "minutesOut": 92,
+      "hoursOut": 1.5,
+      "sameDaySlots": 1
+    },
+    {
+      "scrapeTime": "2026-08-10T17:58:10.235481",
+      "scrapeTimeDisplay": "5:58 PM",
+      "scrapeDate": "2026-08-10",
+      "locationName": "Piedmont UC \u2014 Oconee",
+      "address": "1305 Jennings Mill Road Suite 120 Watkinsville, GA",
+      "area": "Oconee",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-08-10T17:58:10.235481",
+      "scrapeTimeDisplay": "5:58 PM",
+      "scrapeDate": "2026-08-10",
+      "locationName": "Piedmont UC \u2014 Senoia",
+      "address": "7990 Wells Street, Suite 120 Senoia, GA",
+      "area": "Senoia",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 5
+    },
+    {
+      "scrapeTime": "2026-08-10T17:58:10.235481",
+      "scrapeTimeDisplay": "5:58 PM",
+      "scrapeDate": "2026-08-10",
+      "locationName": "Piedmont UC \u2014 Cascade",
+      "address": "3752 Cascade Rd, Suite 100 Atlanta, GA",
+      "area": "Cascade",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 3
     }
   ],
-  "lastUpdated": "2026-08-10T17:16:38.275082",
+  "lastUpdated": "2026-08-10T18:16:33.383612",
   "threshold_minutes": 45
 }
