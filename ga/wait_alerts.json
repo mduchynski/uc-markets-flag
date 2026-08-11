@@ -80326,8 +80326,86 @@
       "minutesOut": 102,
       "hoursOut": 1.7,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-11T11:58:03.690588",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-08-11",
+      "locationName": "Piedmont UC \u2014 Loganville",
+      "address": "4763 Atlanta Highway Loganville, GA",
+      "area": "Loganville",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 122,
+      "hoursOut": 2.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-11T11:58:03.690588",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-08-11",
+      "locationName": "Piedmont UC \u2014 Austell",
+      "address": "3999 Austell Road Austell, GA",
+      "area": "Austell",
+      "nextAvailableTime": "1:00 PM",
+      "nextAvailableRaw": "13:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-11T11:58:03.690588",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-08-11",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 122,
+      "hoursOut": 2.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-11T11:58:03.690588",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-08-11",
+      "locationName": "Piedmont UC \u2014 Hapeville",
+      "address": "1001 Virginia Ave. Hapeville, GA",
+      "area": "Hapeville",
+      "nextAvailableTime": "12:45 PM",
+      "nextAvailableRaw": "12:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-11T11:58:03.690588",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-08-11",
+      "locationName": "Piedmont UC \u2014 McDonough Jonesboro Road",
+      "address": "2050 Jonesboro Rd, Suite 100 30253, GA",
+      "area": "McDonough Jonesboro Road",
+      "nextAvailableTime": "12:45 PM",
+      "nextAvailableRaw": "12:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-11T11:58:03.690588",
+      "scrapeTimeDisplay": "11:58 AM",
+      "scrapeDate": "2026-08-11",
+      "locationName": "Piedmont UC \u2014 Monroe",
+      "address": "850 Pavillion Parkway 30656, GA",
+      "area": "Monroe",
+      "nextAvailableTime": "2:15 PM",
+      "nextAvailableRaw": "14:15:00",
+      "minutesOut": 137,
+      "hoursOut": 2.3,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-11T11:16:33.155930",
+  "lastUpdated": "2026-08-11T12:16:31.720338",
   "threshold_minutes": 45
 }
