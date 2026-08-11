@@ -80599,8 +80599,34 @@
       "minutesOut": 46,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-11T15:58:41.197107",
+      "scrapeTimeDisplay": "3:58 PM",
+      "scrapeDate": "2026-08-11",
+      "locationName": "Piedmont UC \u2014 Clairmont",
+      "address": "2700 Clairmont Road Atlanta, GA",
+      "area": "Clairmont",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-08-11T15:58:41.197107",
+      "scrapeTimeDisplay": "3:58 PM",
+      "scrapeDate": "2026-08-11",
+      "locationName": "Piedmont UC \u2014 Columbus Uptown",
+      "address": "101 13th Street Suite 200 Columbus, GA",
+      "area": "Columbus Uptown",
+      "nextAvailableTime": "6:15 PM",
+      "nextAvailableRaw": "18:15:00",
+      "minutesOut": 136,
+      "hoursOut": 2.3,
+      "sameDaySlots": 4
     }
   ],
-  "lastUpdated": "2026-08-11T15:17:04.643405",
+  "lastUpdated": "2026-08-11T16:16:36.278446",
   "threshold_minutes": 45
 }
