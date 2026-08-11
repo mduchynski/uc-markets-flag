@@ -80625,8 +80625,60 @@
       "minutesOut": 136,
       "hoursOut": 2.3,
       "sameDaySlots": 4
+    },
+    {
+      "scrapeTime": "2026-08-11T16:58:32.481771",
+      "scrapeTimeDisplay": "4:58 PM",
+      "scrapeDate": "2026-08-11",
+      "locationName": "Piedmont UC \u2014 Columbus Blackmon",
+      "address": "7301 Blackmon Road Columbus, GA",
+      "area": "Columbus Blackmon",
+      "nextAvailableTime": "6:07 PM",
+      "nextAvailableRaw": "18:07:00",
+      "minutesOut": 68,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-11T16:58:32.481771",
+      "scrapeTimeDisplay": "4:58 PM",
+      "scrapeDate": "2026-08-11",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "5:48 PM",
+      "nextAvailableRaw": "17:48:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 1
+    },
+    {
+      "scrapeTime": "2026-08-11T16:58:32.481771",
+      "scrapeTimeDisplay": "4:58 PM",
+      "scrapeDate": "2026-08-11",
+      "locationName": "Piedmont UC \u2014 Locust Grove",
+      "address": "3366 Hwy 42S, Suite 100 Locust Grove, GA",
+      "area": "Locust Grove",
+      "nextAvailableTime": "6:30 PM",
+      "nextAvailableRaw": "18:30:00",
+      "minutesOut": 91,
+      "hoursOut": 1.5,
+      "sameDaySlots": 4
+    },
+    {
+      "scrapeTime": "2026-08-11T16:58:32.481771",
+      "scrapeTimeDisplay": "4:58 PM",
+      "scrapeDate": "2026-08-11",
+      "locationName": "Piedmont UC \u2014 Vinings",
+      "address": "2810 Paces Ferry Road, Suite 156 Atlanta, GA",
+      "area": "Vinings",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 5
     }
   ],
-  "lastUpdated": "2026-08-11T16:16:36.278446",
+  "lastUpdated": "2026-08-11T17:16:32.662661",
   "threshold_minutes": 45
 }
