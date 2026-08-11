@@ -80170,8 +80170,47 @@
       "minutesOut": 58,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-11T08:58:51.166065",
+      "scrapeTimeDisplay": "8:58 AM",
+      "scrapeDate": "2026-08-11",
+      "locationName": "Piedmont UC \u2014 Fairburn",
+      "address": "8028 Senoia Rd Fairburn, GA",
+      "area": "Fairburn",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-11T08:58:51.166065",
+      "scrapeTimeDisplay": "8:58 AM",
+      "scrapeDate": "2026-08-11",
+      "locationName": "Piedmont UC \u2014 Grayson",
+      "address": "2594 Loganville Hwy Lilburn, GA",
+      "area": "Grayson",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-11T09:16:34.037626",
+      "scrapeTimeDisplay": "9:16 AM",
+      "scrapeDate": "2026-08-11",
+      "locationName": "Piedmont UC \u2014 East Point",
+      "address": "3515 Camp Creek Parkway East Point, GA",
+      "area": "East Point",
+      "nextAvailableTime": "10:52 AM",
+      "nextAvailableRaw": "10:52:00",
+      "minutesOut": 95,
+      "hoursOut": 1.6,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-11T08:16:52.327246",
+  "lastUpdated": "2026-08-11T09:16:34.037626",
   "threshold_minutes": 45
 }
