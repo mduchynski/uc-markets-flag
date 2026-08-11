@@ -80105,8 +80105,73 @@
       "minutesOut": 47,
       "hoursOut": 0.8,
       "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-08-11T08:05:33.259484",
+      "scrapeTimeDisplay": "8:05 AM",
+      "scrapeDate": "2026-08-11",
+      "locationName": "Piedmont UC \u2014 Fayetteville",
+      "address": "749 W Lanier Ave Fayetteville, GA",
+      "area": "Fayetteville",
+      "nextAvailableTime": "9:00 AM",
+      "nextAvailableRaw": "09:00:00",
+      "minutesOut": 54,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-11T08:16:52.327246",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-08-11",
+      "locationName": "Piedmont UC \u2014 Fairburn",
+      "address": "8028 Senoia Rd Fairburn, GA",
+      "area": "Fairburn",
+      "nextAvailableTime": "9:07 AM",
+      "nextAvailableRaw": "09:07:00",
+      "minutesOut": 50,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-11T08:16:52.327246",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-08-11",
+      "locationName": "Piedmont UC \u2014 Fayetteville",
+      "address": "749 W Lanier Ave Fayetteville, GA",
+      "area": "Fayetteville",
+      "nextAvailableTime": "9:15 AM",
+      "nextAvailableRaw": "09:15:00",
+      "minutesOut": 58,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-11T08:16:52.327246",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-08-11",
+      "locationName": "Piedmont UC \u2014 East Point",
+      "address": "3515 Camp Creek Parkway East Point, GA",
+      "area": "East Point",
+      "nextAvailableTime": "9:15 AM",
+      "nextAvailableRaw": "09:15:00",
+      "minutesOut": 58,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-11T08:16:52.327246",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-08-11",
+      "locationName": "Piedmont UC \u2014 Smyrna",
+      "address": "1155 Concord Rd SE Smyrna, GA",
+      "area": "Smyrna",
+      "nextAvailableTime": "9:15 AM",
+      "nextAvailableRaw": "09:15:00",
+      "minutesOut": 58,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-10T20:16:32.493801",
+  "lastUpdated": "2026-08-11T08:16:52.327246",
   "threshold_minutes": 45
 }
