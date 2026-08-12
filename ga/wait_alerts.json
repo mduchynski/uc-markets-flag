@@ -81093,8 +81093,47 @@
       "minutesOut": 61,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-12T16:59:34.437950",
+      "scrapeTimeDisplay": "4:59 PM",
+      "scrapeDate": "2026-08-12",
+      "locationName": "Piedmont UC \u2014 Loganville",
+      "address": "4763 Atlanta Highway Loganville, GA",
+      "area": "Loganville",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 6
+    },
+    {
+      "scrapeTime": "2026-08-12T16:59:34.437950",
+      "scrapeTimeDisplay": "4:59 PM",
+      "scrapeDate": "2026-08-12",
+      "locationName": "Piedmont UC \u2014 Austell",
+      "address": "3999 Austell Road Austell, GA",
+      "area": "Austell",
+      "nextAvailableTime": "5:45 PM",
+      "nextAvailableRaw": "17:45:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 6
+    },
+    {
+      "scrapeTime": "2026-08-12T16:59:34.437950",
+      "scrapeTimeDisplay": "4:59 PM",
+      "scrapeDate": "2026-08-12",
+      "locationName": "Piedmont UC \u2014 East Point",
+      "address": "3515 Camp Creek Parkway East Point, GA",
+      "area": "East Point",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-12T16:16:32.414520",
+  "lastUpdated": "2026-08-12T17:16:33.384150",
   "threshold_minutes": 45
 }
