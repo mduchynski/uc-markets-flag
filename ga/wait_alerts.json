@@ -80794,8 +80794,60 @@
       "minutesOut": 65,
       "hoursOut": 1.1,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-12T10:58:25.989663",
+      "scrapeTimeDisplay": "10:58 AM",
+      "scrapeDate": "2026-08-12",
+      "locationName": "Piedmont UC \u2014 Sandy Springs Village",
+      "address": "6660 Roswell Road Sandy Springs, GA",
+      "area": "Sandy Springs Village",
+      "nextAvailableTime": "11:48 AM",
+      "nextAvailableRaw": "11:48:00",
+      "minutesOut": 50,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-12T10:58:25.989663",
+      "scrapeTimeDisplay": "10:58 AM",
+      "scrapeDate": "2026-08-12",
+      "locationName": "Piedmont UC \u2014 Acworth",
+      "address": "3345 Cobb Pkwy NW,Suite 800 Acworth, GA",
+      "area": "Acworth",
+      "nextAvailableTime": "12:00 PM",
+      "nextAvailableRaw": "12:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-12T10:58:25.989663",
+      "scrapeTimeDisplay": "10:58 AM",
+      "scrapeDate": "2026-08-12",
+      "locationName": "Piedmont UC \u2014 Hapeville",
+      "address": "1001 Virginia Ave. Hapeville, GA",
+      "area": "Hapeville",
+      "nextAvailableTime": "12:00 PM",
+      "nextAvailableRaw": "12:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-12T10:58:25.989663",
+      "scrapeTimeDisplay": "10:58 AM",
+      "scrapeDate": "2026-08-12",
+      "locationName": "Piedmont UC \u2014 Monroe",
+      "address": "850 Pavillion Parkway 30656, GA",
+      "area": "Monroe",
+      "nextAvailableTime": "1:00 PM",
+      "nextAvailableRaw": "13:00:00",
+      "minutesOut": 122,
+      "hoursOut": 2.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-12T10:16:30.496090",
+  "lastUpdated": "2026-08-12T11:16:38.413074",
   "threshold_minutes": 45
 }
