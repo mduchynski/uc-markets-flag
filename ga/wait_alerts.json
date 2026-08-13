@@ -81730,8 +81730,34 @@
       "minutesOut": 121,
       "hoursOut": 2.0,
       "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-08-13T16:59:17.768531",
+      "scrapeTimeDisplay": "4:59 PM",
+      "scrapeDate": "2026-08-13",
+      "locationName": "Piedmont UC \u2014 Clairmont",
+      "address": "2700 Clairmont Road Atlanta, GA",
+      "area": "Clairmont",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 5
+    },
+    {
+      "scrapeTime": "2026-08-13T16:59:17.768531",
+      "scrapeTimeDisplay": "4:59 PM",
+      "scrapeDate": "2026-08-13",
+      "locationName": "Piedmont UC \u2014 Lithonia",
+      "address": "7231 Rockbridge Road Lithonia, GA",
+      "area": "Lithonia",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 2
     }
   ],
-  "lastUpdated": "2026-08-13T16:16:32.581307",
+  "lastUpdated": "2026-08-13T17:16:33.616928",
   "threshold_minutes": 45
 }
