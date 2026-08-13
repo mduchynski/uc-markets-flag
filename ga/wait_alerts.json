@@ -81756,8 +81756,34 @@
       "minutesOut": 61,
       "hoursOut": 1.0,
       "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-08-13T18:00:19.779313",
+      "scrapeTimeDisplay": "6:00 PM",
+      "scrapeDate": "2026-08-13",
+      "locationName": "Piedmont UC \u2014 Grayson",
+      "address": "2594 Loganville Hwy Lilburn, GA",
+      "area": "Grayson",
+      "nextAvailableTime": "7:00 PM",
+      "nextAvailableRaw": "19:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-08-13T18:00:19.779313",
+      "scrapeTimeDisplay": "6:00 PM",
+      "scrapeDate": "2026-08-13",
+      "locationName": "Piedmont UC \u2014 Newnan Arbor Springs",
+      "address": "35 Arbor Springs Terrace Newnan, GA",
+      "area": "Newnan Arbor Springs",
+      "nextAvailableTime": "7:00 PM",
+      "nextAvailableRaw": "19:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 2
     }
   ],
-  "lastUpdated": "2026-08-13T17:16:33.616928",
+  "lastUpdated": "2026-08-13T18:16:34.342666",
   "threshold_minutes": 45
 }
