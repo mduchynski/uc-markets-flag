@@ -82562,8 +82562,34 @@
       "minutesOut": 48,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-14T16:56:33.984791",
+      "scrapeTimeDisplay": "4:56 PM",
+      "scrapeDate": "2026-08-14",
+      "locationName": "Piedmont UC \u2014 Athens",
+      "address": "485 Highway 29 North Athens, GA",
+      "area": "Athens",
+      "nextAvailableTime": "5:42 PM",
+      "nextAvailableRaw": "17:42:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-14T16:56:33.984791",
+      "scrapeTimeDisplay": "4:56 PM",
+      "scrapeDate": "2026-08-14",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 108,
+      "hoursOut": 1.8,
+      "sameDaySlots": 1
     }
   ],
-  "lastUpdated": "2026-08-14T16:17:10.971604",
+  "lastUpdated": "2026-08-14T17:16:31.978072",
   "threshold_minutes": 45
 }
