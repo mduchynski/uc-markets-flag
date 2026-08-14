@@ -81977,8 +81977,86 @@
       "minutesOut": 45,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-14T10:56:32.072459",
+      "scrapeTimeDisplay": "10:56 AM",
+      "scrapeDate": "2026-08-14",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "12:30 PM",
+      "nextAvailableRaw": "12:30:00",
+      "minutesOut": 93,
+      "hoursOut": 1.6,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-14T10:56:32.072459",
+      "scrapeTimeDisplay": "10:56 AM",
+      "scrapeDate": "2026-08-14",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-14T10:56:32.072459",
+      "scrapeTimeDisplay": "10:56 AM",
+      "scrapeDate": "2026-08-14",
+      "locationName": "Piedmont UC \u2014 Woodstock",
+      "address": "285 Ridgewalk Parkway Woodstock, GA",
+      "area": "Woodstock",
+      "nextAvailableTime": "12:30 PM",
+      "nextAvailableRaw": "12:30:00",
+      "minutesOut": 93,
+      "hoursOut": 1.6,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-14T10:56:32.072459",
+      "scrapeTimeDisplay": "10:56 AM",
+      "scrapeDate": "2026-08-14",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-14T10:56:32.072459",
+      "scrapeTimeDisplay": "10:56 AM",
+      "scrapeDate": "2026-08-14",
+      "locationName": "Piedmont UC \u2014 Summerhill",
+      "address": "572 Hank Aaron Drive, Suite 4200 Atlanta, GA",
+      "area": "Summerhill",
+      "nextAvailableTime": "12:30 PM",
+      "nextAvailableRaw": "12:30:00",
+      "minutesOut": 93,
+      "hoursOut": 1.6,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-14T10:56:32.072459",
+      "scrapeTimeDisplay": "10:56 AM",
+      "scrapeDate": "2026-08-14",
+      "locationName": "Piedmont UC \u2014 Milledgeville",
+      "address": "1909 N Columbia St Milledgeville, GA",
+      "area": "Milledgeville",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-14T10:16:31.275623",
+  "lastUpdated": "2026-08-14T11:16:32.888522",
   "threshold_minutes": 45
 }
