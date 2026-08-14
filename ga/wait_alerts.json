@@ -82588,8 +82588,47 @@
       "minutesOut": 108,
       "hoursOut": 1.8,
       "sameDaySlots": 1
+    },
+    {
+      "scrapeTime": "2026-08-14T17:57:30.754638",
+      "scrapeTimeDisplay": "5:57 PM",
+      "scrapeDate": "2026-08-14",
+      "locationName": "Piedmont UC \u2014 Locust Grove",
+      "address": "3366 Hwy 42S, Suite 100 Locust Grove, GA",
+      "area": "Locust Grove",
+      "nextAvailableTime": "7:00 PM",
+      "nextAvailableRaw": "19:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-08-14T17:57:30.754638",
+      "scrapeTimeDisplay": "5:57 PM",
+      "scrapeDate": "2026-08-14",
+      "locationName": "Piedmont UC \u2014 Vinings",
+      "address": "2810 Paces Ferry Road, Suite 156 Atlanta, GA",
+      "area": "Vinings",
+      "nextAvailableTime": "7:00 PM",
+      "nextAvailableRaw": "19:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-08-14T17:57:30.754638",
+      "scrapeTimeDisplay": "5:57 PM",
+      "scrapeDate": "2026-08-14",
+      "locationName": "Piedmont UC \u2014 Cascade",
+      "address": "3752 Cascade Rd, Suite 100 Atlanta, GA",
+      "area": "Cascade",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 3
     }
   ],
-  "lastUpdated": "2026-08-14T17:16:31.978072",
+  "lastUpdated": "2026-08-14T18:16:32.491925",
   "threshold_minutes": 45
 }
