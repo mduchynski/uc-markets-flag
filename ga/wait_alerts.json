@@ -82484,8 +82484,86 @@
       "minutesOut": 48,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-14T15:56:53.262107",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-08-14",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 123,
+      "hoursOut": 2.1,
+      "sameDaySlots": 6
+    },
+    {
+      "scrapeTime": "2026-08-14T15:56:53.262107",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-08-14",
+      "locationName": "Piedmont UC \u2014 Snellville-Centerville Hwy",
+      "address": "3641 Centerville Hwy Snellville, GA",
+      "area": "Snellville-Centerville Hwy",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-14T15:56:53.262107",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-08-14",
+      "locationName": "Piedmont UC \u2014 Athens",
+      "address": "485 Highway 29 North Athens, GA",
+      "area": "Athens",
+      "nextAvailableTime": "5:12 PM",
+      "nextAvailableRaw": "17:12:00",
+      "minutesOut": 75,
+      "hoursOut": 1.3,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-14T15:56:53.262107",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-08-14",
+      "locationName": "Piedmont UC \u2014 Decatur",
+      "address": "2520 N Decatur Rd, Decatur Decatur, GA",
+      "area": "Decatur",
+      "nextAvailableTime": "4:42 PM",
+      "nextAvailableRaw": "16:42:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-14T15:56:53.262107",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-08-14",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "5:00 PM",
+      "nextAvailableRaw": "17:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.1,
+      "sameDaySlots": 4
+    },
+    {
+      "scrapeTime": "2026-08-14T15:56:53.262107",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-08-14",
+      "locationName": "Piedmont UC \u2014 Kennesaw Bells Ferry",
+      "address": "4282 Bells Ferry Road NW Kennesaw, GA",
+      "area": "Kennesaw Bells Ferry",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-14T15:17:18.421780",
+  "lastUpdated": "2026-08-14T16:17:10.971604",
   "threshold_minutes": 45
 }
