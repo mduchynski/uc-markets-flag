@@ -83641,8 +83641,21 @@
       "minutesOut": 77,
       "hoursOut": 1.3,
       "sameDaySlots": 4
+    },
+    {
+      "scrapeTime": "2026-08-15T17:59:05.133719",
+      "scrapeTimeDisplay": "5:59 PM",
+      "scrapeDate": "2026-08-15",
+      "locationName": "Piedmont UC \u2014 Cartersville Main St",
+      "address": "10 Main St. Market Place Cartersville, GA",
+      "area": "Cartersville Main St",
+      "nextAvailableTime": "7:30 PM",
+      "nextAvailableRaw": "19:30:00",
+      "minutesOut": 91,
+      "hoursOut": 1.5,
+      "sameDaySlots": 1
     }
   ],
-  "lastUpdated": "2026-08-15T17:16:31.234291",
+  "lastUpdated": "2026-08-15T18:16:31.492528",
   "threshold_minutes": 45
 }
