@@ -6425,9 +6425,23 @@
       "minutesOut": 68,
       "hoursOut": 1.1,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-16T10:19:13.962288",
+      "scrapeTimeDisplay": "10:19 AM",
+      "scrapeDate": "2026-08-16",
+      "locationName": "Prisma UC \u2014 Seneca",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "1615 Sandifer Boulevard Seneca, SC",
+      "area": "Seneca",
+      "nextAvailableTime": "11:22 AM",
+      "nextAvailableRaw": "11:22:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-16T09:19:12.286610",
+  "lastUpdated": "2026-08-16T10:19:13.962288",
   "threshold_minutes": 60,
   "market": "SC"
 }
