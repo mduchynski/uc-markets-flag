@@ -86345,8 +86345,73 @@
       "minutesOut": 61,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-18T10:59:09.319877",
+      "scrapeTimeDisplay": "10:59 AM",
+      "scrapeDate": "2026-08-18",
+      "locationName": "Piedmont UC \u2014 Newnan Crossing",
+      "address": "2084 Newnan Crossing Blvd 30265 Newnan, GA",
+      "area": "Newnan Crossing",
+      "nextAvailableTime": "11:52 AM",
+      "nextAvailableRaw": "11:52:00",
+      "minutesOut": 53,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-18T10:59:09.319877",
+      "scrapeTimeDisplay": "10:59 AM",
+      "scrapeDate": "2026-08-18",
+      "locationName": "Piedmont UC \u2014 Ellenwood",
+      "address": "4475 W Village Pkwy Ellenwood, GA",
+      "area": "Ellenwood",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 181,
+      "hoursOut": 3.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-18T10:59:09.319877",
+      "scrapeTimeDisplay": "10:59 AM",
+      "scrapeDate": "2026-08-18",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-18T10:59:09.319877",
+      "scrapeTimeDisplay": "10:59 AM",
+      "scrapeDate": "2026-08-18",
+      "locationName": "Piedmont UC \u2014 Barrow",
+      "address": "340 Exchange Boulevard Bethlehem, GA",
+      "area": "Barrow",
+      "nextAvailableTime": "12:00 PM",
+      "nextAvailableRaw": "12:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-18T10:59:09.319877",
+      "scrapeTimeDisplay": "10:59 AM",
+      "scrapeDate": "2026-08-18",
+      "locationName": "Piedmont UC \u2014 Decatur",
+      "address": "2520 N Decatur Rd, Decatur Decatur, GA",
+      "area": "Decatur",
+      "nextAvailableTime": "11:53 AM",
+      "nextAvailableRaw": "11:53:00",
+      "minutesOut": 54,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-18T10:16:33.886313",
+  "lastUpdated": "2026-08-18T11:16:31.682566",
   "threshold_minutes": 45
 }
