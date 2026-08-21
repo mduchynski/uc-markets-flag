@@ -88542,8 +88542,60 @@
       "minutesOut": 55,
       "hoursOut": 0.9,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-21T15:05:14.863859",
+      "scrapeTimeDisplay": "3:05 PM",
+      "scrapeDate": "2026-08-21",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 55,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-21T15:05:14.863859",
+      "scrapeTimeDisplay": "3:05 PM",
+      "scrapeDate": "2026-08-21",
+      "locationName": "Piedmont UC \u2014 Ponce De Leon",
+      "address": "882 Ponce De Leon Avenue Atlanta, GA",
+      "area": "Ponce De Leon",
+      "nextAvailableTime": "4:20 PM",
+      "nextAvailableRaw": "16:20:00",
+      "minutesOut": 75,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-21T15:05:14.863859",
+      "scrapeTimeDisplay": "3:05 PM",
+      "scrapeDate": "2026-08-21",
+      "locationName": "Piedmont UC \u2014 East Point",
+      "address": "3515 Camp Creek Parkway East Point, GA",
+      "area": "East Point",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 55,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-21T15:05:14.863859",
+      "scrapeTimeDisplay": "3:05 PM",
+      "scrapeDate": "2026-08-21",
+      "locationName": "Piedmont UC \u2014 Lithonia",
+      "address": "7231 Rockbridge Road Lithonia, GA",
+      "area": "Lithonia",
+      "nextAvailableTime": "4:15 PM",
+      "nextAvailableRaw": "16:15:00",
+      "minutesOut": 70,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-21T14:51:43.377942",
+  "lastUpdated": "2026-08-21T15:51:20.959565",
   "threshold_minutes": 45
 }
