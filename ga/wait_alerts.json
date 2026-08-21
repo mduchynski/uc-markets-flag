@@ -88594,8 +88594,21 @@
       "minutesOut": 70,
       "hoursOut": 1.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-21T16:03:52.072315",
+      "scrapeTimeDisplay": "4:03 PM",
+      "scrapeDate": "2026-08-21",
+      "locationName": "Piedmont UC \u2014 Smyrna",
+      "address": "1155 Concord Rd SE Smyrna, GA",
+      "area": "Smyrna",
+      "nextAvailableTime": "5:15 PM",
+      "nextAvailableRaw": "17:15:00",
+      "minutesOut": 71,
+      "hoursOut": 1.2,
+      "sameDaySlots": 8
     }
   ],
-  "lastUpdated": "2026-08-21T15:51:20.959565",
+  "lastUpdated": "2026-08-21T16:51:27.878261",
   "threshold_minutes": 45
 }
