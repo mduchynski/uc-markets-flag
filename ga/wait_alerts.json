@@ -88191,8 +88191,86 @@
       "minutesOut": 55,
       "hoursOut": 0.9,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-21T12:05:06.340554",
+      "scrapeTimeDisplay": "12:05 PM",
+      "scrapeDate": "2026-08-21",
+      "locationName": "Piedmont UC \u2014 Ponce De Leon",
+      "address": "882 Ponce De Leon Avenue Atlanta, GA",
+      "area": "Ponce De Leon",
+      "nextAvailableTime": "2:13 PM",
+      "nextAvailableRaw": "14:13:00",
+      "minutesOut": 128,
+      "hoursOut": 2.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-21T12:05:06.340554",
+      "scrapeTimeDisplay": "12:05 PM",
+      "scrapeDate": "2026-08-21",
+      "locationName": "Piedmont UC \u2014 Canton",
+      "address": "2026 Cumming Hwy, Suite 100 Canton, GA",
+      "area": "Canton",
+      "nextAvailableTime": "1:00 PM",
+      "nextAvailableRaw": "13:00:00",
+      "minutesOut": 55,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-21T12:05:06.340554",
+      "scrapeTimeDisplay": "12:05 PM",
+      "scrapeDate": "2026-08-21",
+      "locationName": "Piedmont UC \u2014 Columbus Uptown",
+      "address": "101 13th Street Suite 200 Columbus, GA",
+      "area": "Columbus Uptown",
+      "nextAvailableTime": "1:00 PM",
+      "nextAvailableRaw": "13:00:00",
+      "minutesOut": 55,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-21T12:05:06.340554",
+      "scrapeTimeDisplay": "12:05 PM",
+      "scrapeDate": "2026-08-21",
+      "locationName": "Piedmont UC \u2014 Athens",
+      "address": "485 Highway 29 North Athens, GA",
+      "area": "Athens",
+      "nextAvailableTime": "1:50 PM",
+      "nextAvailableRaw": "13:50:00",
+      "minutesOut": 105,
+      "hoursOut": 1.7,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-21T12:05:06.340554",
+      "scrapeTimeDisplay": "12:05 PM",
+      "scrapeDate": "2026-08-21",
+      "locationName": "Piedmont UC \u2014 Summerhill",
+      "address": "572 Hank Aaron Drive, Suite 4200 Atlanta, GA",
+      "area": "Summerhill",
+      "nextAvailableTime": "3:07 PM",
+      "nextAvailableRaw": "15:07:00",
+      "minutesOut": 182,
+      "hoursOut": 3.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-21T12:05:06.340554",
+      "scrapeTimeDisplay": "12:05 PM",
+      "scrapeDate": "2026-08-21",
+      "locationName": "Piedmont UC \u2014 Monroe",
+      "address": "850 Pavillion Parkway 30656, GA",
+      "area": "Monroe",
+      "nextAvailableTime": "1:00 PM",
+      "nextAvailableRaw": "13:00:00",
+      "minutesOut": 55,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-21T11:51:36.272858",
+  "lastUpdated": "2026-08-21T12:51:53.076903",
   "threshold_minutes": 45
 }
