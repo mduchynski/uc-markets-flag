@@ -6691,9 +6691,51 @@
       "minutesOut": 71,
       "hoursOut": 1.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-22T08:19:48.489582",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-08-22",
+      "locationName": "Prisma UC \u2014 Greer",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "1305 S Suber Rd Greer, SC",
+      "area": "Greer",
+      "nextAvailableTime": "9:22 AM",
+      "nextAvailableRaw": "09:22:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-22T08:19:48.489582",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-08-22",
+      "locationName": "Prisma UC \u2014 Boiling Springs",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "2555 Boiling Springs Road 29316, SC",
+      "area": "Boiling Springs",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 100,
+      "hoursOut": 1.7,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-22T08:19:48.489582",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-08-22",
+      "locationName": "Prisma UC \u2014 Easley",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "6043 Calhoun Memorial Hwy Easley, SC",
+      "area": "Easley",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 70,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-21T16:54:15.319447",
+  "lastUpdated": "2026-08-22T08:19:48.489582",
   "threshold_minutes": 60,
   "market": "SC"
 }
