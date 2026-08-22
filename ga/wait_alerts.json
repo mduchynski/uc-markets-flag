@@ -90128,8 +90128,21 @@
       "minutesOut": 60,
       "hoursOut": 1.0,
       "sameDaySlots": 6
+    },
+    {
+      "scrapeTime": "2026-08-22T17:59:42.094506",
+      "scrapeTimeDisplay": "5:59 PM",
+      "scrapeDate": "2026-08-22",
+      "locationName": "Piedmont UC \u2014 Buckhead North",
+      "address": "3617 Roswell Road Atlanta, GA",
+      "area": "Buckhead North",
+      "nextAvailableTime": "7:00 PM",
+      "nextAvailableRaw": "19:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 2
     }
   ],
-  "lastUpdated": "2026-08-22T17:16:33.803160",
+  "lastUpdated": "2026-08-22T18:16:34.671025",
   "threshold_minutes": 45
 }
