@@ -6789,9 +6789,51 @@
       "minutesOut": 63,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-23T08:19:17.942946",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-08-23",
+      "locationName": "Prisma UC \u2014 Greenville - Woodruff Road",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "1298 Woodruff Rd Greenville, SC",
+      "area": "Greenville - Woodruff Road",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 71,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-23T08:19:17.942946",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-08-23",
+      "locationName": "Prisma UC \u2014 Lexington Sunset",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "5061 Sunset Blvd Lexington , SC",
+      "area": "Lexington Sunset",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 71,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-23T08:19:17.942946",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-08-23",
+      "locationName": "Prisma UC \u2014 Mauldin",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "122 S Main Street 29662, SC",
+      "area": "Mauldin",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 71,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-22T20:19:21.299681",
+  "lastUpdated": "2026-08-23T08:19:17.942946",
   "threshold_minutes": 60,
   "market": "SC"
 }
