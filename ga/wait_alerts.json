@@ -91207,8 +91207,60 @@
       "minutesOut": 46,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-23T16:58:52.593387",
+      "scrapeTimeDisplay": "4:58 PM",
+      "scrapeDate": "2026-08-23",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "5:45 PM",
+      "nextAvailableRaw": "17:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-08-23T16:58:52.593387",
+      "scrapeTimeDisplay": "4:58 PM",
+      "scrapeDate": "2026-08-23",
+      "locationName": "Piedmont UC \u2014 Clairmont",
+      "address": "2700 Clairmont Road Atlanta, GA",
+      "area": "Clairmont",
+      "nextAvailableTime": "5:45 PM",
+      "nextAvailableRaw": "17:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 5
+    },
+    {
+      "scrapeTime": "2026-08-23T16:58:52.593387",
+      "scrapeTimeDisplay": "4:58 PM",
+      "scrapeDate": "2026-08-23",
+      "locationName": "Piedmont UC \u2014 Cumming Tribble Road",
+      "address": "3420 Canton Highway, Suite C-3 30028, GA",
+      "area": "Cumming Tribble Road",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-08-23T16:58:52.593387",
+      "scrapeTimeDisplay": "4:58 PM",
+      "scrapeDate": "2026-08-23",
+      "locationName": "Piedmont UC \u2014 Milledgeville",
+      "address": "1909 N Columbia St Milledgeville, GA",
+      "area": "Milledgeville",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 6
     }
   ],
-  "lastUpdated": "2026-08-23T16:17:17.057880",
+  "lastUpdated": "2026-08-23T17:17:06.108740",
   "threshold_minutes": 45
 }
