@@ -6831,9 +6831,23 @@
       "minutesOut": 71,
       "hoursOut": 1.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-23T10:19:16.282729",
+      "scrapeTimeDisplay": "10:19 AM",
+      "scrapeDate": "2026-08-23",
+      "locationName": "Prisma UC \u2014 Anderson",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "3322 N Main Street Anderson, SC",
+      "area": "Anderson",
+      "nextAvailableTime": "11:22 AM",
+      "nextAvailableRaw": "11:22:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-23T09:19:14.530536",
+  "lastUpdated": "2026-08-23T10:19:16.282729",
   "threshold_minutes": 60,
   "market": "SC"
 }
