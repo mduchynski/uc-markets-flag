@@ -90141,8 +90141,47 @@
       "minutesOut": 60,
       "hoursOut": 1.0,
       "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-08-23T08:59:16.003832",
+      "scrapeTimeDisplay": "8:59 AM",
+      "scrapeDate": "2026-08-23",
+      "locationName": "Piedmont UC \u2014 Newnan Arbor Springs",
+      "address": "35 Arbor Springs Terrace Newnan, GA",
+      "area": "Newnan Arbor Springs",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-23T09:16:33.288265",
+      "scrapeTimeDisplay": "9:16 AM",
+      "scrapeDate": "2026-08-23",
+      "locationName": "Piedmont UC \u2014 Peachtree City",
+      "address": "100 Line Creek Drive Peachtree, GA",
+      "area": "Peachtree City",
+      "nextAvailableTime": "10:10 AM",
+      "nextAvailableRaw": "10:10:00",
+      "minutesOut": 53,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-23T09:16:33.288265",
+      "scrapeTimeDisplay": "9:16 AM",
+      "scrapeDate": "2026-08-23",
+      "locationName": "Piedmont UC \u2014 Dunwoody",
+      "address": "1575 Mount Vernon Road Dunwoody, GA",
+      "area": "Dunwoody",
+      "nextAvailableTime": "10:30 AM",
+      "nextAvailableRaw": "10:30:00",
+      "minutesOut": 73,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-23T08:16:35.718977",
+  "lastUpdated": "2026-08-23T09:16:33.288265",
   "threshold_minutes": 45
 }
