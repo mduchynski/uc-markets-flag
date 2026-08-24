@@ -91584,8 +91584,73 @@
       "minutesOut": 50,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-24T11:00:17.493674",
+      "scrapeTimeDisplay": "11:00 AM",
+      "scrapeDate": "2026-08-24",
+      "locationName": "Piedmont UC \u2014 Newnan Crossing",
+      "address": "2084 Newnan Crossing Blvd 30265 Newnan, GA",
+      "area": "Newnan Crossing",
+      "nextAvailableTime": "11:52 AM",
+      "nextAvailableRaw": "11:52:00",
+      "minutesOut": 52,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-24T11:00:17.493674",
+      "scrapeTimeDisplay": "11:00 AM",
+      "scrapeDate": "2026-08-24",
+      "locationName": "Piedmont UC \u2014 Covington",
+      "address": "5239 Highway 278 Covington, GA",
+      "area": "Covington",
+      "nextAvailableTime": "12:07 PM",
+      "nextAvailableRaw": "12:07:00",
+      "minutesOut": 67,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-24T11:00:17.493674",
+      "scrapeTimeDisplay": "11:00 AM",
+      "scrapeDate": "2026-08-24",
+      "locationName": "Piedmont UC \u2014 Columbus Uptown",
+      "address": "101 13th Street Suite 200 Columbus, GA",
+      "area": "Columbus Uptown",
+      "nextAvailableTime": "12:15 PM",
+      "nextAvailableRaw": "12:15:00",
+      "minutesOut": 75,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-24T11:00:17.493674",
+      "scrapeTimeDisplay": "11:00 AM",
+      "scrapeDate": "2026-08-24",
+      "locationName": "Piedmont UC \u2014 Macon Zebulon",
+      "address": "5791 Zebulon RD STE A Macon, GA",
+      "area": "Macon Zebulon",
+      "nextAvailableTime": "12:15 PM",
+      "nextAvailableRaw": "12:15:00",
+      "minutesOut": 75,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-24T11:00:17.493674",
+      "scrapeTimeDisplay": "11:00 AM",
+      "scrapeDate": "2026-08-24",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 180,
+      "hoursOut": 3.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-24T10:16:38.405499",
+  "lastUpdated": "2026-08-24T11:16:32.346120",
   "threshold_minutes": 45
 }
