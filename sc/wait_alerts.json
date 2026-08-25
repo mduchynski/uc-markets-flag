@@ -6929,9 +6929,23 @@
       "minutesOut": 85,
       "hoursOut": 1.4,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-25T10:19:28.433971",
+      "scrapeTimeDisplay": "10:19 AM",
+      "scrapeDate": "2026-08-25",
+      "locationName": "Prisma UC \u2014 Columbia Five Points",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "944 Harden St. Columbia, SC",
+      "area": "Columbia Five Points",
+      "nextAvailableTime": "11:22 AM",
+      "nextAvailableRaw": "11:22:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-24T16:19:24.480939",
+  "lastUpdated": "2026-08-25T10:19:28.433971",
   "threshold_minutes": 60,
   "market": "SC"
 }
