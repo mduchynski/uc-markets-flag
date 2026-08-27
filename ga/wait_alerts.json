@@ -94509,8 +94509,47 @@
       "minutesOut": 60,
       "hoursOut": 1.0,
       "sameDaySlots": 8
+    },
+    {
+      "scrapeTime": "2026-08-27T18:00:19.329006",
+      "scrapeTimeDisplay": "6:00 PM",
+      "scrapeDate": "2026-08-27",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "7:12 PM",
+      "nextAvailableRaw": "19:12:00",
+      "minutesOut": 72,
+      "hoursOut": 1.2,
+      "sameDaySlots": 1
+    },
+    {
+      "scrapeTime": "2026-08-27T18:00:19.329006",
+      "scrapeTimeDisplay": "6:00 PM",
+      "scrapeDate": "2026-08-27",
+      "locationName": "Piedmont UC \u2014 Newnan Crossing",
+      "address": "2084 Newnan Crossing Blvd 30265 Newnan, GA",
+      "area": "Newnan Crossing",
+      "nextAvailableTime": "6:52 PM",
+      "nextAvailableRaw": "18:52:00",
+      "minutesOut": 52,
+      "hoursOut": 0.9,
+      "sameDaySlots": 4
+    },
+    {
+      "scrapeTime": "2026-08-27T18:00:19.329006",
+      "scrapeTimeDisplay": "6:00 PM",
+      "scrapeDate": "2026-08-27",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "7:15 PM",
+      "nextAvailableRaw": "19:15:00",
+      "minutesOut": 75,
+      "hoursOut": 1.2,
+      "sameDaySlots": 2
     }
   ],
-  "lastUpdated": "2026-08-27T17:16:36.052039",
+  "lastUpdated": "2026-08-27T18:17:17.823269",
   "threshold_minutes": 45
 }
