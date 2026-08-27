@@ -94275,8 +94275,86 @@
       "minutesOut": 72,
       "hoursOut": 1.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-27T14:01:10.789937",
+      "scrapeTimeDisplay": "2:01 PM",
+      "scrapeDate": "2026-08-27",
+      "locationName": "Piedmont UC \u2014 West Cobb",
+      "address": "2505 Dallas Hwy Marietta, GA",
+      "area": "West Cobb",
+      "nextAvailableTime": "3:00 PM",
+      "nextAvailableRaw": "15:00:00",
+      "minutesOut": 59,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-27T14:01:10.789937",
+      "scrapeTimeDisplay": "2:01 PM",
+      "scrapeDate": "2026-08-27",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "3:30 PM",
+      "nextAvailableRaw": "15:30:00",
+      "minutesOut": 89,
+      "hoursOut": 1.5,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-27T14:01:10.789937",
+      "scrapeTimeDisplay": "2:01 PM",
+      "scrapeDate": "2026-08-27",
+      "locationName": "Piedmont UC \u2014 Austell",
+      "address": "3999 Austell Road Austell, GA",
+      "area": "Austell",
+      "nextAvailableTime": "3:30 PM",
+      "nextAvailableRaw": "15:30:00",
+      "minutesOut": 89,
+      "hoursOut": 1.5,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-27T14:01:10.789937",
+      "scrapeTimeDisplay": "2:01 PM",
+      "scrapeDate": "2026-08-27",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "3:15 PM",
+      "nextAvailableRaw": "15:15:00",
+      "minutesOut": 74,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-27T14:01:10.789937",
+      "scrapeTimeDisplay": "2:01 PM",
+      "scrapeDate": "2026-08-27",
+      "locationName": "Piedmont UC \u2014 Lithonia",
+      "address": "7231 Rockbridge Road Lithonia, GA",
+      "area": "Lithonia",
+      "nextAvailableTime": "3:00 PM",
+      "nextAvailableRaw": "15:00:00",
+      "minutesOut": 59,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-27T14:01:10.789937",
+      "scrapeTimeDisplay": "2:01 PM",
+      "scrapeDate": "2026-08-27",
+      "locationName": "Piedmont UC \u2014 Decatur",
+      "address": "2520 N Decatur Rd, Decatur Decatur, GA",
+      "area": "Decatur",
+      "nextAvailableTime": "3:36 PM",
+      "nextAvailableRaw": "15:36:00",
+      "minutesOut": 95,
+      "hoursOut": 1.6,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-27T13:16:40.482900",
+  "lastUpdated": "2026-08-27T14:16:39.200718",
   "threshold_minutes": 45
 }
