@@ -94457,8 +94457,60 @@
       "minutesOut": 47,
       "hoursOut": 0.8,
       "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-08-27T17:00:18.141299",
+      "scrapeTimeDisplay": "5:00 PM",
+      "scrapeDate": "2026-08-27",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "7:00 PM",
+      "nextAvailableRaw": "19:00:00",
+      "minutesOut": 120,
+      "hoursOut": 2.0,
+      "sameDaySlots": 1
+    },
+    {
+      "scrapeTime": "2026-08-27T17:00:18.141299",
+      "scrapeTimeDisplay": "5:00 PM",
+      "scrapeDate": "2026-08-27",
+      "locationName": "Piedmont UC \u2014 Newnan Crossing",
+      "address": "2084 Newnan Crossing Blvd 30265 Newnan, GA",
+      "area": "Newnan Crossing",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-27T17:00:18.141299",
+      "scrapeTimeDisplay": "5:00 PM",
+      "scrapeDate": "2026-08-27",
+      "locationName": "Piedmont UC \u2014 Austell",
+      "address": "3999 Austell Road Austell, GA",
+      "area": "Austell",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 6
+    },
+    {
+      "scrapeTime": "2026-08-27T17:00:18.141299",
+      "scrapeTimeDisplay": "5:00 PM",
+      "scrapeDate": "2026-08-27",
+      "locationName": "Piedmont UC \u2014 Milton",
+      "address": "13081 GA-9 Alpharetta, GA",
+      "area": "Milton",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 8
     }
   ],
-  "lastUpdated": "2026-08-27T16:16:37.580423",
+  "lastUpdated": "2026-08-27T17:16:36.052039",
   "threshold_minutes": 45
 }
