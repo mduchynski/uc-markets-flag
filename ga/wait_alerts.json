@@ -94548,8 +94548,60 @@
       "minutesOut": 75,
       "hoursOut": 1.2,
       "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-08-28T08:00:25.179083",
+      "scrapeTimeDisplay": "8:00 AM",
+      "scrapeDate": "2026-08-28",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "9:15 AM",
+      "nextAvailableRaw": "09:15:00",
+      "minutesOut": 75,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-28T08:00:25.179083",
+      "scrapeTimeDisplay": "8:00 AM",
+      "scrapeDate": "2026-08-28",
+      "locationName": "Piedmont UC \u2014 Athens",
+      "address": "485 Highway 29 North Athens, GA",
+      "area": "Athens",
+      "nextAvailableTime": "8:54 AM",
+      "nextAvailableRaw": "08:54:00",
+      "minutesOut": 54,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-28T08:16:34.123673",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-08-28",
+      "locationName": "Piedmont UC \u2014 West Cobb",
+      "address": "2505 Dallas Hwy Marietta, GA",
+      "area": "West Cobb",
+      "nextAvailableTime": "9:15 AM",
+      "nextAvailableRaw": "09:15:00",
+      "minutesOut": 58,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-28T08:16:34.123673",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-08-28",
+      "locationName": "Piedmont UC \u2014 Douglasville",
+      "address": "2976 Chapel Hill Rd Douglasville, GA",
+      "area": "Douglasville",
+      "nextAvailableTime": "9:07 AM",
+      "nextAvailableRaw": "09:07:00",
+      "minutesOut": 50,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-27T20:17:17.985931",
+  "lastUpdated": "2026-08-28T08:16:34.123673",
   "threshold_minutes": 45
 }
