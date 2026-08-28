@@ -94743,8 +94743,47 @@
       "minutesOut": 81,
       "hoursOut": 1.4,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-28T11:59:42.962002",
+      "scrapeTimeDisplay": "11:59 AM",
+      "scrapeDate": "2026-08-28",
+      "locationName": "Piedmont UC \u2014 Loganville",
+      "address": "4763 Atlanta Highway Loganville, GA",
+      "area": "Loganville",
+      "nextAvailableTime": "2:07 PM",
+      "nextAvailableRaw": "14:07:00",
+      "minutesOut": 127,
+      "hoursOut": 2.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-28T11:59:42.962002",
+      "scrapeTimeDisplay": "11:59 AM",
+      "scrapeDate": "2026-08-28",
+      "locationName": "Piedmont UC \u2014 Marietta",
+      "address": "789 Church St Marietta, GA",
+      "area": "Marietta",
+      "nextAvailableTime": "12:45 PM",
+      "nextAvailableRaw": "12:45:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-28T11:59:42.962002",
+      "scrapeTimeDisplay": "11:59 AM",
+      "scrapeDate": "2026-08-28",
+      "locationName": "Piedmont UC \u2014 Columbus Uptown",
+      "address": "101 13th Street Suite 200 Columbus, GA",
+      "area": "Columbus Uptown",
+      "nextAvailableTime": "12:45 PM",
+      "nextAvailableRaw": "12:45:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-28T11:16:38.804023",
+  "lastUpdated": "2026-08-28T12:16:39.291154",
   "threshold_minutes": 45
 }
