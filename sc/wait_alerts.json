@@ -7727,9 +7727,65 @@
       "minutesOut": 167,
       "hoursOut": 2.8,
       "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-08-29T07:51:59.204692",
+      "scrapeTimeDisplay": "7:51 AM",
+      "scrapeDate": "2026-08-29",
+      "locationName": "Prisma UC \u2014 Greenville - Verdae",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "905 Verdae Blvd, Suite 101 Greenville, SC",
+      "area": "Greenville - Verdae",
+      "nextAvailableTime": "9:15 AM",
+      "nextAvailableRaw": "09:15:00",
+      "minutesOut": 83,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-29T07:51:59.204692",
+      "scrapeTimeDisplay": "7:51 AM",
+      "scrapeDate": "2026-08-29",
+      "locationName": "Prisma UC \u2014 Columbia Forest Acres",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "2220 North Beltline Blvd 29204, SC",
+      "area": "Columbia Forest Acres",
+      "nextAvailableTime": "8:52 AM",
+      "nextAvailableRaw": "08:52:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-29T07:51:59.204692",
+      "scrapeTimeDisplay": "7:51 AM",
+      "scrapeDate": "2026-08-29",
+      "locationName": "Prisma UC \u2014 Mauldin",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "122 S Main Street 29662, SC",
+      "area": "Mauldin",
+      "nextAvailableTime": "9:00 AM",
+      "nextAvailableRaw": "09:00:00",
+      "minutesOut": 68,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-29T07:51:59.204692",
+      "scrapeTimeDisplay": "7:51 AM",
+      "scrapeDate": "2026-08-29",
+      "locationName": "Prisma UC \u2014 Simpsonville - Martin Farms",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "718, Fairview Road Simpsonville, SC",
+      "area": "Simpsonville - Martin Farms",
+      "nextAvailableTime": "9:00 AM",
+      "nextAvailableRaw": "09:00:00",
+      "minutesOut": 68,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-29T05:28:18.041630",
+  "lastUpdated": "2026-08-29T07:51:59.204692",
   "threshold_minutes": 60,
   "market": "SC"
 }
