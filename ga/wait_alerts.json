@@ -100853,8 +100853,73 @@
       "minutesOut": 74,
       "hoursOut": 1.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-02T15:05:34.767926",
+      "scrapeTimeDisplay": "3:05 PM",
+      "scrapeDate": "2026-09-02",
+      "locationName": "Piedmont UC \u2014 Newnan Crossing",
+      "address": "2084 Newnan Crossing Blvd 30265 Newnan, GA",
+      "area": "Newnan Crossing",
+      "nextAvailableTime": "4:15 PM",
+      "nextAvailableRaw": "16:15:00",
+      "minutesOut": 69,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-02T15:05:34.767926",
+      "scrapeTimeDisplay": "3:05 PM",
+      "scrapeDate": "2026-09-02",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 54,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-02T15:05:34.767926",
+      "scrapeTimeDisplay": "3:05 PM",
+      "scrapeDate": "2026-09-02",
+      "locationName": "Piedmont UC \u2014 Macon Ingleside",
+      "address": "2410 Ingleside Ave Macon, GA",
+      "area": "Macon Ingleside",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 54,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-02T15:05:34.767926",
+      "scrapeTimeDisplay": "3:05 PM",
+      "scrapeDate": "2026-09-02",
+      "locationName": "Piedmont UC \u2014 Newnan Arbor Springs",
+      "address": "35 Arbor Springs Terrace Newnan, GA",
+      "area": "Newnan Arbor Springs",
+      "nextAvailableTime": "4:15 PM",
+      "nextAvailableRaw": "16:15:00",
+      "minutesOut": 69,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-02T15:05:34.767926",
+      "scrapeTimeDisplay": "3:05 PM",
+      "scrapeDate": "2026-09-02",
+      "locationName": "Piedmont UC \u2014 Milledgeville",
+      "address": "1909 N Columbia St Milledgeville, GA",
+      "area": "Milledgeville",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 54,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-02T14:52:38.790096",
+  "lastUpdated": "2026-09-02T15:52:38.889230",
   "threshold_minutes": 45
 }
