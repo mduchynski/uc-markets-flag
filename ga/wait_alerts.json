@@ -100541,8 +100541,21 @@
       "minutesOut": 58,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-02T10:51:49.764380",
+      "scrapeTimeDisplay": "10:51 AM",
+      "scrapeDate": "2026-09-02",
+      "locationName": "Piedmont UC \u2014 LaGrange",
+      "address": "1524 Lafayette Parkway Lagrange, GA",
+      "area": "LaGrange",
+      "nextAvailableTime": "11:37 AM",
+      "nextAvailableRaw": "11:37:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-02T10:17:20.226706",
+  "lastUpdated": "2026-09-02T10:51:49.764380",
   "threshold_minutes": 45
 }
