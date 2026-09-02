@@ -8357,9 +8357,37 @@
       "minutesOut": 71,
       "hoursOut": 1.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-02T09:19:47.554929",
+      "scrapeTimeDisplay": "9:19 AM",
+      "scrapeDate": "2026-09-02",
+      "locationName": "Prisma UC \u2014 Greer",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "1305 S Suber Rd Greer, SC",
+      "area": "Greer",
+      "nextAvailableTime": "10:22 AM",
+      "nextAvailableRaw": "10:22:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-02T09:19:47.554929",
+      "scrapeTimeDisplay": "9:19 AM",
+      "scrapeDate": "2026-09-02",
+      "locationName": "Prisma UC \u2014 Boiling Springs",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "2555 Boiling Springs Road 29316, SC",
+      "area": "Boiling Springs",
+      "nextAvailableTime": "10:30 AM",
+      "nextAvailableRaw": "10:30:00",
+      "minutesOut": 70,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-02T09:02:44.732385",
+  "lastUpdated": "2026-09-02T09:19:47.554929",
   "threshold_minutes": 60,
   "market": "SC"
 }
