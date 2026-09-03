@@ -8553,9 +8553,51 @@
       "minutesOut": 95,
       "hoursOut": 1.6,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-03T08:19:40.181599",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-09-03",
+      "locationName": "Prisma UC \u2014 Scuffletown",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "300 Scuffletown Rd Simpsonville, SC",
+      "area": "Scuffletown",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 70,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-03T08:19:40.181599",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-09-03",
+      "locationName": "Prisma UC \u2014 Taylors",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "3025 Wade Hampton Blvd. Taylors, SC",
+      "area": "Taylors",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 85,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-03T08:19:40.181599",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-09-03",
+      "locationName": "Prisma UC \u2014 Travelers Rest",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "571 Roe Center Ct., Suite C-3 Travelers Rest, SC",
+      "area": "Travelers Rest",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 70,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-03T07:55:20.326374",
+  "lastUpdated": "2026-09-03T08:19:40.181599",
   "threshold_minutes": 60,
   "market": "SC"
 }
