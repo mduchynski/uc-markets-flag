@@ -8525,9 +8525,37 @@
       "minutesOut": 68,
       "hoursOut": 1.1,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-03T07:55:20.326374",
+      "scrapeTimeDisplay": "7:55 AM",
+      "scrapeDate": "2026-09-03",
+      "locationName": "Prisma UC \u2014 Taylors",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "3025 Wade Hampton Blvd. Taylors, SC",
+      "area": "Taylors",
+      "nextAvailableTime": "9:00 AM",
+      "nextAvailableRaw": "09:00:00",
+      "minutesOut": 65,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-03T07:55:20.326374",
+      "scrapeTimeDisplay": "7:55 AM",
+      "scrapeDate": "2026-09-03",
+      "locationName": "Prisma UC \u2014 Easley",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "6043 Calhoun Memorial Hwy Easley, SC",
+      "area": "Easley",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 95,
+      "hoursOut": 1.6,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-03T07:36:44.675308",
+  "lastUpdated": "2026-09-03T07:55:20.326374",
   "threshold_minutes": 60,
   "market": "SC"
 }
