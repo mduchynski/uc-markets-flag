@@ -8623,9 +8623,51 @@
       "minutesOut": 132,
       "hoursOut": 2.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-09T09:22:52.280323",
+      "scrapeTimeDisplay": "9:22 AM",
+      "scrapeDate": "2026-09-09",
+      "locationName": "Prisma UC \u2014 Scuffletown",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "300 Scuffletown Rd Simpsonville, SC",
+      "area": "Scuffletown",
+      "nextAvailableTime": "10:30 AM",
+      "nextAvailableRaw": "10:30:00",
+      "minutesOut": 67,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-09T09:22:52.280323",
+      "scrapeTimeDisplay": "9:22 AM",
+      "scrapeDate": "2026-09-09",
+      "locationName": "Prisma UC \u2014 Anderson",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "3322 N Main Street Anderson, SC",
+      "area": "Anderson",
+      "nextAvailableTime": "10:45 AM",
+      "nextAvailableRaw": "10:45:00",
+      "minutesOut": 82,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-09T09:22:52.280323",
+      "scrapeTimeDisplay": "9:22 AM",
+      "scrapeDate": "2026-09-09",
+      "locationName": "Prisma UC \u2014 Columbia Forest Acres",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "2220 North Beltline Blvd 29204, SC",
+      "area": "Columbia Forest Acres",
+      "nextAvailableTime": "10:45 AM",
+      "nextAvailableRaw": "10:45:00",
+      "minutesOut": 82,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-09T09:12:09.609352",
+  "lastUpdated": "2026-09-09T09:22:52.280323",
   "threshold_minutes": 60,
   "market": "SC"
 }
