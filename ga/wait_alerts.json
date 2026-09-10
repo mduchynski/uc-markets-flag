@@ -103011,8 +103011,60 @@
       "minutesOut": 50,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-10T08:59:40.771534",
+      "scrapeTimeDisplay": "8:59 AM",
+      "scrapeDate": "2026-09-10",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-10T08:59:40.771534",
+      "scrapeTimeDisplay": "8:59 AM",
+      "scrapeDate": "2026-09-10",
+      "locationName": "Piedmont UC \u2014 Oconee",
+      "address": "1305 Jennings Mill Road Suite 120 Watkinsville, GA",
+      "area": "Oconee",
+      "nextAvailableTime": "11:30 AM",
+      "nextAvailableRaw": "11:30:00",
+      "minutesOut": 150,
+      "hoursOut": 2.5,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-10T08:59:40.771534",
+      "scrapeTimeDisplay": "8:59 AM",
+      "scrapeDate": "2026-09-10",
+      "locationName": "Piedmont UC \u2014 Jefferson",
+      "address": "528 Panther Drive Jefferson, GA",
+      "area": "Jefferson",
+      "nextAvailableTime": "1:15 PM",
+      "nextAvailableRaw": "13:15:00",
+      "minutesOut": 255,
+      "hoursOut": 4.3,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-10T09:16:30.420794",
+      "scrapeTimeDisplay": "9:16 AM",
+      "scrapeDate": "2026-09-10",
+      "locationName": "Piedmont UC \u2014 Columbus Blackmon",
+      "address": "7301 Blackmon Road Columbus, GA",
+      "area": "Columbus Blackmon",
+      "nextAvailableTime": "10:22 AM",
+      "nextAvailableRaw": "10:22:00",
+      "minutesOut": 65,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-10T08:16:32.500448",
+  "lastUpdated": "2026-09-10T09:16:30.420794",
   "threshold_minutes": 45
 }
