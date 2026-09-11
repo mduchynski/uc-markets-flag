@@ -104649,8 +104649,73 @@
       "minutesOut": 46,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-11T16:00:12.149028",
+      "scrapeTimeDisplay": "4:00 PM",
+      "scrapeDate": "2026-09-11",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "6:30 PM",
+      "nextAvailableRaw": "18:30:00",
+      "minutesOut": 150,
+      "hoursOut": 2.5,
+      "sameDaySlots": 4
+    },
+    {
+      "scrapeTime": "2026-09-11T16:00:12.149028",
+      "scrapeTimeDisplay": "4:00 PM",
+      "scrapeDate": "2026-09-11",
+      "locationName": "Piedmont UC \u2014 Conyers",
+      "address": "1280 Dogwood Dr SE Conyers, GA",
+      "area": "Conyers",
+      "nextAvailableTime": "5:15 PM",
+      "nextAvailableRaw": "17:15:00",
+      "minutesOut": 75,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-11T16:00:12.149028",
+      "scrapeTimeDisplay": "4:00 PM",
+      "scrapeDate": "2026-09-11",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "5:30 PM",
+      "nextAvailableRaw": "17:30:00",
+      "minutesOut": 90,
+      "hoursOut": 1.5,
+      "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-09-11T16:00:12.149028",
+      "scrapeTimeDisplay": "4:00 PM",
+      "scrapeDate": "2026-09-11",
+      "locationName": "Piedmont UC \u2014 Grayson",
+      "address": "2594 Loganville Hwy Lilburn, GA",
+      "area": "Grayson",
+      "nextAvailableTime": "5:15 PM",
+      "nextAvailableRaw": "17:15:00",
+      "minutesOut": 75,
+      "hoursOut": 1.2,
+      "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-09-11T16:00:12.149028",
+      "scrapeTimeDisplay": "4:00 PM",
+      "scrapeDate": "2026-09-11",
+      "locationName": "Piedmont UC \u2014 Decatur",
+      "address": "2520 N Decatur Rd, Decatur Decatur, GA",
+      "area": "Decatur",
+      "nextAvailableTime": "5:30 PM",
+      "nextAvailableRaw": "17:30:00",
+      "minutesOut": 90,
+      "hoursOut": 1.5,
+      "sameDaySlots": 6
     }
   ],
-  "lastUpdated": "2026-09-11T15:16:35.279297",
+  "lastUpdated": "2026-09-11T16:16:36.079379",
   "threshold_minutes": 45
 }
