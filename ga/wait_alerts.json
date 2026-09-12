@@ -104961,8 +104961,73 @@
       "minutesOut": 60,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-12T10:59:42.125505",
+      "scrapeTimeDisplay": "10:59 AM",
+      "scrapeDate": "2026-09-12",
+      "locationName": "Piedmont UC \u2014 Peachtree City",
+      "address": "100 Line Creek Drive Peachtree, GA",
+      "area": "Peachtree City",
+      "nextAvailableTime": "12:00 PM",
+      "nextAvailableRaw": "12:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-12T10:59:42.125505",
+      "scrapeTimeDisplay": "10:59 AM",
+      "scrapeDate": "2026-09-12",
+      "locationName": "Piedmont UC \u2014 Grayson",
+      "address": "2594 Loganville Hwy Lilburn, GA",
+      "area": "Grayson",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-12T10:59:42.125505",
+      "scrapeTimeDisplay": "10:59 AM",
+      "scrapeDate": "2026-09-12",
+      "locationName": "Piedmont UC \u2014 Snellville-Centerville Hwy",
+      "address": "3641 Centerville Hwy Snellville, GA",
+      "area": "Snellville-Centerville Hwy",
+      "nextAvailableTime": "12:00 PM",
+      "nextAvailableRaw": "12:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-12T10:59:42.125505",
+      "scrapeTimeDisplay": "10:59 AM",
+      "scrapeDate": "2026-09-12",
+      "locationName": "Piedmont UC \u2014 Oconee",
+      "address": "1305 Jennings Mill Road Suite 120 Watkinsville, GA",
+      "area": "Oconee",
+      "nextAvailableTime": "12:00 PM",
+      "nextAvailableRaw": "12:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-12T10:59:42.125505",
+      "scrapeTimeDisplay": "10:59 AM",
+      "scrapeDate": "2026-09-12",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-12T10:16:34.214575",
+  "lastUpdated": "2026-09-12T11:16:32.208334",
   "threshold_minutes": 45
 }
