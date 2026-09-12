@@ -105091,8 +105091,47 @@
       "minutesOut": 101,
       "hoursOut": 1.7,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-12T13:01:36.955580",
+      "scrapeTimeDisplay": "1:01 PM",
+      "scrapeDate": "2026-09-12",
+      "locationName": "Piedmont UC \u2014 Buckhead North",
+      "address": "3617 Roswell Road Atlanta, GA",
+      "area": "Buckhead North",
+      "nextAvailableTime": "2:30 PM",
+      "nextAvailableRaw": "14:30:00",
+      "minutesOut": 88,
+      "hoursOut": 1.5,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-12T13:01:36.955580",
+      "scrapeTimeDisplay": "1:01 PM",
+      "scrapeDate": "2026-09-12",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "3:30 PM",
+      "nextAvailableRaw": "15:30:00",
+      "minutesOut": 148,
+      "hoursOut": 2.5,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-12T13:01:36.955580",
+      "scrapeTimeDisplay": "1:01 PM",
+      "scrapeDate": "2026-09-12",
+      "locationName": "Piedmont UC \u2014 Chamblee",
+      "address": "5438 Peachtree Industrial Blvd Chamblee, GA",
+      "area": "Chamblee",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 58,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-12T12:16:34.142315",
+  "lastUpdated": "2026-09-12T13:16:35.380248",
   "threshold_minutes": 45
 }
