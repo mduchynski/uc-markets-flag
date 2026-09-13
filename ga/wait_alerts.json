@@ -106768,8 +106768,34 @@
       "minutesOut": 46,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-13T16:58:28.366029",
+      "scrapeTimeDisplay": "4:58 PM",
+      "scrapeDate": "2026-09-13",
+      "locationName": "Piedmont UC \u2014 Lithonia",
+      "address": "7231 Rockbridge Road Lithonia, GA",
+      "area": "Lithonia",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 5
+    },
+    {
+      "scrapeTime": "2026-09-13T16:58:28.366029",
+      "scrapeTimeDisplay": "4:58 PM",
+      "scrapeDate": "2026-09-13",
+      "locationName": "Piedmont UC \u2014 Dublin",
+      "address": "1006 Hillcrest Pkwy #1 Dublin, GA",
+      "area": "Dublin",
+      "nextAvailableTime": "5:45 PM",
+      "nextAvailableRaw": "17:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 7
     }
   ],
-  "lastUpdated": "2026-09-13T16:16:34.183907",
+  "lastUpdated": "2026-09-13T17:16:31.149560",
   "threshold_minutes": 45
 }
