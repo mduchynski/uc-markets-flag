@@ -107483,8 +107483,86 @@
       "minutesOut": 61,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-14T15:00:51.593596",
+      "scrapeTimeDisplay": "3:00 PM",
+      "scrapeDate": "2026-09-14",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "5:45 PM",
+      "nextAvailableRaw": "17:45:00",
+      "minutesOut": 164,
+      "hoursOut": 2.7,
+      "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-09-14T15:00:51.593596",
+      "scrapeTimeDisplay": "3:00 PM",
+      "scrapeDate": "2026-09-14",
+      "locationName": "Piedmont UC \u2014 Smyrna",
+      "address": "1155 Concord Rd SE Smyrna, GA",
+      "area": "Smyrna",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 59,
+      "hoursOut": 1.0,
+      "sameDaySlots": 6
+    },
+    {
+      "scrapeTime": "2026-09-14T15:00:51.593596",
+      "scrapeTimeDisplay": "3:00 PM",
+      "scrapeDate": "2026-09-14",
+      "locationName": "Piedmont UC \u2014 Lilburn",
+      "address": "976 Killian Hill Road SW Lilburn, GA",
+      "area": "Lilburn",
+      "nextAvailableTime": "4:36 PM",
+      "nextAvailableRaw": "16:36:00",
+      "minutesOut": 95,
+      "hoursOut": 1.6,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-14T15:00:51.593596",
+      "scrapeTimeDisplay": "3:00 PM",
+      "scrapeDate": "2026-09-14",
+      "locationName": "Piedmont UC \u2014 Monroe",
+      "address": "850 Pavillion Parkway 30656, GA",
+      "area": "Monroe",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 104,
+      "hoursOut": 1.7,
+      "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-09-14T15:00:51.593596",
+      "scrapeTimeDisplay": "3:00 PM",
+      "scrapeDate": "2026-09-14",
+      "locationName": "Piedmont UC \u2014 Vinings",
+      "address": "2810 Paces Ferry Road, Suite 156 Atlanta, GA",
+      "area": "Vinings",
+      "nextAvailableTime": "4:12 PM",
+      "nextAvailableRaw": "16:12:00",
+      "minutesOut": 71,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-14T15:00:51.593596",
+      "scrapeTimeDisplay": "3:00 PM",
+      "scrapeDate": "2026-09-14",
+      "locationName": "Piedmont UC \u2014 Lovejoy",
+      "address": "11581 Tara Blvd, Ste. A Lovejoy, GA",
+      "area": "Lovejoy",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 59,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-14T14:16:31.505649",
+  "lastUpdated": "2026-09-14T15:16:32.413622",
   "threshold_minutes": 45
 }
