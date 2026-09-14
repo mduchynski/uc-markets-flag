@@ -106794,8 +106794,73 @@
       "minutesOut": 47,
       "hoursOut": 0.8,
       "sameDaySlots": 7
+    },
+    {
+      "scrapeTime": "2026-09-14T07:59:12.255933",
+      "scrapeTimeDisplay": "7:59 AM",
+      "scrapeDate": "2026-09-14",
+      "locationName": "Piedmont UC \u2014 Peachtree City",
+      "address": "100 Line Creek Drive Peachtree, GA",
+      "area": "Peachtree City",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 91,
+      "hoursOut": 1.5,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-14T08:16:30.615423",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-09-14",
+      "locationName": "Piedmont UC \u2014 Ponce De Leon",
+      "address": "882 Ponce De Leon Avenue Atlanta, GA",
+      "area": "Ponce De Leon",
+      "nextAvailableTime": "9:07 AM",
+      "nextAvailableRaw": "09:07:00",
+      "minutesOut": 50,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-14T08:16:30.615423",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-09-14",
+      "locationName": "Piedmont UC \u2014 Dallas",
+      "address": "500 Nathan Dean Blvd Dallas, GA",
+      "area": "Dallas",
+      "nextAvailableTime": "9:07 AM",
+      "nextAvailableRaw": "09:07:00",
+      "minutesOut": 50,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-14T08:16:30.615423",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-09-14",
+      "locationName": "Piedmont UC \u2014 Smyrna",
+      "address": "1155 Concord Rd SE Smyrna, GA",
+      "area": "Smyrna",
+      "nextAvailableTime": "9:15 AM",
+      "nextAvailableRaw": "09:15:00",
+      "minutesOut": 58,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-14T08:16:30.615423",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-09-14",
+      "locationName": "Piedmont UC \u2014 Sandy Springs Village",
+      "address": "6660 Roswell Road Sandy Springs, GA",
+      "area": "Sandy Springs Village",
+      "nextAvailableTime": "9:24 AM",
+      "nextAvailableRaw": "09:24:00",
+      "minutesOut": 67,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-13T20:16:32.400290",
+  "lastUpdated": "2026-09-14T08:16:30.615423",
   "threshold_minutes": 45
 }
