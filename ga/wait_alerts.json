@@ -106924,8 +106924,73 @@
       "minutesOut": 93,
       "hoursOut": 1.6,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-14T10:00:47.006544",
+      "scrapeTimeDisplay": "10:00 AM",
+      "scrapeDate": "2026-09-14",
+      "locationName": "Piedmont UC \u2014 Buckhead North",
+      "address": "3617 Roswell Road Atlanta, GA",
+      "area": "Buckhead North",
+      "nextAvailableTime": "11:15 AM",
+      "nextAvailableRaw": "11:15:00",
+      "minutesOut": 74,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-14T10:00:47.006544",
+      "scrapeTimeDisplay": "10:00 AM",
+      "scrapeDate": "2026-09-14",
+      "locationName": "Piedmont UC \u2014 Sandy Springs Village",
+      "address": "6660 Roswell Road Sandy Springs, GA",
+      "area": "Sandy Springs Village",
+      "nextAvailableTime": "11:00 AM",
+      "nextAvailableRaw": "11:00:00",
+      "minutesOut": 59,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-14T10:00:47.006544",
+      "scrapeTimeDisplay": "10:00 AM",
+      "scrapeDate": "2026-09-14",
+      "locationName": "Piedmont UC \u2014 Canton",
+      "address": "2026 Cumming Hwy, Suite 100 Canton, GA",
+      "area": "Canton",
+      "nextAvailableTime": "11:00 AM",
+      "nextAvailableRaw": "11:00:00",
+      "minutesOut": 59,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-14T10:00:47.006544",
+      "scrapeTimeDisplay": "10:00 AM",
+      "scrapeDate": "2026-09-14",
+      "locationName": "Piedmont UC \u2014 Lilburn",
+      "address": "976 Killian Hill Road SW Lilburn, GA",
+      "area": "Lilburn",
+      "nextAvailableTime": "11:00 AM",
+      "nextAvailableRaw": "11:00:00",
+      "minutesOut": 59,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-14T10:00:47.006544",
+      "scrapeTimeDisplay": "10:00 AM",
+      "scrapeDate": "2026-09-14",
+      "locationName": "Piedmont UC \u2014 Monroe",
+      "address": "850 Pavillion Parkway 30656, GA",
+      "area": "Monroe",
+      "nextAvailableTime": "11:00 AM",
+      "nextAvailableRaw": "11:00:00",
+      "minutesOut": 59,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-14T09:16:43.825217",
+  "lastUpdated": "2026-09-14T10:16:34.883083",
   "threshold_minutes": 45
 }
