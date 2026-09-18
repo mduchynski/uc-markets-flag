@@ -9127,9 +9127,51 @@
       "minutesOut": 67,
       "hoursOut": 1.1,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-18T08:19:48.707614",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-09-18",
+      "locationName": "Prisma UC \u2014 Scuffletown",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "300 Scuffletown Rd Simpsonville, SC",
+      "area": "Scuffletown",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 85,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-18T08:19:48.707614",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-09-18",
+      "locationName": "Prisma UC \u2014 Cherrydale",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "115 State Park Rd Greenville, SC",
+      "area": "Cherrydale",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 85,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-18T08:19:48.707614",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-09-18",
+      "locationName": "Prisma UC \u2014 Mauldin",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "122 S Main Street 29662, SC",
+      "area": "Mauldin",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 85,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-17T09:22:57.182356",
+  "lastUpdated": "2026-09-18T08:19:48.707614",
   "threshold_minutes": 60,
   "market": "SC"
 }
