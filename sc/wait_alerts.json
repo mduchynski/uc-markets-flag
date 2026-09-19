@@ -9183,9 +9183,51 @@
       "minutesOut": 70,
       "hoursOut": 1.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-19T08:19:48.335667",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-09-19",
+      "locationName": "Prisma UC \u2014 Anderson",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "3322 N Main Street Anderson, SC",
+      "area": "Anderson",
+      "nextAvailableTime": "9:22 AM",
+      "nextAvailableRaw": "09:22:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-19T08:19:48.335667",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-09-19",
+      "locationName": "Prisma UC \u2014 Duncan",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "1515 E Main Street 29334, SC",
+      "area": "Duncan",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 70,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-19T08:19:48.335667",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-09-19",
+      "locationName": "Prisma UC \u2014 Ballentine",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "1085 Dutch Fork Rd Irmo, SC",
+      "area": "Ballentine",
+      "nextAvailableTime": "10:30 AM",
+      "nextAvailableRaw": "10:30:00",
+      "minutesOut": 130,
+      "hoursOut": 2.2,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-18T20:19:10.463458",
+  "lastUpdated": "2026-09-19T08:19:48.335667",
   "threshold_minutes": 60,
   "market": "SC"
 }
