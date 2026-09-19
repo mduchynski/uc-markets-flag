@@ -108705,8 +108705,73 @@
       "minutesOut": 50,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-19T10:59:33.618065",
+      "scrapeTimeDisplay": "10:59 AM",
+      "scrapeDate": "2026-09-19",
+      "locationName": "Piedmont UC \u2014 Clairmont",
+      "address": "2700 Clairmont Road Atlanta, GA",
+      "area": "Clairmont",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-19T10:59:33.618065",
+      "scrapeTimeDisplay": "10:59 AM",
+      "scrapeDate": "2026-09-19",
+      "locationName": "Piedmont UC \u2014 Sandy Springs Village",
+      "address": "6660 Roswell Road Sandy Springs, GA",
+      "area": "Sandy Springs Village",
+      "nextAvailableTime": "1:12 PM",
+      "nextAvailableRaw": "13:12:00",
+      "minutesOut": 132,
+      "hoursOut": 2.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-19T10:59:33.618065",
+      "scrapeTimeDisplay": "10:59 AM",
+      "scrapeDate": "2026-09-19",
+      "locationName": "Piedmont UC \u2014 Athens",
+      "address": "485 Highway 29 North Athens, GA",
+      "area": "Athens",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-19T10:59:33.618065",
+      "scrapeTimeDisplay": "10:59 AM",
+      "scrapeDate": "2026-09-19",
+      "locationName": "Piedmont UC \u2014 Senoia",
+      "address": "7990 Wells Street, Suite 120 Senoia, GA",
+      "area": "Senoia",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-19T10:59:33.618065",
+      "scrapeTimeDisplay": "10:59 AM",
+      "scrapeDate": "2026-09-19",
+      "locationName": "Piedmont UC \u2014 Decatur",
+      "address": "2520 N Decatur Rd, Decatur Decatur, GA",
+      "area": "Decatur",
+      "nextAvailableTime": "12:00 PM",
+      "nextAvailableRaw": "12:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-19T10:16:35.899287",
+  "lastUpdated": "2026-09-19T11:19:28.839733",
   "threshold_minutes": 45
 }
