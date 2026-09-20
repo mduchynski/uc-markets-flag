@@ -109446,8 +109446,73 @@
       "minutesOut": 57,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-20T08:59:56.362881",
+      "scrapeTimeDisplay": "8:59 AM",
+      "scrapeDate": "2026-09-20",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-20T08:59:56.362881",
+      "scrapeTimeDisplay": "8:59 AM",
+      "scrapeDate": "2026-09-20",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "10:45 AM",
+      "nextAvailableRaw": "10:45:00",
+      "minutesOut": 105,
+      "hoursOut": 1.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-20T08:59:56.362881",
+      "scrapeTimeDisplay": "8:59 AM",
+      "scrapeDate": "2026-09-20",
+      "locationName": "Piedmont UC \u2014 Ellenwood",
+      "address": "4475 W Village Pkwy Ellenwood, GA",
+      "area": "Ellenwood",
+      "nextAvailableTime": "10:30 AM",
+      "nextAvailableRaw": "10:30:00",
+      "minutesOut": 90,
+      "hoursOut": 1.5,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-20T08:59:56.362881",
+      "scrapeTimeDisplay": "8:59 AM",
+      "scrapeDate": "2026-09-20",
+      "locationName": "Piedmont UC \u2014 Jefferson",
+      "address": "528 Panther Drive Jefferson, GA",
+      "area": "Jefferson",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-20T09:17:08.752033",
+      "scrapeTimeDisplay": "9:17 AM",
+      "scrapeDate": "2026-09-20",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "10:30 AM",
+      "nextAvailableRaw": "10:30:00",
+      "minutesOut": 73,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-20T08:32:51.333298",
+  "lastUpdated": "2026-09-20T09:17:08.752033",
   "threshold_minutes": 45
 }
