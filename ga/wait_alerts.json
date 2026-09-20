@@ -109433,8 +109433,21 @@
       "minutesOut": 73,
       "hoursOut": 1.2,
       "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-09-20T08:32:51.333298",
+      "scrapeTimeDisplay": "8:32 AM",
+      "scrapeDate": "2026-09-20",
+      "locationName": "Piedmont UC \u2014 Ellenwood",
+      "address": "4475 W Village Pkwy Ellenwood, GA",
+      "area": "Ellenwood",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 57,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-19T20:16:32.409382",
+  "lastUpdated": "2026-09-20T08:32:51.333298",
   "threshold_minutes": 45
 }
