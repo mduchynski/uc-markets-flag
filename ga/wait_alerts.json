@@ -110642,8 +110642,86 @@
       "minutesOut": 60,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-21T10:57:46.655676",
+      "scrapeTimeDisplay": "10:57 AM",
+      "scrapeDate": "2026-09-21",
+      "locationName": "Piedmont UC \u2014 Dallas",
+      "address": "500 Nathan Dean Blvd Dallas, GA",
+      "area": "Dallas",
+      "nextAvailableTime": "12:07 PM",
+      "nextAvailableRaw": "12:07:00",
+      "minutesOut": 69,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-21T10:57:46.655676",
+      "scrapeTimeDisplay": "10:57 AM",
+      "scrapeDate": "2026-09-21",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-21T10:57:46.655676",
+      "scrapeTimeDisplay": "10:57 AM",
+      "scrapeDate": "2026-09-21",
+      "locationName": "Piedmont UC \u2014 Macon Zebulon",
+      "address": "5791 Zebulon RD STE A Macon, GA",
+      "area": "Macon Zebulon",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-21T10:57:46.655676",
+      "scrapeTimeDisplay": "10:57 AM",
+      "scrapeDate": "2026-09-21",
+      "locationName": "Piedmont UC \u2014 McDonough Jonesboro Road",
+      "address": "2050 Jonesboro Rd, Suite 100 30253, GA",
+      "area": "McDonough Jonesboro Road",
+      "nextAvailableTime": "12:00 PM",
+      "nextAvailableRaw": "12:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-21T10:57:46.655676",
+      "scrapeTimeDisplay": "10:57 AM",
+      "scrapeDate": "2026-09-21",
+      "locationName": "Piedmont UC \u2014 Brookhaven",
+      "address": "4218 Peachtree Road, Unit B Brookhaven, GA",
+      "area": "Brookhaven",
+      "nextAvailableTime": "12:00 PM",
+      "nextAvailableRaw": "12:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-21T10:57:46.655676",
+      "scrapeTimeDisplay": "10:57 AM",
+      "scrapeDate": "2026-09-21",
+      "locationName": "Piedmont UC \u2014 Dacula - Harbins Road",
+      "address": "862 Harbins Rd SE, Suite 101 Dacula, GA",
+      "area": "Dacula - Harbins Road",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-21T10:17:25.293321",
+  "lastUpdated": "2026-09-21T11:16:33.474806",
   "threshold_minutes": 45
 }
