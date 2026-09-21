@@ -110720,8 +110720,60 @@
       "minutesOut": 47,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-21T11:57:31.770929",
+      "scrapeTimeDisplay": "11:57 AM",
+      "scrapeDate": "2026-09-21",
+      "locationName": "Piedmont UC \u2014 LaGrange",
+      "address": "1524 Lafayette Parkway Lagrange, GA",
+      "area": "LaGrange",
+      "nextAvailableTime": "12:45 PM",
+      "nextAvailableRaw": "12:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-21T11:57:31.770929",
+      "scrapeTimeDisplay": "11:57 AM",
+      "scrapeDate": "2026-09-21",
+      "locationName": "Piedmont UC \u2014 Dallas",
+      "address": "500 Nathan Dean Blvd Dallas, GA",
+      "area": "Dallas",
+      "nextAvailableTime": "12:52 PM",
+      "nextAvailableRaw": "12:52:00",
+      "minutesOut": 54,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-21T11:57:31.770929",
+      "scrapeTimeDisplay": "11:57 AM",
+      "scrapeDate": "2026-09-21",
+      "locationName": "Piedmont UC \u2014 Oconee",
+      "address": "1305 Jennings Mill Road Suite 120 Watkinsville, GA",
+      "area": "Oconee",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 122,
+      "hoursOut": 2.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-21T11:57:31.770929",
+      "scrapeTimeDisplay": "11:57 AM",
+      "scrapeDate": "2026-09-21",
+      "locationName": "Piedmont UC \u2014 Hapeville",
+      "address": "1001 Virginia Ave. Hapeville, GA",
+      "area": "Hapeville",
+      "nextAvailableTime": "1:20 PM",
+      "nextAvailableRaw": "13:20:00",
+      "minutesOut": 82,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-21T11:16:33.474806",
+  "lastUpdated": "2026-09-21T12:16:36.100905",
   "threshold_minutes": 45
 }
