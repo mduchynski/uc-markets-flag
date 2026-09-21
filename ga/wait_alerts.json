@@ -110551,8 +110551,47 @@
       "minutesOut": 73,
       "hoursOut": 1.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-21T08:59:16.861871",
+      "scrapeTimeDisplay": "8:59 AM",
+      "scrapeDate": "2026-09-21",
+      "locationName": "Piedmont UC \u2014 Newnan Arbor Springs",
+      "address": "35 Arbor Springs Terrace Newnan, GA",
+      "area": "Newnan Arbor Springs",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-21T09:16:33.864016",
+      "scrapeTimeDisplay": "9:16 AM",
+      "scrapeDate": "2026-09-21",
+      "locationName": "Piedmont UC \u2014 Dallas",
+      "address": "500 Nathan Dean Blvd Dallas, GA",
+      "area": "Dallas",
+      "nextAvailableTime": "10:15 AM",
+      "nextAvailableRaw": "10:15:00",
+      "minutesOut": 58,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-21T09:16:33.864016",
+      "scrapeTimeDisplay": "9:16 AM",
+      "scrapeDate": "2026-09-21",
+      "locationName": "Piedmont UC \u2014 Columbus Uptown",
+      "address": "101 13th Street Suite 200 Columbus, GA",
+      "area": "Columbus Uptown",
+      "nextAvailableTime": "10:30 AM",
+      "nextAvailableRaw": "10:30:00",
+      "minutesOut": 73,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-21T08:17:07.692324",
+  "lastUpdated": "2026-09-21T09:16:33.864016",
   "threshold_minutes": 45
 }
