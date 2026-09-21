@@ -111162,8 +111162,86 @@
       "minutesOut": 47,
       "hoursOut": 0.8,
       "sameDaySlots": 7
+    },
+    {
+      "scrapeTime": "2026-09-21T16:57:09.300994",
+      "scrapeTimeDisplay": "4:57 PM",
+      "scrapeDate": "2026-09-21",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 6
+    },
+    {
+      "scrapeTime": "2026-09-21T16:57:09.300994",
+      "scrapeTimeDisplay": "4:57 PM",
+      "scrapeDate": "2026-09-21",
+      "locationName": "Piedmont UC \u2014 Austell",
+      "address": "3999 Austell Road Austell, GA",
+      "area": "Austell",
+      "nextAvailableTime": "7:30 PM",
+      "nextAvailableRaw": "19:30:00",
+      "minutesOut": 153,
+      "hoursOut": 2.5,
+      "sameDaySlots": 1
+    },
+    {
+      "scrapeTime": "2026-09-21T16:57:09.300994",
+      "scrapeTimeDisplay": "4:57 PM",
+      "scrapeDate": "2026-09-21",
+      "locationName": "Piedmont UC \u2014 Snellville",
+      "address": "2118 Scenic Highway South Snellville, GA",
+      "area": "Snellville",
+      "nextAvailableTime": "5:45 PM",
+      "nextAvailableRaw": "17:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-09-21T16:57:09.300994",
+      "scrapeTimeDisplay": "4:57 PM",
+      "scrapeDate": "2026-09-21",
+      "locationName": "Piedmont UC \u2014 Lithonia",
+      "address": "7231 Rockbridge Road Lithonia, GA",
+      "area": "Lithonia",
+      "nextAvailableTime": "5:45 PM",
+      "nextAvailableRaw": "17:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-09-21T16:57:09.300994",
+      "scrapeTimeDisplay": "4:57 PM",
+      "scrapeDate": "2026-09-21",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-09-21T16:57:09.300994",
+      "scrapeTimeDisplay": "4:57 PM",
+      "scrapeDate": "2026-09-21",
+      "locationName": "Piedmont UC \u2014 Dacula - Harbins Road",
+      "address": "862 Harbins Rd SE, Suite 101 Dacula, GA",
+      "area": "Dacula - Harbins Road",
+      "nextAvailableTime": "5:45 PM",
+      "nextAvailableRaw": "17:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 5
     }
   ],
-  "lastUpdated": "2026-09-21T16:17:26.237969",
+  "lastUpdated": "2026-09-21T17:16:35.543686",
   "threshold_minutes": 45
 }
