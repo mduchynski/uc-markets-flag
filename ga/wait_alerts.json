@@ -111617,8 +111617,34 @@
       "minutesOut": 62,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-22T14:57:20.698274",
+      "scrapeTimeDisplay": "2:57 PM",
+      "scrapeDate": "2026-09-22",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-22T14:57:20.698274",
+      "scrapeTimeDisplay": "2:57 PM",
+      "scrapeDate": "2026-09-22",
+      "locationName": "Piedmont UC \u2014 Snellville-Centerville Hwy",
+      "address": "3641 Centerville Hwy Snellville, GA",
+      "area": "Snellville-Centerville Hwy",
+      "nextAvailableTime": "4:15 PM",
+      "nextAvailableRaw": "16:15:00",
+      "minutesOut": 78,
+      "hoursOut": 1.3,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-22T14:16:35.982709",
+  "lastUpdated": "2026-09-22T15:16:33.485391",
   "threshold_minutes": 45
 }
