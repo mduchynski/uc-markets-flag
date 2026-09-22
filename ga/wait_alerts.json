@@ -111565,8 +111565,60 @@
       "minutesOut": 47,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-22T13:58:11.624853",
+      "scrapeTimeDisplay": "1:58 PM",
+      "scrapeDate": "2026-09-22",
+      "locationName": "Piedmont UC \u2014 Snellville-Centerville Hwy",
+      "address": "3641 Centerville Hwy Snellville, GA",
+      "area": "Snellville-Centerville Hwy",
+      "nextAvailableTime": "3:00 PM",
+      "nextAvailableRaw": "15:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-22T13:58:11.624853",
+      "scrapeTimeDisplay": "1:58 PM",
+      "scrapeDate": "2026-09-22",
+      "locationName": "Piedmont UC \u2014 Macon Ingleside",
+      "address": "2410 Ingleside Ave Macon, GA",
+      "area": "Macon Ingleside",
+      "nextAvailableTime": "3:00 PM",
+      "nextAvailableRaw": "15:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-22T13:58:11.624853",
+      "scrapeTimeDisplay": "1:58 PM",
+      "scrapeDate": "2026-09-22",
+      "locationName": "Piedmont UC \u2014 Jefferson",
+      "address": "528 Panther Drive Jefferson, GA",
+      "area": "Jefferson",
+      "nextAvailableTime": "3:00 PM",
+      "nextAvailableRaw": "15:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-22T13:58:11.624853",
+      "scrapeTimeDisplay": "1:58 PM",
+      "scrapeDate": "2026-09-22",
+      "locationName": "Piedmont UC \u2014 Dacula - Harbins Road",
+      "address": "862 Harbins Rd SE, Suite 101 Dacula, GA",
+      "area": "Dacula - Harbins Road",
+      "nextAvailableTime": "3:00 PM",
+      "nextAvailableRaw": "15:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-22T13:16:34.052525",
+  "lastUpdated": "2026-09-22T14:16:35.982709",
   "threshold_minutes": 45
 }
