@@ -9421,9 +9421,65 @@
       "minutesOut": 70,
       "hoursOut": 1.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-22T08:19:22.944222",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-09-22",
+      "locationName": "Prisma UC \u2014 Scuffletown",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "300 Scuffletown Rd Simpsonville, SC",
+      "area": "Scuffletown",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 71,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-22T08:19:22.944222",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-09-22",
+      "locationName": "Prisma UC \u2014 Greer",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "1305 S Suber Rd Greer, SC",
+      "area": "Greer",
+      "nextAvailableTime": "9:52 AM",
+      "nextAvailableRaw": "09:52:00",
+      "minutesOut": 93,
+      "hoursOut": 1.5,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-22T08:19:22.944222",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-09-22",
+      "locationName": "Prisma UC \u2014 Mauldin",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "122 S Main Street 29662, SC",
+      "area": "Mauldin",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 101,
+      "hoursOut": 1.7,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-22T08:19:22.944222",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-09-22",
+      "locationName": "Prisma UC \u2014 Sumter",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "1029 Broad Street Sumter, SC",
+      "area": "Sumter",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 71,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-21T20:19:46.926501",
+  "lastUpdated": "2026-09-22T08:19:22.944222",
   "threshold_minutes": 60,
   "market": "SC"
 }

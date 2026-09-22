@@ -111292,8 +111292,73 @@
       "minutesOut": 48,
       "hoursOut": 0.8,
       "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-09-22T08:04:01.389449",
+      "scrapeTimeDisplay": "8:04 AM",
+      "scrapeDate": "2026-09-22",
+      "locationName": "Piedmont UC \u2014 Lithonia",
+      "address": "7231 Rockbridge Road Lithonia, GA",
+      "area": "Lithonia",
+      "nextAvailableTime": "9:00 AM",
+      "nextAvailableRaw": "09:00:00",
+      "minutesOut": 56,
+      "hoursOut": 0.9,
+      "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-09-22T08:04:01.389449",
+      "scrapeTimeDisplay": "8:04 AM",
+      "scrapeDate": "2026-09-22",
+      "locationName": "Piedmont UC \u2014 Snellville-Centerville Hwy",
+      "address": "3641 Centerville Hwy Snellville, GA",
+      "area": "Snellville-Centerville Hwy",
+      "nextAvailableTime": "9:15 AM",
+      "nextAvailableRaw": "09:15:00",
+      "minutesOut": 71,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-22T08:04:01.389449",
+      "scrapeTimeDisplay": "8:04 AM",
+      "scrapeDate": "2026-09-22",
+      "locationName": "Piedmont UC \u2014 Newnan Arbor Springs",
+      "address": "35 Arbor Springs Terrace Newnan, GA",
+      "area": "Newnan Arbor Springs",
+      "nextAvailableTime": "9:00 AM",
+      "nextAvailableRaw": "09:00:00",
+      "minutesOut": 56,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-22T08:16:30.861470",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-09-22",
+      "locationName": "Piedmont UC \u2014 Snellville-Centerville Hwy",
+      "address": "3641 Centerville Hwy Snellville, GA",
+      "area": "Snellville-Centerville Hwy",
+      "nextAvailableTime": "9:15 AM",
+      "nextAvailableRaw": "09:15:00",
+      "minutesOut": 58,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-22T08:16:30.861470",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-09-22",
+      "locationName": "Piedmont UC \u2014 Athens",
+      "address": "485 Highway 29 North Athens, GA",
+      "area": "Athens",
+      "nextAvailableTime": "9:40 AM",
+      "nextAvailableRaw": "09:40:00",
+      "minutesOut": 83,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-21T20:17:05.582834",
+  "lastUpdated": "2026-09-22T08:16:30.861470",
   "threshold_minutes": 45
 }
