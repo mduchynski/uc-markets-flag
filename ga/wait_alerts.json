@@ -112319,8 +112319,34 @@
       "minutesOut": 65,
       "hoursOut": 1.1,
       "sameDaySlots": 8
+    },
+    {
+      "scrapeTime": "2026-09-25T17:25:35.148374",
+      "scrapeTimeDisplay": "5:25 PM",
+      "scrapeDate": "2026-09-25",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "6:15 PM",
+      "nextAvailableRaw": "18:15:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-09-25T17:25:35.148374",
+      "scrapeTimeDisplay": "5:25 PM",
+      "scrapeDate": "2026-09-25",
+      "locationName": "Piedmont UC \u2014 Kennesaw Bells Ferry",
+      "address": "4282 Bells Ferry Road NW Kennesaw, GA",
+      "area": "Kennesaw Bells Ferry",
+      "nextAvailableTime": "6:15 PM",
+      "nextAvailableRaw": "18:15:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 5
     }
   ],
-  "lastUpdated": "2026-09-25T17:17:08.008871",
+  "lastUpdated": "2026-09-25T18:17:01.462484",
   "threshold_minutes": 45
 }
