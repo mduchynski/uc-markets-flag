@@ -112072,8 +112072,73 @@
       "minutesOut": 55,
       "hoursOut": 0.9,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-25T13:25:39.711537",
+      "scrapeTimeDisplay": "1:25 PM",
+      "scrapeDate": "2026-09-25",
+      "locationName": "Piedmont UC \u2014 Newnan",
+      "address": "1825 GA-34 Newnan, GA",
+      "area": "Newnan",
+      "nextAvailableTime": "2:17 PM",
+      "nextAvailableRaw": "14:17:00",
+      "minutesOut": 51,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-25T13:25:39.711537",
+      "scrapeTimeDisplay": "1:25 PM",
+      "scrapeDate": "2026-09-25",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "2:40 PM",
+      "nextAvailableRaw": "14:40:00",
+      "minutesOut": 74,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-25T13:25:39.711537",
+      "scrapeTimeDisplay": "1:25 PM",
+      "scrapeDate": "2026-09-25",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "3:30 PM",
+      "nextAvailableRaw": "15:30:00",
+      "minutesOut": 124,
+      "hoursOut": 2.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-25T13:25:39.711537",
+      "scrapeTimeDisplay": "1:25 PM",
+      "scrapeDate": "2026-09-25",
+      "locationName": "Piedmont UC \u2014 Cumming",
+      "address": "880 Buford HWY Cumming, GA",
+      "area": "Cumming",
+      "nextAvailableTime": "2:24 PM",
+      "nextAvailableRaw": "14:24:00",
+      "minutesOut": 58,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-25T13:25:39.711537",
+      "scrapeTimeDisplay": "1:25 PM",
+      "scrapeDate": "2026-09-25",
+      "locationName": "Piedmont UC \u2014 Oconee",
+      "address": "1305 Jennings Mill Road Suite 120 Watkinsville, GA",
+      "area": "Oconee",
+      "nextAvailableTime": "3:00 PM",
+      "nextAvailableRaw": "15:00:00",
+      "minutesOut": 94,
+      "hoursOut": 1.6,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-25T13:17:06.814794",
+  "lastUpdated": "2026-09-25T14:17:03.766618",
   "threshold_minutes": 45
 }
