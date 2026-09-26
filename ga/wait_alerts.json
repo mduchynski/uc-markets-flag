@@ -112540,8 +112540,73 @@
       "minutesOut": 48,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-26T12:57:27.591737",
+      "scrapeTimeDisplay": "12:57 PM",
+      "scrapeDate": "2026-09-26",
+      "locationName": "Piedmont UC \u2014 Barrow",
+      "address": "340 Exchange Boulevard Bethlehem, GA",
+      "area": "Barrow",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-26T12:57:27.591737",
+      "scrapeTimeDisplay": "12:57 PM",
+      "scrapeDate": "2026-09-26",
+      "locationName": "Piedmont UC \u2014 Cartersville Main St",
+      "address": "10 Main St. Market Place Cartersville, GA",
+      "area": "Cartersville Main St",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-26T12:57:27.591737",
+      "scrapeTimeDisplay": "12:57 PM",
+      "scrapeDate": "2026-09-26",
+      "locationName": "Piedmont UC \u2014 Newnan Arbor Springs",
+      "address": "35 Arbor Springs Terrace Newnan, GA",
+      "area": "Newnan Arbor Springs",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-26T12:57:27.591737",
+      "scrapeTimeDisplay": "12:57 PM",
+      "scrapeDate": "2026-09-26",
+      "locationName": "Piedmont UC \u2014 Locust Grove",
+      "address": "3366 Hwy 42S, Suite 100 Locust Grove, GA",
+      "area": "Locust Grove",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-26T12:57:27.591737",
+      "scrapeTimeDisplay": "12:57 PM",
+      "scrapeDate": "2026-09-26",
+      "locationName": "Piedmont UC \u2014 Vinings",
+      "address": "2810 Paces Ferry Road, Suite 156 Atlanta, GA",
+      "area": "Vinings",
+      "nextAvailableTime": "3:00 PM",
+      "nextAvailableRaw": "15:00:00",
+      "minutesOut": 123,
+      "hoursOut": 2.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-26T12:16:35.492988",
+  "lastUpdated": "2026-09-26T13:16:33.592900",
   "threshold_minutes": 45
 }
