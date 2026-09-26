@@ -10093,9 +10093,23 @@
       "minutesOut": 408,
       "hoursOut": 6.8,
       "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-09-26T08:19:19.446766",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-09-26",
+      "locationName": "Prisma UC \u2014 Simpsonville - Martin Farms",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "718, Fairview Road Simpsonville, SC",
+      "area": "Simpsonville - Martin Farms",
+      "nextAvailableTime": "9:37 AM",
+      "nextAvailableRaw": "09:37:00",
+      "minutesOut": 78,
+      "hoursOut": 1.3,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-25T19:19:49.020492",
+  "lastUpdated": "2026-09-26T08:19:19.446766",
   "threshold_minutes": 60,
   "market": "SC"
 }
