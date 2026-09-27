@@ -114139,8 +114139,21 @@
       "minutesOut": 48,
       "hoursOut": 0.8,
       "sameDaySlots": 7
+    },
+    {
+      "scrapeTime": "2026-09-27T17:56:54.853232",
+      "scrapeTimeDisplay": "5:56 PM",
+      "scrapeDate": "2026-09-27",
+      "locationName": "Piedmont UC \u2014 West Cobb",
+      "address": "2505 Dallas Hwy Marietta, GA",
+      "area": "West Cobb",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 3
     }
   ],
-  "lastUpdated": "2026-09-27T17:16:33.212361",
+  "lastUpdated": "2026-09-27T18:16:34.413302",
   "threshold_minutes": 45
 }
