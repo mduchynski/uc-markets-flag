@@ -114035,8 +114035,73 @@
       "minutesOut": 93,
       "hoursOut": 1.6,
       "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-09-27T15:56:59.540079",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-09-27",
+      "locationName": "Piedmont UC \u2014 West Cobb",
+      "address": "2505 Dallas Hwy Marietta, GA",
+      "area": "West Cobb",
+      "nextAvailableTime": "5:30 PM",
+      "nextAvailableRaw": "17:30:00",
+      "minutesOut": 93,
+      "hoursOut": 1.6,
+      "sameDaySlots": 8
+    },
+    {
+      "scrapeTime": "2026-09-27T15:56:59.540079",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-09-27",
+      "locationName": "Piedmont UC \u2014 Suwanee",
+      "address": "2637 Peachtree Pkwy Suwanee, GA",
+      "area": "Suwanee",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-27T15:56:59.540079",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-09-27",
+      "locationName": "Piedmont UC \u2014 Ellenwood",
+      "address": "4475 W Village Pkwy Ellenwood, GA",
+      "area": "Ellenwood",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-09-27T15:56:59.540079",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-09-27",
+      "locationName": "Piedmont UC \u2014 Watkinsville",
+      "address": "1010 Village Drive Watkinsville, GA",
+      "area": "Watkinsville",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-27T15:56:59.540079",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-09-27",
+      "locationName": "Piedmont UC \u2014 Oconee",
+      "address": "1305 Jennings Mill Road Suite 120 Watkinsville, GA",
+      "area": "Oconee",
+      "nextAvailableTime": "5:00 PM",
+      "nextAvailableRaw": "17:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-27T15:17:08.881351",
+  "lastUpdated": "2026-09-27T16:17:02.958307",
   "threshold_minutes": 45
 }
