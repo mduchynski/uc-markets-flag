@@ -115088,8 +115088,47 @@
       "minutesOut": 57,
       "hoursOut": 1.0,
       "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-09-28T17:57:07.169433",
+      "scrapeTimeDisplay": "5:57 PM",
+      "scrapeDate": "2026-09-28",
+      "locationName": "Piedmont UC \u2014 Austell",
+      "address": "3999 Austell Road Austell, GA",
+      "area": "Austell",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-09-28T17:57:07.169433",
+      "scrapeTimeDisplay": "5:57 PM",
+      "scrapeDate": "2026-09-28",
+      "locationName": "Piedmont UC \u2014 Athens",
+      "address": "485 Highway 29 North Athens, GA",
+      "area": "Athens",
+      "nextAvailableTime": "6:52 PM",
+      "nextAvailableRaw": "18:52:00",
+      "minutesOut": 55,
+      "hoursOut": 0.9,
+      "sameDaySlots": 5
+    },
+    {
+      "scrapeTime": "2026-09-28T17:57:07.169433",
+      "scrapeTimeDisplay": "5:57 PM",
+      "scrapeDate": "2026-09-28",
+      "locationName": "Piedmont UC \u2014 Cascade",
+      "address": "3752 Cascade Rd, Suite 100 Atlanta, GA",
+      "area": "Cascade",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 3
     }
   ],
-  "lastUpdated": "2026-09-28T17:16:39.147771",
+  "lastUpdated": "2026-09-28T18:16:37.763026",
   "threshold_minutes": 45
 }
