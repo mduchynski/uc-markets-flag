@@ -115010,8 +115010,86 @@
       "minutesOut": 91,
       "hoursOut": 1.5,
       "sameDaySlots": 6
+    },
+    {
+      "scrapeTime": "2026-09-28T17:02:39.035587",
+      "scrapeTimeDisplay": "5:02 PM",
+      "scrapeDate": "2026-09-28",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "6:15 PM",
+      "nextAvailableRaw": "18:15:00",
+      "minutesOut": 72,
+      "hoursOut": 1.2,
+      "sameDaySlots": 5
+    },
+    {
+      "scrapeTime": "2026-09-28T17:02:39.035587",
+      "scrapeTimeDisplay": "5:02 PM",
+      "scrapeDate": "2026-09-28",
+      "locationName": "Piedmont UC \u2014 Canton",
+      "address": "2026 Cumming Hwy, Suite 100 Canton, GA",
+      "area": "Canton",
+      "nextAvailableTime": "6:30 PM",
+      "nextAvailableRaw": "18:30:00",
+      "minutesOut": 87,
+      "hoursOut": 1.5,
+      "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-09-28T17:02:39.035587",
+      "scrapeTimeDisplay": "5:02 PM",
+      "scrapeDate": "2026-09-28",
+      "locationName": "Piedmont UC \u2014 Covington",
+      "address": "5239 Highway 278 Covington, GA",
+      "area": "Covington",
+      "nextAvailableTime": "6:07 PM",
+      "nextAvailableRaw": "18:07:00",
+      "minutesOut": 64,
+      "hoursOut": 1.1,
+      "sameDaySlots": 6
+    },
+    {
+      "scrapeTime": "2026-09-28T17:02:39.035587",
+      "scrapeTimeDisplay": "5:02 PM",
+      "scrapeDate": "2026-09-28",
+      "locationName": "Piedmont UC \u2014 West Rome",
+      "address": "601 Shorter Ave NW Rome, GA",
+      "area": "West Rome",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 57,
+      "hoursOut": 1.0,
+      "sameDaySlots": 7
+    },
+    {
+      "scrapeTime": "2026-09-28T17:02:39.035587",
+      "scrapeTimeDisplay": "5:02 PM",
+      "scrapeDate": "2026-09-28",
+      "locationName": "Piedmont UC \u2014 Athens",
+      "address": "485 Highway 29 North Athens, GA",
+      "area": "Athens",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 57,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-28T17:02:39.035587",
+      "scrapeTimeDisplay": "5:02 PM",
+      "scrapeDate": "2026-09-28",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 57,
+      "hoursOut": 1.0,
+      "sameDaySlots": 2
     }
   ],
-  "lastUpdated": "2026-09-28T16:16:37.913058",
+  "lastUpdated": "2026-09-28T17:16:39.147771",
   "threshold_minutes": 45
 }
