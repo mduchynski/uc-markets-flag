@@ -114217,8 +114217,21 @@
       "minutesOut": 73,
       "hoursOut": 1.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-28T08:58:40.663083",
+      "scrapeTimeDisplay": "8:58 AM",
+      "scrapeDate": "2026-09-28",
+      "locationName": "Piedmont UC \u2014 Milledgeville",
+      "address": "1909 N Columbia St Milledgeville, GA",
+      "area": "Milledgeville",
+      "nextAvailableTime": "10:30 AM",
+      "nextAvailableRaw": "10:30:00",
+      "minutesOut": 91,
+      "hoursOut": 1.5,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-28T08:16:31.570600",
+  "lastUpdated": "2026-09-28T09:16:38.424806",
   "threshold_minutes": 45
 }
