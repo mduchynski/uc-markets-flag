@@ -115816,8 +115816,73 @@
       "minutesOut": 61,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-29T14:57:57.374137",
+      "scrapeTimeDisplay": "2:57 PM",
+      "scrapeDate": "2026-09-29",
+      "locationName": "Piedmont UC \u2014 Newnan Crossing",
+      "address": "2084 Newnan Crossing Blvd 30265 Newnan, GA",
+      "area": "Newnan Crossing",
+      "nextAvailableTime": "3:52 PM",
+      "nextAvailableRaw": "15:52:00",
+      "minutesOut": 54,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-29T14:57:57.374137",
+      "scrapeTimeDisplay": "2:57 PM",
+      "scrapeDate": "2026-09-29",
+      "locationName": "Piedmont UC \u2014 Conyers",
+      "address": "1280 Dogwood Dr SE Conyers, GA",
+      "area": "Conyers",
+      "nextAvailableTime": "3:52 PM",
+      "nextAvailableRaw": "15:52:00",
+      "minutesOut": 54,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-29T14:57:57.374137",
+      "scrapeTimeDisplay": "2:57 PM",
+      "scrapeDate": "2026-09-29",
+      "locationName": "Piedmont UC \u2014 Columbus Uptown",
+      "address": "101 13th Street Suite 200 Columbus, GA",
+      "area": "Columbus Uptown",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-29T14:57:57.374137",
+      "scrapeTimeDisplay": "2:57 PM",
+      "scrapeDate": "2026-09-29",
+      "locationName": "Piedmont UC \u2014 Jefferson",
+      "address": "528 Panther Drive Jefferson, GA",
+      "area": "Jefferson",
+      "nextAvailableTime": "5:00 PM",
+      "nextAvailableRaw": "17:00:00",
+      "minutesOut": 122,
+      "hoursOut": 2.0,
+      "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-09-29T14:57:57.374137",
+      "scrapeTimeDisplay": "2:57 PM",
+      "scrapeDate": "2026-09-29",
+      "locationName": "Piedmont UC \u2014 Newnan Arbor Springs",
+      "address": "35 Arbor Springs Terrace Newnan, GA",
+      "area": "Newnan Arbor Springs",
+      "nextAvailableTime": "3:45 PM",
+      "nextAvailableRaw": "15:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-29T14:16:36.884101",
+  "lastUpdated": "2026-09-29T15:16:36.273141",
   "threshold_minutes": 45
 }
