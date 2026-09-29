@@ -115218,8 +115218,86 @@
       "minutesOut": 63,
       "hoursOut": 1.1,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-29T08:57:34.090207",
+      "scrapeTimeDisplay": "8:57 AM",
+      "scrapeDate": "2026-09-29",
+      "locationName": "Piedmont UC \u2014 Fayetteville",
+      "address": "749 W Lanier Ave Fayetteville, GA",
+      "area": "Fayetteville",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-29T08:57:34.090207",
+      "scrapeTimeDisplay": "8:57 AM",
+      "scrapeDate": "2026-09-29",
+      "locationName": "Piedmont UC \u2014 Athens",
+      "address": "485 Highway 29 North Athens, GA",
+      "area": "Athens",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-29T08:57:34.090207",
+      "scrapeTimeDisplay": "8:57 AM",
+      "scrapeDate": "2026-09-29",
+      "locationName": "Piedmont UC \u2014 Columbus Uptown",
+      "address": "101 13th Street Suite 200 Columbus, GA",
+      "area": "Columbus Uptown",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-29T08:57:34.090207",
+      "scrapeTimeDisplay": "8:57 AM",
+      "scrapeDate": "2026-09-29",
+      "locationName": "Piedmont UC \u2014 Barrow",
+      "address": "340 Exchange Boulevard Bethlehem, GA",
+      "area": "Barrow",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-29T08:57:34.090207",
+      "scrapeTimeDisplay": "8:57 AM",
+      "scrapeDate": "2026-09-29",
+      "locationName": "Piedmont UC \u2014 Newnan Arbor Springs",
+      "address": "35 Arbor Springs Terrace Newnan, GA",
+      "area": "Newnan Arbor Springs",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-29T09:16:40.543836",
+      "scrapeTimeDisplay": "9:16 AM",
+      "scrapeDate": "2026-09-29",
+      "locationName": "Piedmont UC \u2014 Newnan Crossing",
+      "address": "2084 Newnan Crossing Blvd 30265 Newnan, GA",
+      "area": "Newnan Crossing",
+      "nextAvailableTime": "10:15 AM",
+      "nextAvailableRaw": "10:15:00",
+      "minutesOut": 58,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-29T08:16:41.138767",
+  "lastUpdated": "2026-09-29T09:16:40.543836",
   "threshold_minutes": 45
 }
