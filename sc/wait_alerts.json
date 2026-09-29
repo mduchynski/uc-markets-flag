@@ -10247,9 +10247,65 @@
       "minutesOut": 63,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-29T08:20:01.041835",
+      "scrapeTimeDisplay": "8:20 AM",
+      "scrapeDate": "2026-09-29",
+      "locationName": "Prisma UC \u2014 Taylors",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "3025 Wade Hampton Blvd. Taylors, SC",
+      "area": "Taylors",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 70,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-29T08:20:01.041835",
+      "scrapeTimeDisplay": "8:20 AM",
+      "scrapeDate": "2026-09-29",
+      "locationName": "Prisma UC \u2014 Greenville - Woodruff Road",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "1298 Woodruff Rd Greenville, SC",
+      "area": "Greenville - Woodruff Road",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 70,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-29T08:20:01.041835",
+      "scrapeTimeDisplay": "8:20 AM",
+      "scrapeDate": "2026-09-29",
+      "locationName": "Prisma UC \u2014 Travelers Rest",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "571 Roe Center Ct., Suite C-3 Travelers Rest, SC",
+      "area": "Travelers Rest",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 100,
+      "hoursOut": 1.7,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-29T08:20:01.041835",
+      "scrapeTimeDisplay": "8:20 AM",
+      "scrapeDate": "2026-09-29",
+      "locationName": "Prisma UC \u2014 Easley",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "6043 Calhoun Memorial Hwy Easley, SC",
+      "area": "Easley",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 100,
+      "hoursOut": 1.7,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-28T20:19:50.700968",
+  "lastUpdated": "2026-09-29T08:20:01.041835",
   "threshold_minutes": 60,
   "market": "SC"
 }
