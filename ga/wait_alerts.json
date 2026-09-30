@@ -118624,8 +118624,34 @@
       "minutesOut": 55,
       "hoursOut": 0.9,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-30T10:58:07.105716",
+      "scrapeTimeDisplay": "10:58 AM",
+      "scrapeDate": "2026-09-30",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "12:00 PM",
+      "nextAvailableRaw": "12:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-30T10:58:07.105716",
+      "scrapeTimeDisplay": "10:58 AM",
+      "scrapeDate": "2026-09-30",
+      "locationName": "Piedmont UC \u2014 Monroe",
+      "address": "850 Pavillion Parkway 30656, GA",
+      "area": "Monroe",
+      "nextAvailableTime": "12:20 PM",
+      "nextAvailableRaw": "12:20:00",
+      "minutesOut": 82,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-30T10:16:34.023738",
+  "lastUpdated": "2026-09-30T11:16:35.590239",
   "threshold_minutes": 45
 }
