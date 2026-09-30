@@ -118650,8 +118650,60 @@
       "minutesOut": 82,
       "hoursOut": 1.4,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-30T11:57:23.932755",
+      "scrapeTimeDisplay": "11:57 AM",
+      "scrapeDate": "2026-09-30",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "1:40 PM",
+      "nextAvailableRaw": "13:40:00",
+      "minutesOut": 103,
+      "hoursOut": 1.7,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-30T11:57:23.932755",
+      "scrapeTimeDisplay": "11:57 AM",
+      "scrapeDate": "2026-09-30",
+      "locationName": "Piedmont UC \u2014 Newnan Crossing",
+      "address": "2084 Newnan Crossing Blvd 30265 Newnan, GA",
+      "area": "Newnan Crossing",
+      "nextAvailableTime": "12:52 PM",
+      "nextAvailableRaw": "12:52:00",
+      "minutesOut": 55,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-30T11:57:23.932755",
+      "scrapeTimeDisplay": "11:57 AM",
+      "scrapeDate": "2026-09-30",
+      "locationName": "Piedmont UC \u2014 Snellville",
+      "address": "2118 Scenic Highway South Snellville, GA",
+      "area": "Snellville",
+      "nextAvailableTime": "1:00 PM",
+      "nextAvailableRaw": "13:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-30T11:57:23.932755",
+      "scrapeTimeDisplay": "11:57 AM",
+      "scrapeDate": "2026-09-30",
+      "locationName": "Piedmont UC \u2014 Canton",
+      "address": "2026 Cumming Hwy, Suite 100 Canton, GA",
+      "area": "Canton",
+      "nextAvailableTime": "1:00 PM",
+      "nextAvailableRaw": "13:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-30T11:16:35.590239",
+  "lastUpdated": "2026-09-30T12:16:33.547237",
   "threshold_minutes": 45
 }
