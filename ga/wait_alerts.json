@@ -118702,8 +118702,21 @@
       "minutesOut": 63,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-30T12:57:46.383690",
+      "scrapeTimeDisplay": "12:57 PM",
+      "scrapeDate": "2026-09-30",
+      "locationName": "Piedmont UC \u2014 Clairmont",
+      "address": "2700 Clairmont Road Atlanta, GA",
+      "area": "Clairmont",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-30T12:16:33.547237",
+  "lastUpdated": "2026-09-30T13:16:36.236097",
   "threshold_minutes": 45
 }
