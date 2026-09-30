@@ -119027,8 +119027,21 @@
       "minutesOut": 47,
       "hoursOut": 0.8,
       "sameDaySlots": 7
+    },
+    {
+      "scrapeTime": "2026-09-30T17:57:46.292232",
+      "scrapeTimeDisplay": "5:57 PM",
+      "scrapeDate": "2026-09-30",
+      "locationName": "Piedmont UC \u2014 Macon Ingleside",
+      "address": "2410 Ingleside Ave Macon, GA",
+      "area": "Macon Ingleside",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 3
     }
   ],
-  "lastUpdated": "2026-09-30T17:16:32.898003",
+  "lastUpdated": "2026-09-30T18:16:57.981343",
   "threshold_minutes": 45
 }
