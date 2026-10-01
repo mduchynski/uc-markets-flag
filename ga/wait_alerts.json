@@ -119222,8 +119222,34 @@
       "minutesOut": 50,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-01T10:57:49.832342",
+      "scrapeTimeDisplay": "10:57 AM",
+      "scrapeDate": "2026-10-01",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-01T10:57:49.832342",
+      "scrapeTimeDisplay": "10:57 AM",
+      "scrapeDate": "2026-10-01",
+      "locationName": "Piedmont UC \u2014 Covington",
+      "address": "5239 Highway 278 Covington, GA",
+      "area": "Covington",
+      "nextAvailableTime": "12:00 PM",
+      "nextAvailableRaw": "12:00:00",
+      "minutesOut": 62,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-01T10:16:39.094326",
+  "lastUpdated": "2026-10-01T11:16:40.806332",
   "threshold_minutes": 45
 }
