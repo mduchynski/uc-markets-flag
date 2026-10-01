@@ -119196,8 +119196,34 @@
       "minutesOut": 58,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-01T09:59:13.429089",
+      "scrapeTimeDisplay": "9:59 AM",
+      "scrapeDate": "2026-10-01",
+      "locationName": "Piedmont UC \u2014 Columbus Uptown",
+      "address": "101 13th Street Suite 200 Columbus, GA",
+      "area": "Columbus Uptown",
+      "nextAvailableTime": "10:45 AM",
+      "nextAvailableRaw": "10:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-01T10:16:39.094326",
+      "scrapeTimeDisplay": "10:16 AM",
+      "scrapeDate": "2026-10-01",
+      "locationName": "Piedmont UC \u2014 Peachtree City",
+      "address": "100 Line Creek Drive Peachtree, GA",
+      "area": "Peachtree City",
+      "nextAvailableTime": "11:07 AM",
+      "nextAvailableRaw": "11:07:00",
+      "minutesOut": 50,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-01T09:16:37.132260",
+  "lastUpdated": "2026-10-01T10:16:39.094326",
   "threshold_minutes": 45
 }
