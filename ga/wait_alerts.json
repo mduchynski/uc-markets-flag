@@ -121861,8 +121861,73 @@
       "minutesOut": 64,
       "hoursOut": 1.1,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-04T15:56:36.848429",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-10-04",
+      "locationName": "Piedmont UC \u2014 East Point",
+      "address": "3515 Camp Creek Parkway East Point, GA",
+      "area": "East Point",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-04T15:56:36.848429",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-10-04",
+      "locationName": "Piedmont UC \u2014 Canton",
+      "address": "2026 Cumming Hwy, Suite 100 Canton, GA",
+      "area": "Canton",
+      "nextAvailableTime": "5:00 PM",
+      "nextAvailableRaw": "17:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.1,
+      "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-10-04T15:56:36.848429",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-10-04",
+      "locationName": "Piedmont UC \u2014 Barrow",
+      "address": "340 Exchange Boulevard Bethlehem, GA",
+      "area": "Barrow",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 6
+    },
+    {
+      "scrapeTime": "2026-10-04T15:56:36.848429",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-10-04",
+      "locationName": "Piedmont UC \u2014 Oconee",
+      "address": "1305 Jennings Mill Road Suite 120 Watkinsville, GA",
+      "area": "Oconee",
+      "nextAvailableTime": "5:00 PM",
+      "nextAvailableRaw": "17:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-04T15:56:36.848429",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-10-04",
+      "locationName": "Piedmont UC \u2014 Locust Grove",
+      "address": "3366 Hwy 42S, Suite 100 Locust Grove, GA",
+      "area": "Locust Grove",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 9
     }
   ],
-  "lastUpdated": "2026-10-04T15:16:36.261775",
+  "lastUpdated": "2026-10-04T16:18:56.105372",
   "threshold_minutes": 45
 }
