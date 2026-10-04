@@ -121094,8 +121094,86 @@
       "minutesOut": 49,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-04T10:55:55.312633",
+      "scrapeTimeDisplay": "10:55 AM",
+      "scrapeDate": "2026-10-04",
+      "locationName": "Piedmont UC \u2014 West Cobb",
+      "address": "2505 Dallas Hwy Marietta, GA",
+      "area": "West Cobb",
+      "nextAvailableTime": "12:00 PM",
+      "nextAvailableRaw": "12:00:00",
+      "minutesOut": 64,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-04T10:55:55.312633",
+      "scrapeTimeDisplay": "10:55 AM",
+      "scrapeDate": "2026-10-04",
+      "locationName": "Piedmont UC \u2014 East Point",
+      "address": "3515 Camp Creek Parkway East Point, GA",
+      "area": "East Point",
+      "nextAvailableTime": "12:45 PM",
+      "nextAvailableRaw": "12:45:00",
+      "minutesOut": 109,
+      "hoursOut": 1.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-04T10:55:55.312633",
+      "scrapeTimeDisplay": "10:55 AM",
+      "scrapeDate": "2026-10-04",
+      "locationName": "Piedmont UC \u2014 Canton",
+      "address": "2026 Cumming Hwy, Suite 100 Canton, GA",
+      "area": "Canton",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-04T10:55:55.312633",
+      "scrapeTimeDisplay": "10:55 AM",
+      "scrapeDate": "2026-10-04",
+      "locationName": "Piedmont UC \u2014 Oconee",
+      "address": "1305 Jennings Mill Road Suite 120 Watkinsville, GA",
+      "area": "Oconee",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-04T10:55:55.312633",
+      "scrapeTimeDisplay": "10:55 AM",
+      "scrapeDate": "2026-10-04",
+      "locationName": "Piedmont UC \u2014 Acworth",
+      "address": "3345 Cobb Pkwy NW,Suite 800 Acworth, GA",
+      "area": "Acworth",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-04T10:55:55.312633",
+      "scrapeTimeDisplay": "10:55 AM",
+      "scrapeDate": "2026-10-04",
+      "locationName": "Piedmont UC \u2014 Monroe",
+      "address": "850 Pavillion Parkway 30656, GA",
+      "area": "Monroe",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-04T10:16:33.975751",
+  "lastUpdated": "2026-10-04T11:16:33.446171",
   "threshold_minutes": 45
 }
