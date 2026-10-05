@@ -123044,8 +123044,60 @@
       "minutesOut": 49,
       "hoursOut": 0.8,
       "sameDaySlots": 6
+    },
+    {
+      "scrapeTime": "2026-10-05T17:55:37.262078",
+      "scrapeTimeDisplay": "5:55 PM",
+      "scrapeDate": "2026-10-05",
+      "locationName": "Piedmont UC \u2014 Newnan Crossing",
+      "address": "2084 Newnan Crossing Blvd 30265 Newnan, GA",
+      "area": "Newnan Crossing",
+      "nextAvailableTime": "7:00 PM",
+      "nextAvailableRaw": "19:00:00",
+      "minutesOut": 64,
+      "hoursOut": 1.1,
+      "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-10-05T17:55:37.262078",
+      "scrapeTimeDisplay": "5:55 PM",
+      "scrapeDate": "2026-10-05",
+      "locationName": "Piedmont UC \u2014 Austell",
+      "address": "3999 Austell Road Austell, GA",
+      "area": "Austell",
+      "nextAvailableTime": "7:00 PM",
+      "nextAvailableRaw": "19:00:00",
+      "minutesOut": 64,
+      "hoursOut": 1.1,
+      "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-10-05T17:55:37.262078",
+      "scrapeTimeDisplay": "5:55 PM",
+      "scrapeDate": "2026-10-05",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 4
+    },
+    {
+      "scrapeTime": "2026-10-05T17:55:37.262078",
+      "scrapeTimeDisplay": "5:55 PM",
+      "scrapeDate": "2026-10-05",
+      "locationName": "Piedmont UC \u2014 Lilburn",
+      "address": "976 Killian Hill Road SW Lilburn, GA",
+      "area": "Lilburn",
+      "nextAvailableTime": "7:10 PM",
+      "nextAvailableRaw": "19:10:00",
+      "minutesOut": 74,
+      "hoursOut": 1.2,
+      "sameDaySlots": 3
     }
   ],
-  "lastUpdated": "2026-10-05T17:16:35.563648",
+  "lastUpdated": "2026-10-05T18:16:35.645334",
   "threshold_minutes": 45
 }
