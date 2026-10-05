@@ -121965,8 +121965,86 @@
       "minutesOut": 49,
       "hoursOut": 0.8,
       "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-10-05T07:55:45.262774",
+      "scrapeTimeDisplay": "7:55 AM",
+      "scrapeDate": "2026-10-05",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 109,
+      "hoursOut": 1.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-05T07:55:45.262774",
+      "scrapeTimeDisplay": "7:55 AM",
+      "scrapeDate": "2026-10-05",
+      "locationName": "Piedmont UC \u2014 Marietta",
+      "address": "789 Church St Marietta, GA",
+      "area": "Marietta",
+      "nextAvailableTime": "9:00 AM",
+      "nextAvailableRaw": "09:00:00",
+      "minutesOut": 64,
+      "hoursOut": 1.1,
+      "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-10-05T07:55:45.262774",
+      "scrapeTimeDisplay": "7:55 AM",
+      "scrapeDate": "2026-10-05",
+      "locationName": "Piedmont UC \u2014 Dacula - Harbins Road",
+      "address": "862 Harbins Rd SE, Suite 101 Dacula, GA",
+      "area": "Dacula - Harbins Road",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 94,
+      "hoursOut": 1.6,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-05T08:17:08.413184",
+      "scrapeTimeDisplay": "8:17 AM",
+      "scrapeDate": "2026-10-05",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 88,
+      "hoursOut": 1.5,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-05T08:17:08.413184",
+      "scrapeTimeDisplay": "8:17 AM",
+      "scrapeDate": "2026-10-05",
+      "locationName": "Piedmont UC \u2014 Lawrenceville",
+      "address": "3330 Sugarloaf Pkwy Lawrenceville, GA",
+      "area": "Lawrenceville",
+      "nextAvailableTime": "9:24 AM",
+      "nextAvailableRaw": "09:24:00",
+      "minutesOut": 67,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-05T08:17:08.413184",
+      "scrapeTimeDisplay": "8:17 AM",
+      "scrapeDate": "2026-10-05",
+      "locationName": "Piedmont UC \u2014 Athens",
+      "address": "485 Highway 29 North Athens, GA",
+      "area": "Athens",
+      "nextAvailableTime": "9:20 AM",
+      "nextAvailableRaw": "09:20:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-04T20:16:36.977717",
+  "lastUpdated": "2026-10-05T08:17:08.413184",
   "threshold_minutes": 45
 }
