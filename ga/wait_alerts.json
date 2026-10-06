@@ -123291,8 +123291,73 @@
       "minutesOut": 49,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-06T10:56:51.160091",
+      "scrapeTimeDisplay": "10:56 AM",
+      "scrapeDate": "2026-10-06",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "12:00 PM",
+      "nextAvailableRaw": "12:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-06T10:56:51.160091",
+      "scrapeTimeDisplay": "10:56 AM",
+      "scrapeDate": "2026-10-06",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "12:00 PM",
+      "nextAvailableRaw": "12:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-06T10:56:51.160091",
+      "scrapeTimeDisplay": "10:56 AM",
+      "scrapeDate": "2026-10-06",
+      "locationName": "Piedmont UC \u2014 Covington",
+      "address": "5239 Highway 278 Covington, GA",
+      "area": "Covington",
+      "nextAvailableTime": "11:51 AM",
+      "nextAvailableRaw": "11:51:00",
+      "minutesOut": 54,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-06T10:56:51.160091",
+      "scrapeTimeDisplay": "10:56 AM",
+      "scrapeDate": "2026-10-06",
+      "locationName": "Piedmont UC \u2014 Lithonia",
+      "address": "7231 Rockbridge Road Lithonia, GA",
+      "area": "Lithonia",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-06T10:56:51.160091",
+      "scrapeTimeDisplay": "10:56 AM",
+      "scrapeDate": "2026-10-06",
+      "locationName": "Piedmont UC \u2014 Kennesaw Bells Ferry",
+      "address": "4282 Bells Ferry Road NW Kennesaw, GA",
+      "area": "Kennesaw Bells Ferry",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-06T10:16:56.495916",
+  "lastUpdated": "2026-10-06T11:16:41.327433",
   "threshold_minutes": 45
 }
