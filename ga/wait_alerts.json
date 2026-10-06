@@ -123668,8 +123668,47 @@
       "minutesOut": 49,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-06T15:56:43.114851",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-10-06",
+      "locationName": "Piedmont UC \u2014 Newnan Crossing",
+      "address": "2084 Newnan Crossing Blvd 30265 Newnan, GA",
+      "area": "Newnan Crossing",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-06T15:56:43.114851",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-10-06",
+      "locationName": "Piedmont UC \u2014 Lithonia",
+      "address": "7231 Rockbridge Road Lithonia, GA",
+      "area": "Lithonia",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-06T15:56:43.114851",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-10-06",
+      "locationName": "Piedmont UC \u2014 Macon Zebulon",
+      "address": "5791 Zebulon RD STE A Macon, GA",
+      "area": "Macon Zebulon",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 7
     }
   ],
-  "lastUpdated": "2026-10-06T15:16:32.588225",
+  "lastUpdated": "2026-10-06T16:16:43.199716",
   "threshold_minutes": 45
 }
