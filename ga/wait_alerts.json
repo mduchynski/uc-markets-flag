@@ -123707,8 +123707,60 @@
       "minutesOut": 48,
       "hoursOut": 0.8,
       "sameDaySlots": 7
+    },
+    {
+      "scrapeTime": "2026-10-06T17:56:08.005142",
+      "scrapeTimeDisplay": "5:56 PM",
+      "scrapeDate": "2026-10-06",
+      "locationName": "Piedmont UC \u2014 Canton",
+      "address": "2026 Cumming Hwy, Suite 100 Canton, GA",
+      "area": "Canton",
+      "nextAvailableTime": "7:00 PM",
+      "nextAvailableRaw": "19:00:00",
+      "minutesOut": 64,
+      "hoursOut": 1.1,
+      "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-10-06T17:56:08.005142",
+      "scrapeTimeDisplay": "5:56 PM",
+      "scrapeDate": "2026-10-06",
+      "locationName": "Piedmont UC \u2014 Covington",
+      "address": "5239 Highway 278 Covington, GA",
+      "area": "Covington",
+      "nextAvailableTime": "6:42 PM",
+      "nextAvailableRaw": "18:42:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 5
+    },
+    {
+      "scrapeTime": "2026-10-06T17:56:08.005142",
+      "scrapeTimeDisplay": "5:56 PM",
+      "scrapeDate": "2026-10-06",
+      "locationName": "Piedmont UC \u2014 Lithonia",
+      "address": "7231 Rockbridge Road Lithonia, GA",
+      "area": "Lithonia",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-10-06T17:56:08.005142",
+      "scrapeTimeDisplay": "5:56 PM",
+      "scrapeDate": "2026-10-06",
+      "locationName": "Piedmont UC \u2014 Macon Ingleside",
+      "address": "2410 Ingleside Ave Macon, GA",
+      "area": "Macon Ingleside",
+      "nextAvailableTime": "7:00 PM",
+      "nextAvailableRaw": "19:00:00",
+      "minutesOut": 64,
+      "hoursOut": 1.1,
+      "sameDaySlots": 1
     }
   ],
-  "lastUpdated": "2026-10-06T17:16:32.991023",
+  "lastUpdated": "2026-10-06T18:16:34.487686",
   "threshold_minutes": 45
 }
