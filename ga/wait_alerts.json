@@ -123265,8 +123265,34 @@
       "minutesOut": 63,
       "hoursOut": 1.1,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-06T09:55:59.688227",
+      "scrapeTimeDisplay": "9:55 AM",
+      "scrapeDate": "2026-10-06",
+      "locationName": "Piedmont UC \u2014 Covington",
+      "address": "5239 Highway 278 Covington, GA",
+      "area": "Covington",
+      "nextAvailableTime": "10:42 AM",
+      "nextAvailableRaw": "10:42:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-06T09:55:59.688227",
+      "scrapeTimeDisplay": "9:55 AM",
+      "scrapeDate": "2026-10-06",
+      "locationName": "Piedmont UC \u2014 Brookhaven",
+      "address": "4218 Peachtree Road, Unit B Brookhaven, GA",
+      "area": "Brookhaven",
+      "nextAvailableTime": "10:45 AM",
+      "nextAvailableRaw": "10:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-06T09:16:40.978283",
+  "lastUpdated": "2026-10-06T10:16:56.495916",
   "threshold_minutes": 45
 }
