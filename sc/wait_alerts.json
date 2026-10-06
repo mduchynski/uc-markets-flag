@@ -12431,9 +12431,37 @@
       "minutesOut": 86,
       "hoursOut": 1.4,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-06T09:19:38.324650",
+      "scrapeTimeDisplay": "9:19 AM",
+      "scrapeDate": "2026-10-06",
+      "locationName": "Prisma UC \u2014 Columbia Five Points",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "944 Harden St. Columbia, SC",
+      "area": "Columbia Five Points",
+      "nextAvailableTime": "10:52 AM",
+      "nextAvailableRaw": "10:52:00",
+      "minutesOut": 92,
+      "hoursOut": 1.5,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-06T09:19:38.324650",
+      "scrapeTimeDisplay": "9:19 AM",
+      "scrapeDate": "2026-10-06",
+      "locationName": "Prisma UC \u2014 Red Bank",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "5452A Platt Springs Road Lexington, SC",
+      "area": "Red Bank",
+      "nextAvailableTime": "10:30 AM",
+      "nextAvailableRaw": "10:30:00",
+      "minutesOut": 70,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-06T08:19:20.986528",
+  "lastUpdated": "2026-10-06T09:19:38.324650",
   "threshold_minutes": 60,
   "market": "SC"
 }
