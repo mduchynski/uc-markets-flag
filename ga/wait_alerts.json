@@ -123889,8 +123889,34 @@
       "minutesOut": 49,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-07T11:56:18.413780",
+      "scrapeTimeDisplay": "11:56 AM",
+      "scrapeDate": "2026-10-07",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "12:45 PM",
+      "nextAvailableRaw": "12:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-07T11:56:18.413780",
+      "scrapeTimeDisplay": "11:56 AM",
+      "scrapeDate": "2026-10-07",
+      "locationName": "Piedmont UC \u2014 Grayson",
+      "address": "2594 Loganville Hwy Lilburn, GA",
+      "area": "Grayson",
+      "nextAvailableTime": "12:45 PM",
+      "nextAvailableRaw": "12:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-07T11:16:35.645374",
+  "lastUpdated": "2026-10-07T12:16:33.440391",
   "threshold_minutes": 45
 }
