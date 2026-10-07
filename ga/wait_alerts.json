@@ -123759,8 +123759,47 @@
       "minutesOut": 64,
       "hoursOut": 1.1,
       "sameDaySlots": 1
+    },
+    {
+      "scrapeTime": "2026-10-07T08:16:39.006019",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-10-07",
+      "locationName": "Piedmont UC \u2014 Peachtree City",
+      "address": "100 Line Creek Drive Peachtree, GA",
+      "area": "Peachtree City",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 73,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-07T08:16:39.006019",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-10-07",
+      "locationName": "Piedmont UC \u2014 Covington",
+      "address": "5239 Highway 278 Covington, GA",
+      "area": "Covington",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 73,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-07T08:16:39.006019",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-10-07",
+      "locationName": "Piedmont UC \u2014 Athens",
+      "address": "485 Highway 29 North Athens, GA",
+      "area": "Athens",
+      "nextAvailableTime": "9:05 AM",
+      "nextAvailableRaw": "09:05:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-06T20:16:34.484864",
+  "lastUpdated": "2026-10-07T08:16:39.006019",
   "threshold_minutes": 45
 }
