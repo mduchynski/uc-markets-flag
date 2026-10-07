@@ -124136,8 +124136,73 @@
       "minutesOut": 64,
       "hoursOut": 1.1,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-07T15:55:57.019413",
+      "scrapeTimeDisplay": "3:55 PM",
+      "scrapeDate": "2026-10-07",
+      "locationName": "Piedmont UC \u2014 Lithonia",
+      "address": "7231 Rockbridge Road Lithonia, GA",
+      "area": "Lithonia",
+      "nextAvailableTime": "5:15 PM",
+      "nextAvailableRaw": "17:15:00",
+      "minutesOut": 79,
+      "hoursOut": 1.3,
+      "sameDaySlots": 8
+    },
+    {
+      "scrapeTime": "2026-10-07T15:55:57.019413",
+      "scrapeTimeDisplay": "3:55 PM",
+      "scrapeDate": "2026-10-07",
+      "locationName": "Piedmont UC \u2014 Athens",
+      "address": "485 Highway 29 North Athens, GA",
+      "area": "Athens",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-07T15:55:57.019413",
+      "scrapeTimeDisplay": "3:55 PM",
+      "scrapeDate": "2026-10-07",
+      "locationName": "Piedmont UC \u2014 Newnan Arbor Springs",
+      "address": "35 Arbor Springs Terrace Newnan, GA",
+      "area": "Newnan Arbor Springs",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-07T15:55:57.019413",
+      "scrapeTimeDisplay": "3:55 PM",
+      "scrapeDate": "2026-10-07",
+      "locationName": "Piedmont UC \u2014 Milledgeville",
+      "address": "1909 N Columbia St Milledgeville, GA",
+      "area": "Milledgeville",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 124,
+      "hoursOut": 2.1,
+      "sameDaySlots": 6
+    },
+    {
+      "scrapeTime": "2026-10-07T15:55:57.019413",
+      "scrapeTimeDisplay": "3:55 PM",
+      "scrapeDate": "2026-10-07",
+      "locationName": "Piedmont UC \u2014 Hiram",
+      "address": "5749 Wendy Bagwell Parkway Hiram, GA",
+      "area": "Hiram",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-07T15:16:34.033147",
+  "lastUpdated": "2026-10-07T16:16:34.313332",
   "threshold_minutes": 45
 }
