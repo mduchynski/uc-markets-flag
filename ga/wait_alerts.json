@@ -123876,8 +123876,21 @@
       "minutesOut": 65,
       "hoursOut": 1.1,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-07T10:55:58.280272",
+      "scrapeTimeDisplay": "10:55 AM",
+      "scrapeDate": "2026-10-07",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-07T10:16:36.164138",
+  "lastUpdated": "2026-10-07T11:16:35.645374",
   "threshold_minutes": 45
 }
