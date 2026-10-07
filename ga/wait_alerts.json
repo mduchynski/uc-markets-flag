@@ -123824,8 +123824,60 @@
       "minutesOut": 49,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-07T09:56:04.409901",
+      "scrapeTimeDisplay": "9:56 AM",
+      "scrapeDate": "2026-10-07",
+      "locationName": "Piedmont UC \u2014 Austell",
+      "address": "3999 Austell Road Austell, GA",
+      "area": "Austell",
+      "nextAvailableTime": "11:00 AM",
+      "nextAvailableRaw": "11:00:00",
+      "minutesOut": 64,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-07T09:56:04.409901",
+      "scrapeTimeDisplay": "9:56 AM",
+      "scrapeDate": "2026-10-07",
+      "locationName": "Piedmont UC \u2014 Duluth-Pleasant Hill",
+      "address": "1605 Pleasant Hill Road Duluth, GA",
+      "area": "Duluth-Pleasant Hill",
+      "nextAvailableTime": "11:00 AM",
+      "nextAvailableRaw": "11:00:00",
+      "minutesOut": 64,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-07T09:56:04.409901",
+      "scrapeTimeDisplay": "9:56 AM",
+      "scrapeDate": "2026-10-07",
+      "locationName": "Piedmont UC \u2014 Brookhaven",
+      "address": "4218 Peachtree Road, Unit B Brookhaven, GA",
+      "area": "Brookhaven",
+      "nextAvailableTime": "10:45 AM",
+      "nextAvailableRaw": "10:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-07T10:16:36.164138",
+      "scrapeTimeDisplay": "10:16 AM",
+      "scrapeDate": "2026-10-07",
+      "locationName": "Piedmont UC \u2014 Covington",
+      "address": "5239 Highway 278 Covington, GA",
+      "area": "Covington",
+      "nextAvailableTime": "11:22 AM",
+      "nextAvailableRaw": "11:22:00",
+      "minutesOut": 65,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-07T09:16:35.682651",
+  "lastUpdated": "2026-10-07T10:16:36.164138",
   "threshold_minutes": 45
 }
