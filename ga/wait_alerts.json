@@ -124110,8 +124110,34 @@
       "minutesOut": 79,
       "hoursOut": 1.3,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-07T14:55:47.699601",
+      "scrapeTimeDisplay": "2:55 PM",
+      "scrapeDate": "2026-10-07",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 64,
+      "hoursOut": 1.1,
+      "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-10-07T14:55:47.699601",
+      "scrapeTimeDisplay": "2:55 PM",
+      "scrapeDate": "2026-10-07",
+      "locationName": "Piedmont UC \u2014 Milledgeville",
+      "address": "1909 N Columbia St Milledgeville, GA",
+      "area": "Milledgeville",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 64,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-07T14:16:38.181509",
+  "lastUpdated": "2026-10-07T15:16:34.033147",
   "threshold_minutes": 45
 }
