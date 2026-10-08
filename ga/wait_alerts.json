@@ -124448,8 +124448,34 @@
       "minutesOut": 49,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-08T10:16:39.740324",
+      "scrapeTimeDisplay": "10:16 AM",
+      "scrapeDate": "2026-10-08",
+      "locationName": "Piedmont UC \u2014 Loganville",
+      "address": "4763 Atlanta Highway Loganville, GA",
+      "area": "Loganville",
+      "nextAvailableTime": "11:07 AM",
+      "nextAvailableRaw": "11:07:00",
+      "minutesOut": 50,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-08T10:16:39.740324",
+      "scrapeTimeDisplay": "10:16 AM",
+      "scrapeDate": "2026-10-08",
+      "locationName": "Piedmont UC \u2014 Covington",
+      "address": "5239 Highway 278 Covington, GA",
+      "area": "Covington",
+      "nextAvailableTime": "11:07 AM",
+      "nextAvailableRaw": "11:07:00",
+      "minutesOut": 50,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-08T09:16:31.720108",
+  "lastUpdated": "2026-10-08T10:16:39.740324",
   "threshold_minutes": 45
 }
