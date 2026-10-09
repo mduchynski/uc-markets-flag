@@ -125124,8 +125124,73 @@
       "minutesOut": 50,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-09T10:56:21.780042",
+      "scrapeTimeDisplay": "10:56 AM",
+      "scrapeDate": "2026-10-09",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "12:45 PM",
+      "nextAvailableRaw": "12:45:00",
+      "minutesOut": 109,
+      "hoursOut": 1.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-09T10:56:21.780042",
+      "scrapeTimeDisplay": "10:56 AM",
+      "scrapeDate": "2026-10-09",
+      "locationName": "Piedmont UC \u2014 Marietta",
+      "address": "789 Church St Marietta, GA",
+      "area": "Marietta",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-09T10:56:21.780042",
+      "scrapeTimeDisplay": "10:56 AM",
+      "scrapeDate": "2026-10-09",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "12:45 PM",
+      "nextAvailableRaw": "12:45:00",
+      "minutesOut": 109,
+      "hoursOut": 1.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-09T10:56:21.780042",
+      "scrapeTimeDisplay": "10:56 AM",
+      "scrapeDate": "2026-10-09",
+      "locationName": "Piedmont UC \u2014 Fayetteville North",
+      "address": "1175 N Glynn Street Fayetteville, GA",
+      "area": "Fayetteville North",
+      "nextAvailableTime": "12:00 PM",
+      "nextAvailableRaw": "12:00:00",
+      "minutesOut": 64,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-09T10:56:21.780042",
+      "scrapeTimeDisplay": "10:56 AM",
+      "scrapeDate": "2026-10-09",
+      "locationName": "Piedmont UC \u2014 Newnan Arbor Springs",
+      "address": "35 Arbor Springs Terrace Newnan, GA",
+      "area": "Newnan Arbor Springs",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-09T10:16:34.349749",
+  "lastUpdated": "2026-10-09T11:16:37.794953",
   "threshold_minutes": 45
 }
