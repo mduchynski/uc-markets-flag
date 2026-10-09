@@ -124981,8 +124981,60 @@
       "minutesOut": 73,
       "hoursOut": 1.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-09T08:57:10.955620",
+      "scrapeTimeDisplay": "8:57 AM",
+      "scrapeDate": "2026-10-09",
+      "locationName": "Piedmont UC \u2014 Hickory Flat",
+      "address": "7820 Hickory Flat Hwy Woodstock, GA",
+      "area": "Hickory Flat",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-09T08:57:10.955620",
+      "scrapeTimeDisplay": "8:57 AM",
+      "scrapeDate": "2026-10-09",
+      "locationName": "Piedmont UC \u2014 Lilburn",
+      "address": "976 Killian Hill Road SW Lilburn, GA",
+      "area": "Lilburn",
+      "nextAvailableTime": "9:48 AM",
+      "nextAvailableRaw": "09:48:00",
+      "minutesOut": 51,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-09T08:57:10.955620",
+      "scrapeTimeDisplay": "8:57 AM",
+      "scrapeDate": "2026-10-09",
+      "locationName": "Piedmont UC \u2014 Fayetteville North",
+      "address": "1175 N Glynn Street Fayetteville, GA",
+      "area": "Fayetteville North",
+      "nextAvailableTime": "10:30 AM",
+      "nextAvailableRaw": "10:30:00",
+      "minutesOut": 93,
+      "hoursOut": 1.5,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-09T09:16:44.460384",
+      "scrapeTimeDisplay": "9:16 AM",
+      "scrapeDate": "2026-10-09",
+      "locationName": "Piedmont UC \u2014 Fayetteville North",
+      "address": "1175 N Glynn Street Fayetteville, GA",
+      "area": "Fayetteville North",
+      "nextAvailableTime": "10:30 AM",
+      "nextAvailableRaw": "10:30:00",
+      "minutesOut": 73,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-09T08:16:32.053416",
+  "lastUpdated": "2026-10-09T09:16:44.460384",
   "threshold_minutes": 45
 }
