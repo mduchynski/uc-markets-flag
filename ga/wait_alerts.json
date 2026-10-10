@@ -125722,8 +125722,86 @@
       "minutesOut": 73,
       "hoursOut": 1.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-10T08:55:56.487758",
+      "scrapeTimeDisplay": "8:55 AM",
+      "scrapeDate": "2026-10-10",
+      "locationName": "Piedmont UC \u2014 West Cobb",
+      "address": "2505 Dallas Hwy Marietta, GA",
+      "area": "West Cobb",
+      "nextAvailableTime": "10:45 AM",
+      "nextAvailableRaw": "10:45:00",
+      "minutesOut": 109,
+      "hoursOut": 1.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-10T08:55:56.487758",
+      "scrapeTimeDisplay": "8:55 AM",
+      "scrapeDate": "2026-10-10",
+      "locationName": "Piedmont UC \u2014 Barrow",
+      "address": "340 Exchange Boulevard Bethlehem, GA",
+      "area": "Barrow",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 64,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-10T08:55:56.487758",
+      "scrapeTimeDisplay": "8:55 AM",
+      "scrapeDate": "2026-10-10",
+      "locationName": "Piedmont UC \u2014 Newnan Arbor Springs",
+      "address": "35 Arbor Springs Terrace Newnan, GA",
+      "area": "Newnan Arbor Springs",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-10T08:55:56.487758",
+      "scrapeTimeDisplay": "8:55 AM",
+      "scrapeDate": "2026-10-10",
+      "locationName": "Piedmont UC \u2014 Braselton",
+      "address": "3711 Village Way; Suite A Braselton, GA",
+      "area": "Braselton",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-10T09:16:33.955401",
+      "scrapeTimeDisplay": "9:16 AM",
+      "scrapeDate": "2026-10-10",
+      "locationName": "Piedmont UC \u2014 Watkinsville",
+      "address": "1010 Village Drive Watkinsville, GA",
+      "area": "Watkinsville",
+      "nextAvailableTime": "10:30 AM",
+      "nextAvailableRaw": "10:30:00",
+      "minutesOut": 73,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-10T09:16:33.955401",
+      "scrapeTimeDisplay": "9:16 AM",
+      "scrapeDate": "2026-10-10",
+      "locationName": "Piedmont UC \u2014 Barrow",
+      "address": "340 Exchange Boulevard Bethlehem, GA",
+      "area": "Barrow",
+      "nextAvailableTime": "10:15 AM",
+      "nextAvailableRaw": "10:15:00",
+      "minutesOut": 58,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-10T08:16:33.615324",
+  "lastUpdated": "2026-10-10T09:16:33.955401",
   "threshold_minutes": 45
 }
