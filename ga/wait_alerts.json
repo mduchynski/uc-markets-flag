@@ -126827,8 +126827,34 @@
       "minutesOut": 64,
       "hoursOut": 1.1,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-11T15:56:10.702933",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-10-11",
+      "locationName": "Piedmont UC \u2014 Snellville",
+      "address": "2118 Scenic Highway South Snellville, GA",
+      "area": "Snellville",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 7
+    },
+    {
+      "scrapeTime": "2026-10-11T15:56:10.702933",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-10-11",
+      "locationName": "Piedmont UC \u2014 Jefferson",
+      "address": "528 Panther Drive Jefferson, GA",
+      "area": "Jefferson",
+      "nextAvailableTime": "5:00 PM",
+      "nextAvailableRaw": "17:00:00",
+      "minutesOut": 64,
+      "hoursOut": 1.1,
+      "sameDaySlots": 9
     }
   ],
-  "lastUpdated": "2026-10-11T15:16:33.306840",
+  "lastUpdated": "2026-10-11T16:16:34.180373",
   "threshold_minutes": 45
 }
