@@ -12823,9 +12823,23 @@
       "minutesOut": 86,
       "hoursOut": 1.4,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-12T09:18:53.518877",
+      "scrapeTimeDisplay": "9:18 AM",
+      "scrapeDate": "2026-10-12",
+      "locationName": "Prisma UC \u2014 Powdersville",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "11402 Anderson Rd, Suite A Powdersville, SC",
+      "area": "Powdersville",
+      "nextAvailableTime": "10:22 AM",
+      "nextAvailableRaw": "10:22:00",
+      "minutesOut": 63,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-12T08:19:13.252004",
+  "lastUpdated": "2026-10-12T09:18:53.518877",
   "threshold_minutes": 60,
   "market": "SC"
 }
