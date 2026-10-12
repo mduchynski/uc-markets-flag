@@ -127607,8 +127607,60 @@
       "minutesOut": 52,
       "hoursOut": 0.9,
       "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-10-12T17:55:41.174316",
+      "scrapeTimeDisplay": "5:55 PM",
+      "scrapeDate": "2026-10-12",
+      "locationName": "Piedmont UC \u2014 Fayetteville",
+      "address": "749 W Lanier Ave Fayetteville, GA",
+      "area": "Fayetteville",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 5
+    },
+    {
+      "scrapeTime": "2026-10-12T17:55:41.174316",
+      "scrapeTimeDisplay": "5:55 PM",
+      "scrapeDate": "2026-10-12",
+      "locationName": "Piedmont UC \u2014 Chamblee",
+      "address": "5438 Peachtree Industrial Blvd Chamblee, GA",
+      "area": "Chamblee",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-10-12T17:55:41.174316",
+      "scrapeTimeDisplay": "5:55 PM",
+      "scrapeDate": "2026-10-12",
+      "locationName": "Piedmont UC \u2014 Macon Ingleside",
+      "address": "2410 Ingleside Ave Macon, GA",
+      "area": "Macon Ingleside",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-10-12T17:55:41.174316",
+      "scrapeTimeDisplay": "5:55 PM",
+      "scrapeDate": "2026-10-12",
+      "locationName": "Piedmont UC \u2014 Vinings",
+      "address": "2810 Paces Ferry Road, Suite 156 Atlanta, GA",
+      "area": "Vinings",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 2
     }
   ],
-  "lastUpdated": "2026-10-12T17:16:40.514264",
+  "lastUpdated": "2026-10-12T18:16:35.726177",
   "threshold_minutes": 45
 }
