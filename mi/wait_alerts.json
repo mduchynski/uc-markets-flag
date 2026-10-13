@@ -6201,8 +6201,22 @@
       "minutesOut": 105,
       "hoursOut": 1.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-13T08:15:15.897461",
+      "scrapeTimeDisplay": "8:15 AM",
+      "scrapeDate": "2026-10-13",
+      "locationName": "Corewell UC \u2014 Troy Square Lake",
+      "systemName": "Corewell Health Urgent Care",
+      "address": "43037 Dequindre Road Troy, MI",
+      "area": "Troy Square Lake",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 105,
+      "hoursOut": 1.7,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-12T20:14:56.312280",
+  "lastUpdated": "2026-10-13T08:15:15.897461",
   "threshold_minutes": 50
 }
