@@ -127737,8 +127737,73 @@
       "minutesOut": 118,
       "hoursOut": 2.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-13T08:56:26.239595",
+      "scrapeTimeDisplay": "8:56 AM",
+      "scrapeDate": "2026-10-13",
+      "locationName": "Piedmont UC \u2014 Clairmont",
+      "address": "2700 Clairmont Road Atlanta, GA",
+      "area": "Clairmont",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 64,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-13T08:56:26.239595",
+      "scrapeTimeDisplay": "8:56 AM",
+      "scrapeDate": "2026-10-13",
+      "locationName": "Piedmont UC \u2014 Chamblee",
+      "address": "5438 Peachtree Industrial Blvd Chamblee, GA",
+      "area": "Chamblee",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 64,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-13T08:56:26.239595",
+      "scrapeTimeDisplay": "8:56 AM",
+      "scrapeDate": "2026-10-13",
+      "locationName": "Piedmont UC \u2014 Canton",
+      "address": "2026 Cumming Hwy, Suite 100 Canton, GA",
+      "area": "Canton",
+      "nextAvailableTime": "10:15 AM",
+      "nextAvailableRaw": "10:15:00",
+      "minutesOut": 79,
+      "hoursOut": 1.3,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-13T08:56:26.239595",
+      "scrapeTimeDisplay": "8:56 AM",
+      "scrapeDate": "2026-10-13",
+      "locationName": "Piedmont UC \u2014 Senoia",
+      "address": "7990 Wells Street, Suite 120 Senoia, GA",
+      "area": "Senoia",
+      "nextAvailableTime": "10:22 AM",
+      "nextAvailableRaw": "10:22:00",
+      "minutesOut": 86,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-13T08:56:26.239595",
+      "scrapeTimeDisplay": "8:56 AM",
+      "scrapeDate": "2026-10-13",
+      "locationName": "Piedmont UC \u2014 Locust Grove",
+      "address": "3366 Hwy 42S, Suite 100 Locust Grove, GA",
+      "area": "Locust Grove",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-13T08:16:34.702348",
+  "lastUpdated": "2026-10-13T09:16:35.439350",
   "threshold_minutes": 45
 }
