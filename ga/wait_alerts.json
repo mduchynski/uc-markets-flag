@@ -128751,8 +128751,21 @@
       "minutesOut": 49,
       "hoursOut": 0.8,
       "sameDaySlots": 4
+    },
+    {
+      "scrapeTime": "2026-10-14T18:09:08.509469",
+      "scrapeTimeDisplay": "6:09 PM",
+      "scrapeDate": "2026-10-14",
+      "locationName": "Piedmont UC \u2014 Loganville",
+      "address": "4763 Atlanta Highway Loganville, GA",
+      "area": "Loganville",
+      "nextAvailableTime": "7:00 PM",
+      "nextAvailableRaw": "19:00:00",
+      "minutesOut": 51,
+      "hoursOut": 0.8,
+      "sameDaySlots": 2
     }
   ],
-  "lastUpdated": "2026-10-14T18:00:39.847329",
+  "lastUpdated": "2026-10-14T19:00:36.307007",
   "threshold_minutes": 45
 }
