@@ -128647,8 +128647,60 @@
       "minutesOut": 51,
       "hoursOut": 0.9,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-14T16:10:38.468672",
+      "scrapeTimeDisplay": "4:10 PM",
+      "scrapeDate": "2026-10-14",
+      "locationName": "Piedmont UC \u2014 Newnan Crossing",
+      "address": "2084 Newnan Crossing Blvd 30265 Newnan, GA",
+      "area": "Newnan Crossing",
+      "nextAvailableTime": "5:15 PM",
+      "nextAvailableRaw": "17:15:00",
+      "minutesOut": 64,
+      "hoursOut": 1.1,
+      "sameDaySlots": 6
+    },
+    {
+      "scrapeTime": "2026-10-14T16:10:38.468672",
+      "scrapeTimeDisplay": "4:10 PM",
+      "scrapeDate": "2026-10-14",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "5:45 PM",
+      "nextAvailableRaw": "17:45:00",
+      "minutesOut": 94,
+      "hoursOut": 1.6,
+      "sameDaySlots": 8
+    },
+    {
+      "scrapeTime": "2026-10-14T16:10:38.468672",
+      "scrapeTimeDisplay": "4:10 PM",
+      "scrapeDate": "2026-10-14",
+      "locationName": "Piedmont UC \u2014 Lilburn",
+      "address": "976 Killian Hill Road SW Lilburn, GA",
+      "area": "Lilburn",
+      "nextAvailableTime": "5:40 PM",
+      "nextAvailableRaw": "17:40:00",
+      "minutesOut": 89,
+      "hoursOut": 1.5,
+      "sameDaySlots": 5
+    },
+    {
+      "scrapeTime": "2026-10-14T16:10:38.468672",
+      "scrapeTimeDisplay": "4:10 PM",
+      "scrapeDate": "2026-10-14",
+      "locationName": "Piedmont UC \u2014 Newnan Arbor Springs",
+      "address": "35 Arbor Springs Terrace Newnan, GA",
+      "area": "Newnan Arbor Springs",
+      "nextAvailableTime": "5:00 PM",
+      "nextAvailableRaw": "17:00:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 8
     }
   ],
-  "lastUpdated": "2026-10-14T16:00:43.195543",
+  "lastUpdated": "2026-10-14T17:00:32.259649",
   "threshold_minutes": 45
 }
