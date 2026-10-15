@@ -129661,8 +129661,47 @@
       "minutesOut": 49,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-15T15:56:24.728490",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-10-15",
+      "locationName": "Piedmont UC \u2014 Buckhead North",
+      "address": "3617 Roswell Road Atlanta, GA",
+      "area": "Buckhead North",
+      "nextAvailableTime": "5:36 PM",
+      "nextAvailableRaw": "17:36:00",
+      "minutesOut": 100,
+      "hoursOut": 1.7,
+      "sameDaySlots": 8
+    },
+    {
+      "scrapeTime": "2026-10-15T15:56:24.728490",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-10-15",
+      "locationName": "Piedmont UC \u2014 Woodstock",
+      "address": "285 Ridgewalk Parkway Woodstock, GA",
+      "area": "Woodstock",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 7
+    },
+    {
+      "scrapeTime": "2026-10-15T15:56:24.728490",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-10-15",
+      "locationName": "Piedmont UC \u2014 Cartersville Main St",
+      "address": "10 Main St. Market Place Cartersville, GA",
+      "area": "Cartersville Main St",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-15T15:16:36.789028",
+  "lastUpdated": "2026-10-15T16:16:34.066731",
   "threshold_minutes": 45
 }
