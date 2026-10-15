@@ -129700,8 +129700,34 @@
       "minutesOut": 49,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-15T16:55:43.929892",
+      "scrapeTimeDisplay": "4:55 PM",
+      "scrapeDate": "2026-10-15",
+      "locationName": "Piedmont UC \u2014 Douglasville",
+      "address": "2976 Chapel Hill Rd Douglasville, GA",
+      "area": "Douglasville",
+      "nextAvailableTime": "5:45 PM",
+      "nextAvailableRaw": "17:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-15T16:55:43.929892",
+      "scrapeTimeDisplay": "4:55 PM",
+      "scrapeDate": "2026-10-15",
+      "locationName": "Piedmont UC \u2014 Buckhead North",
+      "address": "3617 Roswell Road Atlanta, GA",
+      "area": "Buckhead North",
+      "nextAvailableTime": "5:48 PM",
+      "nextAvailableRaw": "17:48:00",
+      "minutesOut": 52,
+      "hoursOut": 0.9,
+      "sameDaySlots": 6
     }
   ],
-  "lastUpdated": "2026-10-15T16:16:34.066731",
+  "lastUpdated": "2026-10-15T17:16:35.037865",
   "threshold_minutes": 45
 }
