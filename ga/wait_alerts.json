@@ -130519,8 +130519,86 @@
       "minutesOut": 64,
       "hoursOut": 1.1,
       "sameDaySlots": 7
+    },
+    {
+      "scrapeTime": "2026-10-16T15:56:14.322460",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-10-16",
+      "locationName": "Piedmont UC \u2014 Loganville",
+      "address": "4763 Atlanta Highway Loganville, GA",
+      "area": "Loganville",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-16T15:56:14.322460",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-10-16",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "4:48 PM",
+      "nextAvailableRaw": "16:48:00",
+      "minutesOut": 52,
+      "hoursOut": 0.9,
+      "sameDaySlots": 5
+    },
+    {
+      "scrapeTime": "2026-10-16T15:56:14.322460",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-10-16",
+      "locationName": "Piedmont UC \u2014 East Point",
+      "address": "3515 Camp Creek Parkway East Point, GA",
+      "area": "East Point",
+      "nextAvailableTime": "5:00 PM",
+      "nextAvailableRaw": "17:00:00",
+      "minutesOut": 64,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-16T15:56:14.322460",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-10-16",
+      "locationName": "Piedmont UC \u2014 Columbus Uptown",
+      "address": "101 13th Street Suite 200 Columbus, GA",
+      "area": "Columbus Uptown",
+      "nextAvailableTime": "5:15 PM",
+      "nextAvailableRaw": "17:15:00",
+      "minutesOut": 79,
+      "hoursOut": 1.3,
+      "sameDaySlots": 8
+    },
+    {
+      "scrapeTime": "2026-10-16T15:56:14.322460",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-10-16",
+      "locationName": "Piedmont UC \u2014 Acworth",
+      "address": "3345 Cobb Pkwy NW,Suite 800 Acworth, GA",
+      "area": "Acworth",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-16T15:56:14.322460",
+      "scrapeTimeDisplay": "3:56 PM",
+      "scrapeDate": "2026-10-16",
+      "locationName": "Piedmont UC \u2014 Kennesaw Bells Ferry",
+      "address": "4282 Bells Ferry Road NW Kennesaw, GA",
+      "area": "Kennesaw Bells Ferry",
+      "nextAvailableTime": "5:30 PM",
+      "nextAvailableRaw": "17:30:00",
+      "minutesOut": 94,
+      "hoursOut": 1.6,
+      "sameDaySlots": 7
     }
   ],
-  "lastUpdated": "2026-10-16T15:17:05.177924",
+  "lastUpdated": "2026-10-16T16:16:37.518662",
   "threshold_minutes": 45
 }
