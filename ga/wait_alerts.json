@@ -131039,8 +131039,73 @@
       "minutesOut": 64,
       "hoursOut": 1.1,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-17T12:56:28.340263",
+      "scrapeTimeDisplay": "12:56 PM",
+      "scrapeDate": "2026-10-17",
+      "locationName": "Piedmont UC \u2014 Chamblee",
+      "address": "5438 Peachtree Industrial Blvd Chamblee, GA",
+      "area": "Chamblee",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 64,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-17T12:56:28.340263",
+      "scrapeTimeDisplay": "12:56 PM",
+      "scrapeDate": "2026-10-17",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 64,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-17T12:56:28.340263",
+      "scrapeTimeDisplay": "12:56 PM",
+      "scrapeDate": "2026-10-17",
+      "locationName": "Piedmont UC \u2014 Snellville",
+      "address": "2118 Scenic Highway South Snellville, GA",
+      "area": "Snellville",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 64,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-17T12:56:28.340263",
+      "scrapeTimeDisplay": "12:56 PM",
+      "scrapeDate": "2026-10-17",
+      "locationName": "Piedmont UC \u2014 Covington",
+      "address": "5239 Highway 278 Covington, GA",
+      "area": "Covington",
+      "nextAvailableTime": "1:50 PM",
+      "nextAvailableRaw": "13:50:00",
+      "minutesOut": 54,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-17T12:56:28.340263",
+      "scrapeTimeDisplay": "12:56 PM",
+      "scrapeDate": "2026-10-17",
+      "locationName": "Piedmont UC \u2014 Summerhill",
+      "address": "572 Hank Aaron Drive, Suite 4200 Atlanta, GA",
+      "area": "Summerhill",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 64,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-17T12:16:36.810204",
+  "lastUpdated": "2026-10-17T13:16:33.952252",
   "threshold_minutes": 45
 }
