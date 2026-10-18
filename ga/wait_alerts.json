@@ -132170,8 +132170,86 @@
       "minutesOut": 49,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-18T15:55:46.390944",
+      "scrapeTimeDisplay": "3:55 PM",
+      "scrapeDate": "2026-10-18",
+      "locationName": "Piedmont UC \u2014 Loganville",
+      "address": "4763 Atlanta Highway Loganville, GA",
+      "area": "Loganville",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-18T15:55:46.390944",
+      "scrapeTimeDisplay": "3:55 PM",
+      "scrapeDate": "2026-10-18",
+      "locationName": "Piedmont UC \u2014 Clairmont",
+      "address": "2700 Clairmont Road Atlanta, GA",
+      "area": "Clairmont",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-10-18T15:55:46.390944",
+      "scrapeTimeDisplay": "3:55 PM",
+      "scrapeDate": "2026-10-18",
+      "locationName": "Piedmont UC \u2014 Grayson",
+      "address": "2594 Loganville Hwy Lilburn, GA",
+      "area": "Grayson",
+      "nextAvailableTime": "5:00 PM",
+      "nextAvailableRaw": "17:00:00",
+      "minutesOut": 64,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-18T15:55:46.390944",
+      "scrapeTimeDisplay": "3:55 PM",
+      "scrapeDate": "2026-10-18",
+      "locationName": "Piedmont UC \u2014 Athens",
+      "address": "485 Highway 29 North Athens, GA",
+      "area": "Athens",
+      "nextAvailableTime": "4:52 PM",
+      "nextAvailableRaw": "16:52:00",
+      "minutesOut": 56,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-18T15:55:46.390944",
+      "scrapeTimeDisplay": "3:55 PM",
+      "scrapeDate": "2026-10-18",
+      "locationName": "Piedmont UC \u2014 Jefferson",
+      "address": "528 Panther Drive Jefferson, GA",
+      "area": "Jefferson",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 7
+    },
+    {
+      "scrapeTime": "2026-10-18T15:55:46.390944",
+      "scrapeTimeDisplay": "3:55 PM",
+      "scrapeDate": "2026-10-18",
+      "locationName": "Piedmont UC \u2014 Macon Zebulon",
+      "address": "5791 Zebulon RD STE A Macon, GA",
+      "area": "Macon Zebulon",
+      "nextAvailableTime": "5:00 PM",
+      "nextAvailableRaw": "17:00:00",
+      "minutesOut": 64,
+      "hoursOut": 1.1,
+      "sameDaySlots": 3
     }
   ],
-  "lastUpdated": "2026-10-18T15:17:21.068831",
+  "lastUpdated": "2026-10-18T16:17:14.451790",
   "threshold_minutes": 45
 }
