@@ -132248,8 +132248,34 @@
       "minutesOut": 64,
       "hoursOut": 1.1,
       "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-10-18T16:55:44.254377",
+      "scrapeTimeDisplay": "4:55 PM",
+      "scrapeDate": "2026-10-18",
+      "locationName": "Piedmont UC \u2014 Chamblee",
+      "address": "5438 Peachtree Industrial Blvd Chamblee, GA",
+      "area": "Chamblee",
+      "nextAvailableTime": "5:45 PM",
+      "nextAvailableRaw": "17:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 7
+    },
+    {
+      "scrapeTime": "2026-10-18T16:55:44.254377",
+      "scrapeTimeDisplay": "4:55 PM",
+      "scrapeDate": "2026-10-18",
+      "locationName": "Piedmont UC \u2014 Athens",
+      "address": "485 Highway 29 North Athens, GA",
+      "area": "Athens",
+      "nextAvailableTime": "5:45 PM",
+      "nextAvailableRaw": "17:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 6
     }
   ],
-  "lastUpdated": "2026-10-18T16:17:14.451790",
+  "lastUpdated": "2026-10-18T17:17:18.334034",
   "threshold_minutes": 45
 }
