@@ -132339,8 +132339,73 @@
       "minutesOut": 69,
       "hoursOut": 1.1,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-19T08:47:16.397315",
+      "scrapeTimeDisplay": "8:47 AM",
+      "scrapeDate": "2026-10-19",
+      "locationName": "Piedmont UC \u2014 Athens",
+      "address": "485 Highway 29 North Athens, GA",
+      "area": "Athens",
+      "nextAvailableTime": "9:55 AM",
+      "nextAvailableRaw": "09:55:00",
+      "minutesOut": 68,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-19T08:47:16.397315",
+      "scrapeTimeDisplay": "8:47 AM",
+      "scrapeDate": "2026-10-19",
+      "locationName": "Piedmont UC \u2014 Braselton",
+      "address": "3711 Village Way; Suite A Braselton, GA",
+      "area": "Braselton",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 73,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-19T09:16:34.590548",
+      "scrapeTimeDisplay": "9:16 AM",
+      "scrapeDate": "2026-10-19",
+      "locationName": "Piedmont UC \u2014 Peachtree City",
+      "address": "100 Line Creek Drive Peachtree, GA",
+      "area": "Peachtree City",
+      "nextAvailableTime": "10:15 AM",
+      "nextAvailableRaw": "10:15:00",
+      "minutesOut": 58,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-19T09:16:34.590548",
+      "scrapeTimeDisplay": "9:16 AM",
+      "scrapeDate": "2026-10-19",
+      "locationName": "Piedmont UC \u2014 Fairburn",
+      "address": "8028 Senoia Rd Fairburn, GA",
+      "area": "Fairburn",
+      "nextAvailableTime": "10:22 AM",
+      "nextAvailableRaw": "10:22:00",
+      "minutesOut": 65,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-19T09:16:34.590548",
+      "scrapeTimeDisplay": "9:16 AM",
+      "scrapeDate": "2026-10-19",
+      "locationName": "Piedmont UC \u2014 Athens",
+      "address": "485 Highway 29 North Athens, GA",
+      "area": "Athens",
+      "nextAvailableTime": "11:06 AM",
+      "nextAvailableRaw": "11:06:00",
+      "minutesOut": 109,
+      "hoursOut": 1.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-19T08:36:09.174414",
+  "lastUpdated": "2026-10-19T09:16:34.590548",
   "threshold_minutes": 45
 }
