@@ -13551,9 +13551,51 @@
       "minutesOut": 62,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-21T08:59:56.924588",
+      "scrapeTimeDisplay": "8:59 AM",
+      "scrapeDate": "2026-10-21",
+      "locationName": "Prisma UC \u2014 Greer",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "1305 S Suber Rd Greer, SC",
+      "area": "Greer",
+      "nextAvailableTime": "10:07 AM",
+      "nextAvailableRaw": "10:07:00",
+      "minutesOut": 67,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-21T08:59:56.924588",
+      "scrapeTimeDisplay": "8:59 AM",
+      "scrapeDate": "2026-10-21",
+      "locationName": "Prisma UC \u2014 Mauldin",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "122 S Main Street 29662, SC",
+      "area": "Mauldin",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-21T08:59:56.924588",
+      "scrapeTimeDisplay": "8:59 AM",
+      "scrapeDate": "2026-10-21",
+      "locationName": "Prisma UC \u2014 Red Bank",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "5452A Platt Springs Road Lexington, SC",
+      "area": "Red Bank",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-20T11:25:03.310112",
+  "lastUpdated": "2026-10-21T08:59:56.924588",
   "threshold_minutes": 60,
   "market": "SC"
 }
