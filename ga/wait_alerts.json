@@ -135680,8 +135680,47 @@
       "minutesOut": 63,
       "hoursOut": 1.1,
       "sameDaySlots": 6
+    },
+    {
+      "scrapeTime": "2026-10-22T17:56:43.384353",
+      "scrapeTimeDisplay": "5:56 PM",
+      "scrapeDate": "2026-10-22",
+      "locationName": "Piedmont UC \u2014 Newnan Crossing",
+      "address": "2084 Newnan Crossing Blvd 30265 Newnan, GA",
+      "area": "Newnan Crossing",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 5
+    },
+    {
+      "scrapeTime": "2026-10-22T17:56:43.384353",
+      "scrapeTimeDisplay": "5:56 PM",
+      "scrapeDate": "2026-10-22",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-10-22T17:56:43.384353",
+      "scrapeTimeDisplay": "5:56 PM",
+      "scrapeDate": "2026-10-22",
+      "locationName": "Piedmont UC \u2014 Lovejoy",
+      "address": "11581 Tara Blvd, Ste. A Lovejoy, GA",
+      "area": "Lovejoy",
+      "nextAvailableTime": "7:00 PM",
+      "nextAvailableRaw": "19:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.1,
+      "sameDaySlots": 2
     }
   ],
-  "lastUpdated": "2026-10-22T17:16:41.492030",
+  "lastUpdated": "2026-10-22T18:16:35.762868",
   "threshold_minutes": 45
 }
