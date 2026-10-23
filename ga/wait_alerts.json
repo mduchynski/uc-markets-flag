@@ -136382,8 +136382,47 @@
       "minutesOut": 49,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-23T16:55:25.534591",
+      "scrapeTimeDisplay": "4:55 PM",
+      "scrapeDate": "2026-10-23",
+      "locationName": "Piedmont UC \u2014 Snellville",
+      "address": "2118 Scenic Highway South Snellville, GA",
+      "area": "Snellville",
+      "nextAvailableTime": "5:45 PM",
+      "nextAvailableRaw": "17:45:00",
+      "minutesOut": 50,
+      "hoursOut": 0.8,
+      "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-10-23T16:55:25.534591",
+      "scrapeTimeDisplay": "4:55 PM",
+      "scrapeDate": "2026-10-23",
+      "locationName": "Piedmont UC \u2014 Lithonia",
+      "address": "7231 Rockbridge Road Lithonia, GA",
+      "area": "Lithonia",
+      "nextAvailableTime": "6:30 PM",
+      "nextAvailableRaw": "18:30:00",
+      "minutesOut": 95,
+      "hoursOut": 1.6,
+      "sameDaySlots": 4
+    },
+    {
+      "scrapeTime": "2026-10-23T16:55:25.534591",
+      "scrapeTimeDisplay": "4:55 PM",
+      "scrapeDate": "2026-10-23",
+      "locationName": "Piedmont UC \u2014 Senoia",
+      "address": "7990 Wells Street, Suite 120 Senoia, GA",
+      "area": "Senoia",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 65,
+      "hoursOut": 1.1,
+      "sameDaySlots": 9
     }
   ],
-  "lastUpdated": "2026-10-23T16:16:33.201410",
+  "lastUpdated": "2026-10-23T17:17:16.970994",
   "threshold_minutes": 45
 }
