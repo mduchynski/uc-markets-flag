@@ -13775,9 +13775,37 @@
       "minutesOut": 86,
       "hoursOut": 1.4,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-24T09:19:27.634774",
+      "scrapeTimeDisplay": "9:19 AM",
+      "scrapeDate": "2026-10-24",
+      "locationName": "Prisma UC \u2014 Greer",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "1305 S Suber Rd Greer, SC",
+      "area": "Greer",
+      "nextAvailableTime": "11:00 AM",
+      "nextAvailableRaw": "11:00:00",
+      "minutesOut": 101,
+      "hoursOut": 1.7,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-24T09:19:27.634774",
+      "scrapeTimeDisplay": "9:19 AM",
+      "scrapeDate": "2026-10-24",
+      "locationName": "Prisma UC \u2014 Mauldin",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "122 S Main Street 29662, SC",
+      "area": "Mauldin",
+      "nextAvailableTime": "10:30 AM",
+      "nextAvailableRaw": "10:30:00",
+      "minutesOut": 71,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-24T08:19:20.013458",
+  "lastUpdated": "2026-10-24T09:19:27.634774",
   "threshold_minutes": 60,
   "market": "SC"
 }
