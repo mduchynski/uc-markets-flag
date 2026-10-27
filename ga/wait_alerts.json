@@ -139749,8 +139749,73 @@
       "minutesOut": 93,
       "hoursOut": 1.6,
       "sameDaySlots": 1
+    },
+    {
+      "scrapeTime": "2026-10-27T08:02:23.050346",
+      "scrapeTimeDisplay": "8:02 AM",
+      "scrapeDate": "2026-10-27",
+      "locationName": "Piedmont UC \u2014 Snellville-Centerville Hwy",
+      "address": "3641 Centerville Hwy Snellville, GA",
+      "area": "Snellville-Centerville Hwy",
+      "nextAvailableTime": "9:00 AM",
+      "nextAvailableRaw": "09:00:00",
+      "minutesOut": 58,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-27T08:02:23.050346",
+      "scrapeTimeDisplay": "8:02 AM",
+      "scrapeDate": "2026-10-27",
+      "locationName": "Piedmont UC \u2014 Senoia",
+      "address": "7990 Wells Street, Suite 120 Senoia, GA",
+      "area": "Senoia",
+      "nextAvailableTime": "9:07 AM",
+      "nextAvailableRaw": "09:07:00",
+      "minutesOut": 65,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-27T08:25:13.905256",
+      "scrapeTimeDisplay": "8:25 AM",
+      "scrapeDate": "2026-10-27",
+      "locationName": "Piedmont UC \u2014 Peachtree City",
+      "address": "100 Line Creek Drive Peachtree, GA",
+      "area": "Peachtree City",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 65,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-27T08:25:13.905256",
+      "scrapeTimeDisplay": "8:25 AM",
+      "scrapeDate": "2026-10-27",
+      "locationName": "Piedmont UC \u2014 Newnan Crossing",
+      "address": "2084 Newnan Crossing Blvd 30265 Newnan, GA",
+      "area": "Newnan Crossing",
+      "nextAvailableTime": "9:37 AM",
+      "nextAvailableRaw": "09:37:00",
+      "minutesOut": 72,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-27T08:25:13.905256",
+      "scrapeTimeDisplay": "8:25 AM",
+      "scrapeDate": "2026-10-27",
+      "locationName": "Piedmont UC \u2014 Ellenwood",
+      "address": "4475 W Village Pkwy Ellenwood, GA",
+      "area": "Ellenwood",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 65,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-26T20:16:27.808352",
+  "lastUpdated": "2026-10-27T08:25:13.905256",
   "threshold_minutes": 45
 }
