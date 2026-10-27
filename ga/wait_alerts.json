@@ -140230,8 +140230,86 @@
       "minutesOut": 47,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-27T15:57:13.262152",
+      "scrapeTimeDisplay": "3:57 PM",
+      "scrapeDate": "2026-10-27",
+      "locationName": "Piedmont UC \u2014 Douglasville",
+      "address": "2976 Chapel Hill Rd Douglasville, GA",
+      "area": "Douglasville",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-27T15:57:13.262152",
+      "scrapeTimeDisplay": "3:57 PM",
+      "scrapeDate": "2026-10-27",
+      "locationName": "Piedmont UC \u2014 Ponce De Leon",
+      "address": "882 Ponce De Leon Avenue Atlanta, GA",
+      "area": "Ponce De Leon",
+      "nextAvailableTime": "5:15 PM",
+      "nextAvailableRaw": "17:15:00",
+      "minutesOut": 78,
+      "hoursOut": 1.3,
+      "sameDaySlots": 4
+    },
+    {
+      "scrapeTime": "2026-10-27T15:57:13.262152",
+      "scrapeTimeDisplay": "3:57 PM",
+      "scrapeDate": "2026-10-27",
+      "locationName": "Piedmont UC \u2014 Buckhead North",
+      "address": "3617 Roswell Road Atlanta, GA",
+      "area": "Buckhead North",
+      "nextAvailableTime": "5:00 PM",
+      "nextAvailableRaw": "17:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-10-27T15:57:13.262152",
+      "scrapeTimeDisplay": "3:57 PM",
+      "scrapeDate": "2026-10-27",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "5:45 PM",
+      "nextAvailableRaw": "17:45:00",
+      "minutesOut": 108,
+      "hoursOut": 1.8,
+      "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-10-27T15:57:13.262152",
+      "scrapeTimeDisplay": "3:57 PM",
+      "scrapeDate": "2026-10-27",
+      "locationName": "Piedmont UC \u2014 Snellville",
+      "address": "2118 Scenic Highway South Snellville, GA",
+      "area": "Snellville",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 4
+    },
+    {
+      "scrapeTime": "2026-10-27T15:57:13.262152",
+      "scrapeTimeDisplay": "3:57 PM",
+      "scrapeDate": "2026-10-27",
+      "locationName": "Piedmont UC \u2014 Conyers",
+      "address": "1280 Dogwood Dr SE Conyers, GA",
+      "area": "Conyers",
+      "nextAvailableTime": "4:51 PM",
+      "nextAvailableRaw": "16:51:00",
+      "minutesOut": 54,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-27T15:16:33.438841",
+  "lastUpdated": "2026-10-27T16:16:37.942592",
   "threshold_minutes": 45
 }
