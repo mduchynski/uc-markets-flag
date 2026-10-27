@@ -139866,8 +139866,73 @@
       "minutesOut": 50,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-27T10:56:34.309470",
+      "scrapeTimeDisplay": "10:56 AM",
+      "scrapeDate": "2026-10-27",
+      "locationName": "Piedmont UC \u2014 Newnan Crossing",
+      "address": "2084 Newnan Crossing Blvd 30265 Newnan, GA",
+      "area": "Newnan Crossing",
+      "nextAvailableTime": "12:30 PM",
+      "nextAvailableRaw": "12:30:00",
+      "minutesOut": 93,
+      "hoursOut": 1.6,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-27T10:56:34.309470",
+      "scrapeTimeDisplay": "10:56 AM",
+      "scrapeDate": "2026-10-27",
+      "locationName": "Piedmont UC \u2014 Clairmont",
+      "address": "2700 Clairmont Road Atlanta, GA",
+      "area": "Clairmont",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-27T10:56:34.309470",
+      "scrapeTimeDisplay": "10:56 AM",
+      "scrapeDate": "2026-10-27",
+      "locationName": "Piedmont UC \u2014 Conyers",
+      "address": "1280 Dogwood Dr SE Conyers, GA",
+      "area": "Conyers",
+      "nextAvailableTime": "12:00 PM",
+      "nextAvailableRaw": "12:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-27T10:56:34.309470",
+      "scrapeTimeDisplay": "10:56 AM",
+      "scrapeDate": "2026-10-27",
+      "locationName": "Piedmont UC \u2014 Barrow",
+      "address": "340 Exchange Boulevard Bethlehem, GA",
+      "area": "Barrow",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-27T10:56:34.309470",
+      "scrapeTimeDisplay": "10:56 AM",
+      "scrapeDate": "2026-10-27",
+      "locationName": "Piedmont UC \u2014 Hiram",
+      "address": "5749 Wendy Bagwell Parkway Hiram, GA",
+      "area": "Hiram",
+      "nextAvailableTime": "12:00 PM",
+      "nextAvailableRaw": "12:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-27T10:16:37.765053",
+  "lastUpdated": "2026-10-27T11:16:33.482285",
   "threshold_minutes": 45
 }
