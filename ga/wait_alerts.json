@@ -143844,8 +143844,34 @@
       "minutesOut": 49,
       "hoursOut": 0.8,
       "sameDaySlots": 5
+    },
+    {
+      "scrapeTime": "2026-10-30T17:55:22.568185",
+      "scrapeTimeDisplay": "5:55 PM",
+      "scrapeDate": "2026-10-30",
+      "locationName": "Piedmont UC \u2014 Grayson",
+      "address": "2594 Loganville Hwy Lilburn, GA",
+      "area": "Grayson",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 50,
+      "hoursOut": 0.8,
+      "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-10-30T17:55:22.568185",
+      "scrapeTimeDisplay": "5:55 PM",
+      "scrapeDate": "2026-10-30",
+      "locationName": "Piedmont UC \u2014 Jefferson",
+      "address": "528 Panther Drive Jefferson, GA",
+      "area": "Jefferson",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 50,
+      "hoursOut": 0.8,
+      "sameDaySlots": 2
     }
   ],
-  "lastUpdated": "2026-10-30T17:17:12.383308",
+  "lastUpdated": "2026-10-30T18:17:08.473806",
   "threshold_minutes": 45
 }
