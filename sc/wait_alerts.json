@@ -14125,9 +14125,23 @@
       "minutesOut": 69,
       "hoursOut": 1.1,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-30T08:19:34.211786",
+      "scrapeTimeDisplay": "8:19 AM",
+      "scrapeDate": "2026-10-30",
+      "locationName": "Prisma UC \u2014 Duncan",
+      "systemName": "Prisma Health Urgent Care",
+      "address": "1515 E Main Street 29334, SC",
+      "area": "Duncan",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 100,
+      "hoursOut": 1.7,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-29T20:19:32.166036",
+  "lastUpdated": "2026-10-30T08:19:34.211786",
   "threshold_minutes": 60,
   "market": "SC"
 }
