@@ -143675,8 +143675,86 @@
       "minutesOut": 79,
       "hoursOut": 1.3,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-30T14:56:08.302145",
+      "scrapeTimeDisplay": "2:56 PM",
+      "scrapeDate": "2026-10-30",
+      "locationName": "Piedmont UC \u2014 West Cobb",
+      "address": "2505 Dallas Hwy Marietta, GA",
+      "area": "West Cobb",
+      "nextAvailableTime": "4:30 PM",
+      "nextAvailableRaw": "16:30:00",
+      "minutesOut": 94,
+      "hoursOut": 1.6,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-30T14:56:08.302145",
+      "scrapeTimeDisplay": "2:56 PM",
+      "scrapeDate": "2026-10-30",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 64,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-30T14:56:08.302145",
+      "scrapeTimeDisplay": "2:56 PM",
+      "scrapeDate": "2026-10-30",
+      "locationName": "Piedmont UC \u2014 Lithonia",
+      "address": "7231 Rockbridge Road Lithonia, GA",
+      "area": "Lithonia",
+      "nextAvailableTime": "4:15 PM",
+      "nextAvailableRaw": "16:15:00",
+      "minutesOut": 79,
+      "hoursOut": 1.3,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-30T14:56:08.302145",
+      "scrapeTimeDisplay": "2:56 PM",
+      "scrapeDate": "2026-10-30",
+      "locationName": "Piedmont UC \u2014 Columbus Uptown",
+      "address": "101 13th Street Suite 200 Columbus, GA",
+      "area": "Columbus Uptown",
+      "nextAvailableTime": "4:15 PM",
+      "nextAvailableRaw": "16:15:00",
+      "minutesOut": 79,
+      "hoursOut": 1.3,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-30T14:56:08.302145",
+      "scrapeTimeDisplay": "2:56 PM",
+      "scrapeDate": "2026-10-30",
+      "locationName": "Piedmont UC \u2014 Oconee",
+      "address": "1305 Jennings Mill Road Suite 120 Watkinsville, GA",
+      "area": "Oconee",
+      "nextAvailableTime": "4:07 PM",
+      "nextAvailableRaw": "16:07:00",
+      "minutesOut": 71,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-30T14:56:08.302145",
+      "scrapeTimeDisplay": "2:56 PM",
+      "scrapeDate": "2026-10-30",
+      "locationName": "Piedmont UC \u2014 Kennesaw Bells Ferry",
+      "address": "4282 Bells Ferry Road NW Kennesaw, GA",
+      "area": "Kennesaw Bells Ferry",
+      "nextAvailableTime": "3:45 PM",
+      "nextAvailableRaw": "15:45:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-30T14:17:20.862470",
+  "lastUpdated": "2026-10-30T15:17:03.496392",
   "threshold_minutes": 45
 }
