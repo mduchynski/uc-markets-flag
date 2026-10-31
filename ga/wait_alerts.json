@@ -145014,8 +145014,34 @@
       "minutesOut": 95,
       "hoursOut": 1.6,
       "sameDaySlots": 4
+    },
+    {
+      "scrapeTime": "2026-10-31T17:55:16.605576",
+      "scrapeTimeDisplay": "5:55 PM",
+      "scrapeDate": "2026-10-31",
+      "locationName": "Piedmont UC \u2014 Covington",
+      "address": "5239 Highway 278 Covington, GA",
+      "area": "Covington",
+      "nextAvailableTime": "7:00 PM",
+      "nextAvailableRaw": "19:00:00",
+      "minutesOut": 65,
+      "hoursOut": 1.1,
+      "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-10-31T17:55:16.605576",
+      "scrapeTimeDisplay": "5:55 PM",
+      "scrapeDate": "2026-10-31",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 50,
+      "hoursOut": 0.8,
+      "sameDaySlots": 3
     }
   ],
-  "lastUpdated": "2026-10-31T17:17:09.811022",
+  "lastUpdated": "2026-10-31T18:16:32.608577",
   "threshold_minutes": 45
 }
